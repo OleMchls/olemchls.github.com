@@ -20,7 +20,7 @@ Today I want to blog some programming stuff, its some time ago I do that. I give
 
 Fancybox init:
 
-[javascript]
+```javascript
 $(“a.gallery”).fancybox({
 ‘onComplete’ : function(arg) {
 // Here does the magic starts
@@ -34,16 +34,16 @@ $(‘‘)
 $(‘.cloud-zoom’).CloudZoom();
 }
 });
-[/javascript]
+```
 Now deactivate the boarders in cloud-zoom.css:
 
-[css]
+```css
 /* This is the zoom window. */
 .cloud-zoom-big {
 /*border:4px solid #ccc;*/
 overflow:hidden;
 }
-[/css]
+```
 
 Thats it. Have fun!
 

@@ -36,7 +36,7 @@ Nice, isn’t it?
 
 And it’s really easy to use, look
 
-[javascript]
+```javascript
 // made it accessible in global scope
 // and give a target (in jQuery notation)
 var vConsole = new visualconsole(‘#debug’);
@@ -45,7 +45,7 @@ var vConsole = new visualconsole(‘#debug’);
 vConsole.log(“foo”);
 vConsole.log(“bar”, ‘bazID’);
 vConsole.update(‘bazID’, ‘foobar’);
-[/javascript]
+```
 
 For me the most important feature is that not like the browser console. Which creates a new line for every entry, you can update existing entries. As you can see in the example the mouse position on the site.[![VisualConsole UML][2]][2]
 VisualConsole UML

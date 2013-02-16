@@ -28,7 +28,7 @@ In this example we have a little Object/Class/Function, whatever ![;)][1] which 
 
 But lets take a look at the code:
 
-[javascript]
+```javascript
 var TemplatingStuff = function(){
 /** some code **/
 var cache = new function(){
@@ -49,11 +49,11 @@ cacheData = {};
 /** some code **/
 }
 }
-[/javascript]
+```
 
 Yeah thats it, define a function as usual and add a new in front of it, and assign it to a var, so you can use your cache in the rest of the ‘object’/class/function, whatever ![;)][1] And of cause you can also use it with prototyping, but here its public, not private like in the first example.
 
-[javascript]
+```javascript
 TemplatingStuff.prototype.cache = new function(){
 var cacheData = {};
 this.set = function(name, data){
@@ -69,7 +69,7 @@ this.flush = function(){
 cacheData = {};
 };
 };
-[/javascript]
+```
 
 Ohh and if you’re curious what I’m doing there with templating stuff in JavaScript, be prepared. Maybe I’ll publish it later, just let me say; I’ll call it UrgeEngine.
 

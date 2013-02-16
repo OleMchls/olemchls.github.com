@@ -37,9 +37,9 @@ And you can also download a﻿﻿ variety of others.
 
 You can try these themes with a single parameter on you netbeans call, like:
 
-[bash]
+```bash
 $ /bin/sh “path/to/netbeans/bin/netbeans” –laf com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel
-[/bash]
+```
 
 You want to keep these theme? Just set it in your *netbeans.conf*, its located in your NetBeans etc folder. Just add the –laf parameter to ﻿*netbeans\_default\_options*
 
