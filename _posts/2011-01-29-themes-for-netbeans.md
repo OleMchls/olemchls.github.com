@@ -20,20 +20,20 @@ It’s weekend, so there’s time for own projects and if you do like me, you al
 
 While I clicked through the NetBeans wiki *(Do you know that NetBeans 7 will come with git support?)*, I discovered that netbeans can also handle some kind like themes, called Look and Feel in Java. And you can easily switch between a few themes without any download anything, all the look and feel’s came with the JDK. I tried a few, but most of the things I downloaded are broken in any kind. So I will show you the inbuild ones. take a look!
 
-[![GTK - NetBeans IDE 6.9.1][2]][2]
+[![GTK - NetBeans IDE 6.9.1][1]][1]
 GTK - NetBeans IDE 6.9.1
 
-[![Metal - NetBeans IDE 6.9.1][3]][3]
+[![Metal - NetBeans IDE 6.9.1][2]][2]
 Metal - NetBeans IDE 6.9.1
 
-[![Nimbus - NetBeans IDE 6.9.1][4]][4]
+[![Nimbus - NetBeans IDE 6.9.1][3]][3]
 Nimbus - NetBeans IDE 6.9.1
 
 And you can also download a﻿﻿ variety of others.
 
- []: http://blog.codestars.eu/wp-content/uploads/2011/01/playground-NetBeans-IDE-6.9.1_003.png
- []: http://blog.codestars.eu/wp-content/uploads/2011/01/playground-NetBeans-IDE-6.9.1_004.png
- []: http://blog.codestars.eu/wp-content/uploads/2011/01/playground-NetBeans-IDE-6.9.1_006.png
+ [1]: /assets/uploads/2011/01/playground-NetBeans-IDE-6.9.1_003.png
+ [2]: /assets/uploads/2011/01/playground-NetBeans-IDE-6.9.1_004.png
+ [3]: /assets/uploads/2011/01/playground-NetBeans-IDE-6.9.1_006.png
 
 You can try these themes with a single parameter on you netbeans call, like:
 

@@ -28,9 +28,9 @@ Zum zweiten wäre da ein gif-Generator, ihr kennt das sicher auch, ihr habt irge
 
 Dann möchte ich euch nach der kurzen Einführung in X-mailer gestern heute einmal auf den aktuellen stand der Dinge bringen: Es steht momentan die Startseite, mit einem kurzen Einleitungstext und die Seite für die Vorlagen, das gesamt Grundgerüst incl. Smarty und einer schönen DB-Klasse (danke tom) stehen natürlich auch schon. Zum Abschluss dann vielleicht auch schon mal ein kleiner Screenshot von der “draftspage” (ACHTUNG: PRE PRE ALPHA!)
 
-[![X-Mailer drafts alpha][4]][4]
+[![X-Mailer drafts alpha][3]][3]
 
- []: http://blog.codestars.eu/wp-content/uploads/2009/09/codestars_drafts_screen.jpg
+ [3]: /assets/uploads/2009/09/codestars_drafts_screen.jpg
 
 ToDo Für die Draftspage sind noch:
 

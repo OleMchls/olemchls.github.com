@@ -18,12 +18,12 @@ That´s also the reason why it was so damn quiet the last month. And I hope, tha
 
  [1]: http://www.rm.fm
 
-[![RauteMusik.FM Homepage][3]][3]
+[![RauteMusik.FM Homepage][2]][2]
 RauteMusik.FM Homepage
 
 Hope you all like this site. It tooks a lot of work for my and my friends (Tom, Martin and Mike).
 
- []: http://blog.codestars.eu/wp-content/uploads/2011/05/RauteMusik.FM_.png
+ [2]: /assets/uploads/2011/05/RauteMusik.FM_.png
 
 Now I can also write about the daily work from time to time. Because its not top secret anymore =)
 

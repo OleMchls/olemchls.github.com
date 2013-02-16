@@ -37,12 +37,12 @@ And the result is AWESOME (more or less ![;)][3] )
 
  [3]: http://blog.codestars.eu/wp-includes/images/smilies/icon_wink.gif
 
-[![Autocompletetion in a loop!][5]][5]
+[![Autocompletetion in a loop!][4]][4]
 Code Hinting in a foreach
 
 And the complete example you’ll find here: [download id="2"]
 
- []: http://blog.codestars.eu/wp-content/uploads/2010/12/loop_code_suggestion.png
+ [4]: /assets/uploads/2010/12/loop_code_suggestion.png
 
 See ya!
 

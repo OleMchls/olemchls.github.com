@@ -12,10 +12,10 @@ tags:
 
 Manchmal wundere ich mich doch, über welche Suchbegriffe Leute meinen Blog finden. Hier mal ein Einblick in die “Top Searches”
 
-[![Top Searches 07.04.2010][2]][2]
+[![Top Searches 07.04.2010][1]][1]
 Top Searches 07.04.2010
 
 Man beachte besonders den 4. Punkt xD
 
- []: http://blog.codestars.eu/wp-content/uploads/2010/04/zend.png
+ [1]: /assets/uploads/2010/04/zend.png
 

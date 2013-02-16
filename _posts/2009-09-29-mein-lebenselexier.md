@@ -13,9 +13,9 @@ tags:
 
 Ohne Worte …
 
-[![redbull_tower][2]][2]
+[![redbull_tower][1]][1]
 redbull_tower
 
 
 
- []: http://blog.codestars.eu/wp-content/uploads/2009/09/SNC00136.jpg
+ [1]: /assets/uploads/2009/09/SNC00136.jpg
