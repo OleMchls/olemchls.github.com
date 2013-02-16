@@ -700,6 +700,7 @@ pre {
   }
   .unit-article .unit-head-inner,
   .unit-article .entry-content,
+  .unit-article .entry-content img,
   .unit-article .misc-content,
   .unit-article .unit-foot-inner {
     width: 26.25em;
@@ -726,6 +727,7 @@ pre {
   }
   .unit-article .unit-head-inner,
   .unit-article .entry-content,
+  .unit-article .entry-content img,
   .unit-article .misc-content,
   .unit-article .unit-foot-inner {
     width: 43.125em;
@@ -771,6 +773,7 @@ pre {
   }
   .unit-article .unit-head-inner,
   .unit-article .entry-content,
+  .unit-article .entry-content img,
   .unit-article .misc-content,
   .unit-article .unit-foot-inner {
     width: 43.125em;
@@ -802,6 +805,7 @@ pre {
 	Huge-screen layout 
 */
 @media only screen and (min-width: 1410px) {
+  div.article_body img {width:100%;}
   .the-header .unit-inner {
     width: 88.125em;
   }
@@ -811,7 +815,10 @@ pre {
   .the-header .nav-global {
     width: 43.125em;
   }
-  .unit-article .unit-head-inner, .unit-article .entry-content, .unit-article .misc-content {
+  .unit-article .unit-head-inner,
+  .unit-article .entry-content,
+  .unit-article .entry-content img,
+  .unit-article .misc-content {
     width: 43.125em;
   }
   .unit-article .unit-foot-inner {
