@@ -29,11 +29,10 @@ Nice, isn’t it?
 And it’s really easy to use, look
 
 ```javascript
-// made it accessible in global scope
-// and give a target (in jQuery notation)
-var vConsole = new visualconsole(‘#debug’);
-
-// now you can use it like this
+made it accessible in global scope
+and give a target (in jQuery notation)
+var vConsole = new visualconsole(‘debug’);
+now you can use it like this
 vConsole.log(“foo”);
 vConsole.log(“bar”, ‘bazID’);
 vConsole.update(‘bazID’, ‘foobar’);
@@ -48,7 +47,7 @@ And yeha we’re so used to UML so I’ll offer a UML for this too. Greets to my
 
  [3]: http://blog.codestars.eu/wp-includes/images/smilies/icon_wink.gif
 
-But there are a few things to note, first this tool requires jQuery, only strings can be displayed correctly and note there’s no scrolling in it. But feel free to add it, I will add it as soon as I needed it ![:)][1] Ohh and I nearly missed it to give you the download: [download id="3"]
+But there are a few things to note, first this tool requires jQuery, only strings can be displayed correctly and note there’s no scrolling in it. But feel free to add it, I will add it as soon as I needed it ![:)][1] Ohh and I nearly missed it to give you the download: **broken**
 
 Hope you enjoy it. If you do, don’t forget to share this with all your friends via twitter or share it on Facebook
 

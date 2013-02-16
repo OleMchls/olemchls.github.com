@@ -36,10 +36,11 @@ Fangen wir also an!
 
 Die absolut beste möglichkeit ein riesen Stück performance zu gewinnen! Einfach die folgende config um diese Zeiler erweitern
 
-`/etc/apache2/mods-enabled/deflate.conf`
+```bash
+/etc/apache2/mods-enabled/deflate.conf
+```
 
-`
-
+```bash
 AddOutputFilterByType DEFLATE text/html
 AddOutputFilterByType DEFLATE text/plain
 AddOutputFilterByType DEFLATE text/xml
@@ -51,8 +52,7 @@ AddOutputFilterByType DEFLATE image/png
 AddOutputFilterByType DEFLATE image/gif
 AddOutputFilterByType DEFLATE image/jpg
 AddOutputFilterByType DEFLATE image/jpeg
-
-`
+```
 
 Die Datei kann natürlich um jeden beliebigen MIME-Type noch erweitert werden. So das war es auch schon, jetzt noch einmal den Apache neustarten und ihr werdet es sehen, wenn ihr jetzt mal eure Seite betrachtet, es wird eine menge gebracht haben. ![;)][1] Versprochen!
 

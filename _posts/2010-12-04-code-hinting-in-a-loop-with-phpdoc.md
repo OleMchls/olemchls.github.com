@@ -40,7 +40,7 @@ And the result is AWESOME (more or less ![;)][3] )
 [![Autocompletetion in a loop!][4]][4]
 Code Hinting in a foreach
 
-And the complete example you’ll find here: [download id="2"]
+And the complete example you’ll find here: **broken**
 
  [4]: /assets/uploads/2010/12/loop_code_suggestion.png
 

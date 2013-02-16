@@ -25,12 +25,14 @@ Hier wird es jetzt schon etwas Tricky, denn sobald ihr Content mit Expire-Head
 
 Also los geht es,
 
-`/etc/apache2/mods-enabled/expires.conf`
+```bash
+/etc/apache2/mods-enabled/expires.conf
+```
 
 bei mir gab es diese Datei anfangs gar nicht, also einfach anlegen.
-`
+
+```bash
 ExpiresActive on
-####ExpiresDefault "access plus 2 months"
 ExpiresByType image/x-icon "access plus 1 month"
 ExpiresByType image/png "access plus 1 month"
 ExpiresByType image/jpg "access plus 1 month"
@@ -47,7 +49,7 @@ ExpiresByType video/x-ms-wmv "access plus 1 month"
 ExpiresByType application/x-shockwave-flash "access 1 month"
 ExpiresByType text/css "access plus 1 hour"
 ExpiresByType text/javascript "access plus 1 hour"
-`
+```
 
 Ich denke die datei ist quasi selbsterklärend. Nächste Woche geht es dann weiter mit HTTP-Requests und Content-Compressors ![;)][1]
 
