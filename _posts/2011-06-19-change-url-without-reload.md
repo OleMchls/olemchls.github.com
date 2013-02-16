@@ -29,11 +29,13 @@ Alright!
 
 You may think it has something to do with the window.location object. Sorry, it’s not! The object we’re looking at now is the window.history object.
 
-```javascriptwindow.history.pushState(
+```javascript
+window.history.pushState(
 {
 ‘test’:”oh i am a test text :O”,
 ‘stuff’:”some stuff here”
-},”History title”,”/?changed”);```
+},”History title”,”/?changed”);
+```
 
 So what do we have here?
 
@@ -41,10 +43,12 @@ The first parameter is an object which we’ll parse later, the second one is si
 
 So lets go one step further and parse this object and also detecting and reacting on state changes.
 
-```javascriptwindow.onpopstate = function(event){
+```javascript
+window.onpopstate = function(event){
 alert(event.state.test);
 alert(event.state.stuff);
-}```
+}
+```
 
 So i think this is pretty self explanatory, the onpopstate event get triggered if you move forward or backward in your browser history.
 The state object contains the stuff you pushed in there. You’ll also find the state name somewhere in the event object.
