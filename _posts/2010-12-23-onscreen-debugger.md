@@ -24,14 +24,6 @@ Today I want to show you a little nice tool which I coded today, it’s not *eye
 
 I’m not a **desktop** game developer, but I wanna have such a tool, too. So I take a few hours and made one, and its cool. Want to see a demo? Here it is:
 
-
-
-
-
-
-
-
-
 Nice, isn’t it?
 
 And it’s really easy to use, look
