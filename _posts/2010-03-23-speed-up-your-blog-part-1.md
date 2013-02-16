@@ -54,7 +54,4 @@ AddOutputFilterByType DEFLATE image/jpg
 AddOutputFilterByType DEFLATE image/jpeg
 ```
 
-Die Datei kann natürlich um jeden beliebigen MIME-Type noch erweitert werden. So das war es auch schon, jetzt noch einmal den Apache neustarten und ihr werdet es sehen, wenn ihr jetzt mal eure Seite betrachtet, es wird eine menge gebracht haben. ![;)][1] Versprochen!
-
- [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_wink.gif
-
+Die Datei kann natürlich um jeden beliebigen MIME-Type noch erweitert werden. So das war es auch schon, jetzt noch einmal den Apache neustarten und ihr werdet es sehen, wenn ihr jetzt mal eure Seite betrachtet, es wird eine menge gebracht haben. ;) Versprochen!

@@ -17,9 +17,7 @@ tags:
 
 Hallo Hallo,
 
-So nun nach ein wenig Abstinenz meinerseits mal wieder für die 2 Vistis pro Tag und für mich Bloggen ![:)][1] Viel spannendes ist nicht passiert, das Update verhält sich (erwartungsgemäß) ruhig und das hat mir die Zeit verschafft ein paar Kleinigkeiten für die neue Version und ein paar Bugfixes für die Aktuelle zu schreiben. Einen weiteren Teil meines Tages durfte ich mit damit verbringen viel zu ungenau geprüfte Tickets selbst zu überprüfen, um dann am ende festzustellen das der Fehler gar nicht in der Programmlogik, sonder davor, sitzt.
-
- [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
+So nun nach ein wenig Abstinenz meinerseits mal wieder für die 2 Vistis pro Tag und für mich Bloggen :) Viel spannendes ist nicht passiert, das Update verhält sich (erwartungsgemäß) ruhig und das hat mir die Zeit verschafft ein paar Kleinigkeiten für die neue Version und ein paar Bugfixes für die Aktuelle zu schreiben. Einen weiteren Teil meines Tages durfte ich mit damit verbringen viel zu ungenau geprüfte Tickets selbst zu überprüfen, um dann am ende festzustellen das der Fehler gar nicht in der Programmlogik, sonder davor, sitzt.
 
 In meinem Buch ging es dann heute um die Implementierung von PHP in C und wie das mit der Zend Engine gelöst ist, dabei gab es viel, sehr viel, vielleicht sogar zu viel C Code zu sehen. Der für mich als (Web-)Entwickler im ersten Lehrjahr leider NULL durchschaubar war. Trotzdem interessant war es allemal. Ich frage mich wie viele PHP Programmierer wissen was ein “Lexer” ist und was dieser tut und in wie viele logische schritte man das Interpreten des PHP-Codes logisch einteilen kann. Das war auch das letzte Kapitel. Eine kurze Rezession dazu von mir.
 
@@ -30,4 +28,3 @@ Und dann konnte ich mein lang ersehntes Javascript Buch anfangen, momentan bin i
 Das soll’s auch für heute gewesen sein,
 
 So long…
-

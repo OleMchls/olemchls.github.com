@@ -25,10 +25,6 @@ Besonders hart finde ich:
 1. Gegendert? Ich liebe denglisch!
 2. 3 Typen, wie zur hölle wollte die aus 3 personen gleichviele männer und frauen machen? 3%2 == 0
 
-Damit hätten wir den bogen zu PHP auch wieder geschlagen und belassen es heute einmal bei einem kurzen post ![:)][1] Denn ich hoffe morgen gibt es so viel zu erzählen das ich platz sparen muss ![;)][2]
-
- [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
- [2]: http://blog.codestars.eu/wp-includes/images/smilies/icon_wink.gif
+Damit hätten wir den bogen zu PHP auch wieder geschlagen und belassen es heute einmal bei einem kurzen post :) Denn ich hoffe morgen gibt es so viel zu erzählen das ich platz sparen muss ;)
 
 So long…
-

@@ -51,7 +51,4 @@ ExpiresByType text/css "access plus 1 hour"
 ExpiresByType text/javascript "access plus 1 hour"
 ```
 
-Ich denke die datei ist quasi selbsterklärend. Nächste Woche geht es dann weiter mit HTTP-Requests und Content-Compressors ![;)][1]
-
- [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_wink.gif
-
+Ich denke die datei ist quasi selbsterklärend. Nächste Woche geht es dann weiter mit HTTP-Requests und Content-Compressors ;)

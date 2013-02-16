@@ -30,12 +30,8 @@ Now I can also write about the daily work from time to time. Because its not top
 There is also a YouTube video where you can watch us during the release.
 
 
-
 RauteMusik Developers during the release! Yep! I’m in there too ^^
 
-Hope you all like it, and please leave a comment if you do so ![:)][3] If not just stfu!
-
- [3]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
+Hope you all like it, and please leave a comment if you do so :) If not just stfu!
 
 Bye!
-

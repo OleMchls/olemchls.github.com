@@ -23,9 +23,7 @@ Today I want to update to jQuery 1.4.4 but there was a Problem, with my self wri
 jquery: “1.4.4″,
 ```
 
-This is one attribute of the jQuery Object. But this is a String… So how should I check against a String, I dont want do check for a Special version, I want so check if the Used source version is greater then another. But we already have the string so it shouldn’t be that harx to find it out. And to be honest, it isn’t that hard ![:)][1] Just a bit JavaScript magic:
-
- [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
+This is one attribute of the jQuery Object. But this is a String… So how should I check against a String, I dont want do check for a Special version, I want so check if the Used source version is greater then another. But we already have the string so it shouldn’t be that harx to find it out. And to be honest, it isn’t that hard :) Just a bit JavaScript magic:
 
 ```javascript
 if (parseInt($().jquery.replace(/./g,”)) > 144)  {
@@ -36,4 +34,3 @@ if (parseInt($().jquery.replace(/./g,”)) > 144)  {
 Here i checked against the jQuery version *1.4.4* if you want to check against for example *1.2.1* it “*121*” but here Cpt. Obvious was at work. Ok just kidding, thats all.
 
 See Ya!
-

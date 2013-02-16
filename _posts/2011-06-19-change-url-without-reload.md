@@ -13,9 +13,7 @@ tags:
   - Pushstate
 ---
 
-Hello and welcome to the show ![;)][1]
-
- [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_wink.gif
+Hello and welcome to the show ;)
 
 I’m the new guy in the hood, i’ll also mostly talk about javascript development, maybe some server-side stuff and, if somebody cares, also 3D related stuff. Alright lets hit it.
 
@@ -60,4 +58,3 @@ and stay tuned to this blog for bleeding edge web technology informations.
  [2]: http://twitter.com/#!/LJ_1102 "twitter"
 
 see ya!
-

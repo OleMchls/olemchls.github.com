@@ -22,9 +22,7 @@ Deshalb konnte ich am Freitag nichts mehr Posten weil ich direkt nach der Arbeit
 
 Also heute haben wir die ersten LIVE Server mit dem neue Stämme Update versorgt. Da wir was an der Passwortverschlüsselung gedreht haben gab’s es kurzfristig Probleme sich als bereits registrierter Spieler auf einer neuen Welt anzumelden oder aber sich  über einen Link einzuloggen. Aber das habe ich dann Schnell behoben. Leider hat mich das Update auch um mein Buch gebracht und so gibt’s heute keine neuen Super theoretischen Kenntnisse ^^ Aber ich hoffe das geht bald los.
 
-Dann gibts es nochmehr neuigkeiten, seit heute ist es offiziell, das 3. Spiel von Innogames hat einen namen, Story und sogar ein paar bilder. Ich muss sagen da ich ja auch schon die Office Beta gespielt habe, Super Cool vorallem die Götter sind echt ne klasse idee ![:)][1] Nur die bösen Sysadmins haben mir direkt am 2. Tag um meine Stadt gebracht weil ich zu doof war feste zu feiern, hat sich irgendwie gut versteckt der knopf.
-
- [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
+Dann gibts es nochmehr neuigkeiten, seit heute ist es offiziell, das 3. Spiel von Innogames hat einen namen, Story und sogar ein paar bilder. Ich muss sagen da ich ja auch schon die Office Beta gespielt habe, Super Cool vorallem die Götter sind echt ne klasse idee : Nur die bösen Sysadmins haben mir direkt am 2. Tag um meine Stadt gebracht weil ich zu doof war feste zu feiern, hat sich irgendwie gut versteckt der knopf.
 
 Das soll es auch für heute gewesen sein, dann hoffentlich ab jetzt wieder täglich neue Updates
 

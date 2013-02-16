@@ -19,9 +19,7 @@ Moin Moin,
 
 Auf vielfachen Wunsch hin habe ich den ersten Entwurf meines “WorkTimeCounters” (der in C# mit .NET Framework geschrieben war) überarbeitet -> komplett weggeschmissen und ihn neu in Java implementiert.
 
-Er steht jetzt in einer Beta Version zur Verfügung, wer mag darf ihn gerne testen. Über Feedback jeglicher art wäre ich natürlich dankbar. Auch Featurerequests nehme ich (noch) an ![:)][1]
-
- [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
+Er steht jetzt in einer Beta Version zur Verfügung, wer mag darf ihn gerne testen. Über Feedback jeglicher art wäre ich natürlich dankbar. Auch Featurerequests nehme ich (noch) an :)
 
 Geplant sind noch folgende Features;
 
@@ -37,5 +35,4 @@ In diesem Zusammenhang habe ich auch gleich eine neue [Download Section][2] hier
 
 Viel Spaß beim testen, So long…….
 
-P.S.: Falls mein Arbeitgeber mitliest, **ICH** benutze dieses Tool nicht! ![:)][1]
-
+P.S.: Falls mein Arbeitgeber mitliest, **ICH** benutze dieses Tool nicht! :)

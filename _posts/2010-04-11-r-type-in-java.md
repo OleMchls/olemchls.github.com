@@ -18,11 +18,6 @@ Ich spiele grade ein wenig weiter mit JAVA herum und habe da ein ganz nettes tut
 
 Dabei herumgekommen ist ein erster gehversuch, der dem Klassiker R-Type nachempfunden ist, hier ein video dazu:
 
-
-
-Natürlich lässt sich das raumschiff mit der Tastatur steuern. Mal sehen wie weit ich damit noch komme, vielleicht mann man ja demnächst auch irgendwann mal schießen und dann gibt’s vielleicht auch irgendwann nochmal gegener ![:)][2]
-
- [2]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
+Natürlich lässt sich das raumschiff mit der Tastatur steuern. Mal sehen wie weit ich damit noch komme, vielleicht mann man ja demnächst auch irgendwann mal schießen und dann gibt’s vielleicht auch irgendwann nochmal gegener :)
 
 So long…
-

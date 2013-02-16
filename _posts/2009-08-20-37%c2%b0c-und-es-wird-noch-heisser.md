@@ -13,9 +13,7 @@ tags:
   - Tools
 ---
 
-… das ist mein Absoluter Lieblings Singstar Song ![:)][1] Aber das Wetter ist gar nicht mein Fall, aber an diesen tagen weiß ich ganz genau warum ich letztes Jahr 300 Euro in eine Klimaanlage investiert habe.
-
- [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
+… das ist mein Absoluter Lieblings Singstar Song :) Aber das Wetter ist gar nicht mein Fall, aber an diesen tagen weiß ich ganz genau warum ich letztes Jahr 300 Euro in eine Klimaanlage investiert habe.
 
 Heute Abend haben wir es geschafft nach 3 tagen Power coding haben wir endlich das neue #Musik Tool fertiggestellt und eine Betaversion online stellen können. Diese Betaversion ist jetzt sogar ohne eine Änderung zum Livesystem geworden.
 
@@ -25,7 +23,7 @@ Soweit zu den News von #Musik. Des weiteren laufen jetzt alle Stämme Server auf
 >
 > Und das sogar ziemlich gut.
 
-Nach den letzten kleinen fixes in der Testwelt gab es eigentlich keine Größeren Probleme, außer das ich heute den Spielkern Kurzzeitig mit fehlenden Klammern tot gesetzt habe, und das auf den Livewelten ![:)][1] Aber das war schnell behoben, außerdem will ich mal anmerken das es nicht meine Schuld war. Dazu ein Beispiel:
+Nach den letzten kleinen fixes in der Testwelt gab es eigentlich keine Größeren Probleme, außer das ich heute den Spielkern Kurzzeitig mit fehlenden Klammern tot gesetzt habe, und das auf den Livewelten :) Aber das war schnell behoben, außerdem will ich mal anmerken das es nicht meine Schuld war. Dazu ein Beispiel:
 
     if ($condition)
        do_important_things($with_this);
@@ -48,4 +46,3 @@ By the way: Mal sehen ob mir jemand n paar Fragen beantworten kann bzw. will:
 2.  Zend, Cake oder Codeigniter?
 
 So long…
-

@@ -49,17 +49,12 @@ This is pretty awesome heh? And because we at Digital Pioneers love Open Source,
  [11]: /assets/uploads/2012/05/Screen-Shot-2012-05-27-at-10.19.19-AM.jpg
  [12]: https://github.com/github/hubot-scripts
 
-The bot is also able to list app and clouds, but this features are not that amazing like the deployment thingy, just want to mention it here, to be complete ![:)][13]
-
- [13]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
+The bot is also able to list app and clouds, but this features are not that amazing like the deployment thingy, just want to mention it here, to be complete :)
 
 What about you? You also love OpenSource? You also love these devops thingy? **[WE ARE FUCKING HIRING!][14]** We’re serious, we are looking for you as an *DevOps Engineer* or *Software Developer*! So come on and be my co-worker and join Digital Pioneers N.V.!
 
  [14]: http://digitalpioneers.de/jobs/
 
- 
-
 UPDATE **May 30, 2012**
 
-This scripts got finally fully merged into hubot-scripts (). So please feel free to contribute, use and love it!
-
+This scripts got finally fully merged into [hubot-scripts][12]. So please feel free to contribute, use and love it!

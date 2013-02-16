@@ -14,9 +14,7 @@ tags:
 
 Hallo liebe Leser,
 
-einen wunderschönen Freitag Abend euch ![:)][1] Heute möchte ich mich kurz halten und meinen Momenten absoluten Lieblingssong vorstellen:
-
- [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
+einen wunderschönen Freitag Abend euch :) Heute möchte ich mich kurz halten und meinen Momenten absoluten Lieblingssong vorstellen:
 
 > Paul Kalkbrenner – Sky and Sand
 >  
@@ -26,7 +24,4 @@ einen wunderschönen Freitag Abend euch ![:)][1] Heute möchte ich mich kurz hal
 
 
  
-Der läuft bei mir rauf und runter immer wieder und immer wieder, er lädt einfach zum träumen und entspannen ein. Auch beim entwickeln zum kurzen abschalten sehr hilfreich ![;)][2]
-
- [2]: http://blog.codestars.eu/wp-includes/images/smilies/icon_wink.gif
-
+Der läuft bei mir rauf und runter immer wieder und immer wieder, er lädt einfach zum träumen und entspannen ein. Auch beim entwickeln zum kurzen abschalten sehr hilfreich ;)
