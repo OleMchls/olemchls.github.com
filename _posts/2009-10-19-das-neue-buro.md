@@ -13,7 +13,7 @@ Hallo liebe Leser und (irgendwann vielleicht auch mal) Leserinnen,
 
 Heute war der erste Tag in unserem neuen Büro im Harburger Hafen im Channel 4. ganz erstaunlich wie schwierig es einem gemacht wird wenn man nur die Hausnummer und NICHT die Channelnummer kennt (und seine Brille nicht dabei hat).
 
-Nachdem ich also heute Morgen 10 Minuten umhergeirrt bin, habe ich dann jemanden gefunden den ich schon mal gesehen habe. Also hinterher, und *zack*, war ich auch schon im Aufzug zu unserem neuen Büro. Der Aufzug ist nicht gerade der schnellste, aber sieht schick aus ![:)][1] Das ist wie mit den Frauen aus dem Fernsehen \*duck\*lauf*
+Nachdem ich also heute Morgen 10 Minuten umhergeirrt bin, habe ich dann jemanden gefunden den ich schon mal gesehen habe. Also hinterher, und *zack*, war ich auch schon im Aufzug zu unserem neuen Büro. Der Aufzug ist nicht gerade der schnellste, aber sieht schick aus ![:)][1] Das ist wie mit den Frauen aus dem Fernsehen \*duck\*lauf\*
 
  [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
 

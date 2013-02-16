@@ -17,10 +17,10 @@ jaja ihr werdet es kaum glauben, was bekommt man wenn man nach PHP googlelt ….
 
  [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
 
-> **modulare fenster java**
->
-> **
-> **
+* **modulare fenster java**
+* asdsd
+* **asd**
+* **asfasd**
 
 googelt. Dann ist der erste hit tatsächlich codestars.eu ![:)][1] Das ist schon einmal der erste schritt in die richtige Richtung. Ich freue mich jedenfalls darüber.
 

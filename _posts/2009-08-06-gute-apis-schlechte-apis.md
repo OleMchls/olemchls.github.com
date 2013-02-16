@@ -27,9 +27,9 @@ Ein klares Nein, denn Guter Code zeichnet sich durch folgende Eigenschaften aus:
 *   Kopplungen reduzieren
 *   Code defensiv schreiben
 *   Standard-Konventionen erstellen und einhalten
-*   Namespaces*
+*   Namespaces
 
-**Zum Thema Namespaces, das Buch ist zwar über PHP 5 aber nicht so Neu das es schon PHP 5.3 Abdeckt. Hier wird noch mit Statischen Klassen gearbeitet.*
+Zum Thema Namespaces, das Buch ist zwar über PHP 5 aber nicht so Neu das es schon PHP 5.3 Abdeckt. Hier wird noch mit Statischen Klassen gearbeitet.
 
 Dann ging es weiter zum Thema Caching, auch sehr spannend. Grade der Compilercache. Na guuut der Autor hat selbst an einem PHP Compilercache mitgeschrieben, das könnte seine meinung dazu beeinflusst haben. ^^
 
