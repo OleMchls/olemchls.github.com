@@ -3,12 +3,6 @@ title: Profiling with WebKit
 author: Jan Scheurer
 layout: post
 permalink: /2011/profiling-with-webkit/
-Hide SexyBookmarks:
-  - 0
-wp_plus_one_redirect:
-  -
-Hide OgTags:
-  - 0
 dsq_thread_id:
   - 743504372
 categories:

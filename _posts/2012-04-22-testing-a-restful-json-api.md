@@ -3,12 +3,6 @@ title: Testing a restful JSON API
 author: Ole Michaelis
 layout: post
 permalink: /2012/testing-a-restful-json-api/
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-wp_plus_one_redirect:
-  -
 dsq_thread_id:
   - 746780430
 categories:

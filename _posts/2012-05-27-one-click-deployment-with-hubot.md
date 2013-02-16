@@ -3,12 +3,6 @@ title: 'One-click-deployment with Hubot &#8211; Hubot: my new mate, co-worker an
 author: Ole Michaelis
 layout: post
 permalink: /2012/one-click-deployment-with-hubot/
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-wp_plus_one_redirect:
-  -
 dsq_thread_id:
   - 743615073
 categories:

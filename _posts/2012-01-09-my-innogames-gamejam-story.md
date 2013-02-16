@@ -3,12 +3,6 @@ title: My InnoGames GameJam Story
 author: Ole Michaelis
 layout: post
 permalink: /2012/my-innogames-gamejam-story/
-Hide OgTags:
-  - 0
-Hide SexyBookmarks:
-  - 0
-wp_plus_one_redirect:
-  -
 dsq_thread_id:
   - 746805921
 categories:

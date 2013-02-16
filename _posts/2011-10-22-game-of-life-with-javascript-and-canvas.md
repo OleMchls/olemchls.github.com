@@ -3,12 +3,6 @@ title: Game of Life with JavaScript and Canvas
 author: Ole Michaelis
 layout: post
 permalink: /2011/game-of-life-with-javascript-and-canvas/
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-wp_plus_one_redirect:
-  -
 dsq_thread_id:
   - 746805904
 categories:

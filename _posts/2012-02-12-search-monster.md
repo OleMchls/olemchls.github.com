@@ -3,12 +3,6 @@ title: Search Monster
 author: Ole Michaelis
 layout: post
 permalink: /2012/search-monster/
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
-wp_plus_one_redirect:
-  -
 dsq_thread_id:
   - 1011707578
 categories:
