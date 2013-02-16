@@ -12,7 +12,6 @@ tags:
   - Shit Happens
   - Tools
 ---
-# 
 
 … das ist mein Absoluter Lieblings Singstar Song ![:)][1] Aber das Wetter ist gar nicht mein Fall, aber an diesen tagen weiß ich ganz genau warum ich letztes Jahr 300 Euro in eine Klimaanlage investiert habe.
 
@@ -23,7 +22,7 @@ Heute Abend haben wir es geschafft nach 3 tagen Power coding haben wir endlich d
 Soweit zu den News von #Musik. Des weiteren laufen jetzt alle Stämme Server auf der neuen Version 5.6 und ich muss sagen:
 
 > Joar, läuft
-> 
+>
 > Und das sogar ziemlich gut.
 
 Nach den letzten kleinen fixes in der Testwelt gab es eigentlich keine Größeren Probleme, außer das ich heute den Spielkern Kurzzeitig mit fehlenden Klammern tot gesetzt habe, und das auf den Livewelten ![:)][1] Aber das war schnell behoben, außerdem will ich mal anmerken das es nicht meine Schuld war. Dazu ein Beispiel:
@@ -36,7 +35,7 @@ Nach den letzten kleinen fixes in der Testwelt gab es eigentlich keine Größere
 Und ich so mutig wie ich nun mal bin hab da den Code den ich brauchte einfach mal dazwischen geklatscht und comittet. Ende vom Lied war leider, dass das Spiel auf unseren Servern nicht mehr laufen wollte. Wenn der Systenadmin reinkommt und fragt:
 
 > “Soll der Demon nicht mehr laufen?
-> 
+>
 > Die dingens.php bricht immer mit ‘nem Fehler ab”
 
 Und Ihr **GANZ **genau wisst ihr habt das vor 5 Minuten live gestellt dann ist das schon ein wenig blöd. Aber nach weiteren  3 Minuten waren dann die klammern ergänzt und alles war wieder gut.

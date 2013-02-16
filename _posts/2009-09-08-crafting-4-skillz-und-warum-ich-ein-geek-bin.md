@@ -14,7 +14,6 @@ tags:
   - Qualität
   - wieder was gelernt
 ---
-# 
 
 Jaaa, die Überschrift könnte auch zum Thema “WTF?! des Tages” passen, aber Nein, auch heute gibt es kein neues “WTF?! des Tages”. Irgendwie ist im Moment wenig “WTF” in meinem leben. =) Ihr habt sicher schon die noch merkwürdigere schreib weise als sonst bemerkt, das hat 2 Gründe. Erstens bin ich auch ein Wirklich sehr spannendes Diagramm gestoßen. Wenn ihr schon immer mal Wissen wolltet wo die Grenzen Zwischen *Nerd*, *Geek *und *Dork *verlaufen dann sollte euch [http://mashable.com/2009/09/07/nerd-venn-diagram/][1] einmal ansehen.
 

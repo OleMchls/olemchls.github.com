@@ -12,7 +12,6 @@ tags:
   - JavaScript
   - jQuery
 ---
-# 
 
 Nabend,
 

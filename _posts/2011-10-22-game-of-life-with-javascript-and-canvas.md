@@ -8,7 +8,7 @@ Hide SexyBookmarks:
 Hide OgTags:
   - 0
 wp_plus_one_redirect:
-  - 
+  -
 dsq_thread_id:
   - 746805904
 categories:
@@ -19,7 +19,6 @@ tags:
   - HTML5
   - JavaScript
 ---
-# 
 
 Hey there! I’m back!
 

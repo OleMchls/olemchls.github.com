@@ -14,7 +14,6 @@ tags:
   - PHP
   - Zend
 ---
-# 
 
 Hallo Hallo,
 

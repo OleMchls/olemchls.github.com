@@ -10,11 +10,10 @@ categories:
 tags:
   - '#Musik'
 ---
-# 
 
 Hey there,
 
-After about only 3 Month of developemnt time, my newest project goes live: [www.RauteMusik.FM][1]  
+After about only 3 Month of developemnt time, my newest project goes live: [www.RauteMusik.FM][1]
 That´s also the reason why it was so damn quiet the last month. And I hope, that I now have more time for this blog.
 
  [1]: http://www.rm.fm

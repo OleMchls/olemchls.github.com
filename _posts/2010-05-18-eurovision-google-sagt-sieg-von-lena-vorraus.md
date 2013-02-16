@@ -9,7 +9,6 @@ tags:
   - EuroVision
   - google
 ---
-# 
 
 Google kann die Zukunft vorhersagen. So schallt es momentan aus der Blogosphere, der Grund:
 

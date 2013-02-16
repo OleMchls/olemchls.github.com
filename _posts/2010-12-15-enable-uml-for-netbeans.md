@@ -14,7 +14,6 @@ tags:
   - netbeans
   - uml
 ---
-# 
 
 Hey there,
 
@@ -36,7 +35,7 @@ If you also want to use this feature I will give you an easy 4-step-manual:
 
 That’s it, easy, heh?
 
-Have fun by trying it on your own! Leave a comment if there was any questions left or to made my day ![;)][3] 
+Have fun by trying it on your own! Leave a comment if there was any questions left or to made my day ![;)][3]
 
  [3]: http://blog.codestars.eu/wp-includes/images/smilies/icon_wink.gif
 

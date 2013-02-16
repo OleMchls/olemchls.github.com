@@ -10,7 +10,6 @@ categories:
 tags:
   - RedBull Trum
 ---
-# 
 
 Ohne Worte …
 

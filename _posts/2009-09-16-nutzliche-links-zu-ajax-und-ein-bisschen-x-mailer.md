@@ -13,7 +13,6 @@ tags:
   - jQuery
   - X-Mailer
 ---
-# 
 
 Hallo liebe Leserschaft,
 

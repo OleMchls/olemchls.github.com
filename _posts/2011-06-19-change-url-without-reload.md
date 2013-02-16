@@ -12,9 +12,8 @@ tags:
   - JavaScript
   - Pushstate
 ---
-# 
 
-Hello and welcome to the show ![;)][1] 
+Hello and welcome to the show ![;)][1]
 
  [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_wink.gif
 
@@ -30,10 +29,10 @@ Alright!
 
 You may think it has something to do with the window.location object. Sorry, it’s not! The object we’re looking at now is the window.history object.
 
-[javascript]window.history.pushState(  
-{  
-‘test’:”oh i am a test text :O”,  
-‘stuff’:”some stuff here”  
+[javascript]window.history.pushState(
+{
+‘test’:”oh i am a test text :O”,
+‘stuff’:”some stuff here”
 },”History title”,”/?changed”);[/javascript]
 
 So what do we have here?
@@ -42,16 +41,16 @@ The first parameter is an object which we’ll parse later, the second one is si
 
 So lets go one step further and parse this object and also detecting and reacting on state changes.
 
-[javascript]window.onpopstate = function(event){  
-alert(event.state.test);  
-alert(event.state.stuff);  
+[javascript]window.onpopstate = function(event){
+alert(event.state.test);
+alert(event.state.stuff);
 }[/javascript]
 
-So i think this is pretty self explanatory, the onpopstate event get triggered if you move forward or backward in your browser history.  
+So i think this is pretty self explanatory, the onpopstate event get triggered if you move forward or backward in your browser history.
 The state object contains the stuff you pushed in there. You’ll also find the state name somewhere in the event object.
 
-I hope you enjoyed the read and we’ll see us again.  
-Follow me @[twitter][2] if you want to get news about WebGL and gamedevelopment related topics  
+I hope you enjoyed the read and we’ll see us again.
+Follow me @[twitter][2] if you want to get news about WebGL and gamedevelopment related topics
 and stay tuned to this blog for bleeding edge web technology informations.
 
  [2]: http://twitter.com/#!/LJ_1102 "twitter"

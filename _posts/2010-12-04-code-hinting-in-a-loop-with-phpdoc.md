@@ -14,7 +14,6 @@ tags:
   - PHP
   - PHPDoc
 ---
-# 
 
 Hey there,
 
@@ -28,8 +27,8 @@ I think you all knew this problem: you store one kind of object in an array. You
 
 I asked my friend Google and I found some answers, but they are all not that “complete” as I searched for. So I wanna try to give these kinda complete answer to this question, with example code. The answer is really simple, just use PHPDoc in the loop to tell your IDE with kinda object stored in this var.
 
-[php]  
-/* @var $bar bar */  
+[php]
+/* @var $bar bar */
 [/php]
 
 Easy, heh?

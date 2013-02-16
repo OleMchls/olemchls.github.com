@@ -13,12 +13,11 @@ tags:
   - JavaScript
   - Stämme
 ---
-# 
 
 Ihr kennt das sicher auch, es ist 07:00 Uhr am Montag morgen, der Wecker klingelt und ihr denkt nur
 
 > WWAAAAAAAAAHHHHHHHHHH!
-> 
+>
 > WTF?! Schonwieder Montag?! Aufstehen?
 
 Also so geht es mir jedenfalls immer, dementsprechend viel habe ich heute geschafft (gefühlt). Jedenfalls geht es mit meinem JavaScript Buch zu ende, aber am Ende wird es etwas wüst. Es gibt Dinge die müssen einfach nicht Client seitig gelöst werden, z.B. User Authentifizierung, Warenkorb System oder so etwas wie ein Sessionhandling nachbauen. Auch schade aber durchaus vertretbar ist das in dem Buch sehr Microsoft seitig geschrieben wird. So wird PHP leider kaum beachtet.

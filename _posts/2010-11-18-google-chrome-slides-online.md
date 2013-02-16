@@ -12,7 +12,6 @@ tags:
   - google
   - Slides
 ---
-# 
 
 Hey there,
 

@@ -9,7 +9,6 @@ tags:
   - Top Searches
   - Zend Studio 7
 ---
-# 
 
 Manchmal wundere ich mich doch, über welche Suchbegriffe Leute meinen Blog finden. Hier mal ein Einblick in die “Top Searches”
 

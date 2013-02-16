@@ -11,7 +11,6 @@ tags:
   - RDBMS
   - Sicherheit
 ---
-# 
 
 Hallo liebe Freunde und Verwandte, jemand anderes erreiche ich hiermit wohl auch kaum.
 

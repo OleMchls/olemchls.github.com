@@ -10,7 +10,6 @@ tags:
   - Zend Framework
   - Zend Studio 7
 ---
-# 
 
 …. Oder gerade deswegen? Auf  jedenfalls gab’s heute für mich und meinen Kollegen im Büro das neue Zend Studio 7.0. Bisher bin ich noch nicht besonders begeistert und trauere noch ein wenig NetBeans 6.7 hinterher, aber wenn man schon nicht die klappe halten kann wenn gefragt wird wer noch eine Lizenz will muss man da wohl durch und da ich ja auch beabsichtige demnächst mal mit dem Zend Framework so richtig duchzustarten, dachte ich mir halt das es bestimmt JETZT die richtige Gelegenheit wäre.
 

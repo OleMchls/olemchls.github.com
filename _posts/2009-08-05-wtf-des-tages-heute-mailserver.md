@@ -12,7 +12,6 @@ tags:
   - Mailserver
   - PHP
 ---
-# 
 
 Und weil wir grad schon dabei sind und die Themen, Thematisch überhaupt nicht zusammen passen **und** weil ich grade noch eine Idee für eine neue Kategorie hatte, hier gleich noch ein Post.
 

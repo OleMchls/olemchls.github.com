@@ -11,7 +11,6 @@ tags:
   - Games
   - Java
 ---
-# 
 
 Nach einer (gefühlt) ewigen frimelei, habe ich jetzt in meinem R-Type spiel auch aliens eingebaut.
 

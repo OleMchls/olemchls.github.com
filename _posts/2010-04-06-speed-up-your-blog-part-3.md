@@ -14,11 +14,10 @@ tags:
   - Blog
   - Linux
 ---
-# 
 
 Moin und Wilkommen zum letzten Teil der Serie Speeed up your Blog!
 
-Nachdem es letzte Woche um die Expire-Header ging, und davor auch um zipp’ed Content, will ich mich nun den Geschwindigkeitsverbesserungen im Code selbst widmen. Also weg von der Server-config ![;)][1] 
+Nachdem es letzte Woche um die Expire-Header ging, und davor auch um zipp’ed Content, will ich mich nun den Geschwindigkeitsverbesserungen im Code selbst widmen. Also weg von der Server-config ![;)][1]
 
  [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_wink.gif
 
@@ -38,7 +37,7 @@ Solltet Ihr WordPress benutzten, ist die Lösung viel viel einfacher: Die Lösun
 
  [5]: http://github.com/Schepp/CSS-JS-Booster "CSS-JS-Booster"
 
-Klasse! Das soll es jetzt auch erst einmal gewesen sein, vielleicht konnte ich dem ein oder enderem etwas neues zeigen, über Feedback würde ich mich diesmal sogar noch mehr freuen als sonst ![;)][1] 
+Klasse! Das soll es jetzt auch erst einmal gewesen sein, vielleicht konnte ich dem ein oder enderem etwas neues zeigen, über Feedback würde ich mich diesmal sogar noch mehr freuen als sonst ![;)][1]
 
-Vielen dank geht an dieser Stelle an Lars ![;)][1] 
+Vielen dank geht an dieser Stelle an Lars ![;)][1]
 

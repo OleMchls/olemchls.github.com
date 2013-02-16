@@ -8,7 +8,7 @@ Hide SexyBookmarks:
 Hide OgTags:
   - 0
 wp_plus_one_redirect:
-  - 
+  -
 dsq_thread_id:
   - 746780430
 categories:
@@ -18,7 +18,6 @@ tags:
   - Symfony2
   - Testing
 ---
-# 
 
 Back in blog business, first I want to start with a very few personal words. I left the gaming industries, now I’m working for [Digital Pioneers N.V.][1] there we do rapidly prototyping of new ideas with cool, new shiny techniques!
 

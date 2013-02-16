@@ -10,7 +10,6 @@ categories:
 tags:
   - Grepolis
 ---
-# 
 
 Guten Abend liebe Leser,
 

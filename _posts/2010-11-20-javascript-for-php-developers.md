@@ -12,7 +12,6 @@ tags:
   - PHP
   - Slides
 ---
-# 
 
 Hi @all,
 

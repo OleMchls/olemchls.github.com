@@ -15,7 +15,6 @@ tags:
   - jQuery
   - PHP
 ---
-# 
 
 …
 

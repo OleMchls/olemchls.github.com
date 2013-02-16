@@ -13,7 +13,6 @@ tags:
   - Innogames
   - Stämme
 ---
-# 
 
 Halli Hallo,
 

@@ -8,7 +8,7 @@ Hide SexyBookmarks:
 Hide OgTags:
   - 0
 wp_plus_one_redirect:
-  - 
+  -
 dsq_thread_id:
   - 743615073
 categories:
@@ -20,7 +20,6 @@ tags:
   - JavaScript
   - Scalarium
 ---
-# 
 
 Do you know “Hubot”? This awesome robot build by the github guys?
 
@@ -56,7 +55,7 @@ This is pretty awesome heh? And because we at Digital Pioneers love Open Source,
  []: http://blog.codestars.eu/wp-content/uploads/2012/05/Screen-Shot-2012-05-27-at-10.19.19-AM.jpg
  [12]: https://github.com/github/hubot-scripts
 
-The bot is also able to list app and clouds, but this features are not that amazing like the deployment thingy, just want to mention it here, to be complete ![:)][13] 
+The bot is also able to list app and clouds, but this features are not that amazing like the deployment thingy, just want to mention it here, to be complete ![:)][13]
 
  [13]: http://blog.codestars.eu/wp-includes/images/smilies/icon_smile.gif
 

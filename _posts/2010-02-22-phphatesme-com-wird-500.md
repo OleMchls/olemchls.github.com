@@ -11,7 +11,6 @@ tags:
   - PHP
   - W T F ?! of the day
 ---
-# 
 
 Und ich will gratulieren, na ok, zugegeben ich will auch am Gewinnspiel teilnehmen.
 

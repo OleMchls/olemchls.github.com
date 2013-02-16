@@ -15,7 +15,6 @@ tags:
   - javascript debugger
   - Onscreen
 ---
-# 
 
 Hey folks,
 
@@ -37,15 +36,15 @@ Nice, isn’t it?
 
 And it’s really easy to use, look
 
-[javascript]  
-// made it accessible in global scope  
-// and give a target (in jQuery notation)  
+[javascript]
+// made it accessible in global scope
+// and give a target (in jQuery notation)
 var vConsole = new visualconsole(‘#debug’);
 
-// now you can use it like this  
-vConsole.log(“foo”);  
-vConsole.log(“bar”, ‘bazID’);  
-vConsole.update(‘bazID’, ‘foobar’);  
+// now you can use it like this
+vConsole.log(“foo”);
+vConsole.log(“bar”, ‘bazID’);
+vConsole.update(‘bazID’, ‘foobar’);
 [/javascript]
 
 For me the most important feature is that not like the browser console. Which creates a new line for every entry, you can update existing entries. As you can see in the example the mouse position on the site.[![VisualConsole UML][3]][3]
@@ -53,7 +52,7 @@ VisualConsole UML
 
  []: http://blog.codestars.eu/wp-content/uploads/2010/12/visualconsole.png
 
-And yeha we’re so used to UML so I’ll offer a UML for this too. Greets to my Classmates ![;)][3] 
+And yeha we’re so used to UML so I’ll offer a UML for this too. Greets to my Classmates ![;)][3]
 
  [3]: http://blog.codestars.eu/wp-includes/images/smilies/icon_wink.gif
 

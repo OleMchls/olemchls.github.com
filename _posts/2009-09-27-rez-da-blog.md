@@ -11,7 +11,6 @@ tags:
   - Ajax
   - Piraten
 ---
-# 
 
 OMFG! Was? Also wer wie ich auch schon mal World of Warcraft gespielt hat wird wissen das “rez” die Abkürzung für “Resurrection” also Auferstehung ist. Und genau das soll der Blog nun auch nach einer Woche Abstinenz nun auch wieder tun. *kurz aus der affaire rede* ich hatte auf der Arbeit echt viel um die Ohren und auch am X-Mailer gab’s nicht viel zu berichten.
 

@@ -14,7 +14,6 @@ tags:
   - PHP
   - Qualität
 ---
-# 
 
 Heute gab’s in dem sehr Schlauen Buch das ich zur Zeit lese, ein sehr Interessanten Abschnitt zum Thema APIs und was guten Code von Schlechtem Code unterscheidet. Die erste Frage die dabei auftrag war:
 

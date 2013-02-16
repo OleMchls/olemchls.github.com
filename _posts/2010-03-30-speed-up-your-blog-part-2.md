@@ -14,7 +14,6 @@ tags:
   - Blog
   - Linux
 ---
-# 
 
 Moin Moin,
 
@@ -28,7 +27,7 @@ Also los geht es,
 
 `/etc/apache2/mods-enabled/expires.conf`
 
-bei mir gab es diese Datei anfangs gar nicht, also einfach anlegen.  
+bei mir gab es diese Datei anfangs gar nicht, also einfach anlegen.
 `
 ExpiresActive on
 ####ExpiresDefault "access plus 2 months"
@@ -50,7 +49,7 @@ ExpiresByType text/css "access plus 1 hour"
 ExpiresByType text/javascript "access plus 1 hour"
 `
 
-Ich denke die datei ist quasi selbsterklärend. Nächste Woche geht es dann weiter mit HTTP-Requests und Content-Compressors ![;)][1] 
+Ich denke die datei ist quasi selbsterklärend. Nächste Woche geht es dann weiter mit HTTP-Requests und Content-Compressors ![;)][1]
 
  [1]: http://blog.codestars.eu/wp-includes/images/smilies/icon_wink.gif
 

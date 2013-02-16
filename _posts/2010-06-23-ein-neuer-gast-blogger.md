@@ -10,7 +10,6 @@ categories:
 tags:
   - Codestars
 ---
-# 
 
 Hallo liebe Leser,
 

@@ -8,7 +8,6 @@ categories:
 tags:
   - Innogames
 ---
-# 
 
 Hallo liebe Leser und (irgendwann vielleicht auch mal) Leserinnen,
 
@@ -25,7 +24,7 @@ Das neue Büro ist super schick, modern, offen und um einen Kollegen zu zitieren
 Da muss ich dir (Heiko) zustimmen. Nachdem ich dann meinen Arbeitsplatz 2 mal aufbauen musste. War es auch fast schon Mittag, neue Gegend, neues Essen. Also auf zum nächsten “*pizzamann*“. Also das “Silo” eine sog. Pizzabar im Harburger Hafen ist sehr schick und wenn man gewillt ist **20 EURO** für eine Pizza zu bezahlen, dann ist es auch echt empfehlenswert.
 
 > Memo an mich selbst: Nie wieder Silo, es sei denn jemand lädt mich ein.
-> 
+>
 > 20 takken für ‘ne Pizza, ich glaub’s hackt.
 
 Den Rest des Tages war dann wieder Business as usual.
