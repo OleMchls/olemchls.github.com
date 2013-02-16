@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: php, javascript and robots!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
