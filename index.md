@@ -1,7 +1,7 @@
 ---
 layout: page
-title: php, javascript and robots!
-tagline: Supporting tagline
+title: Blog
+tagline: php, javascript and robots!
 ---
 {% include JB/setup %}
 
