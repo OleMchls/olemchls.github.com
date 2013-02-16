@@ -31,7 +31,7 @@ So we splinted up the whole thing into it’s parts. First of all we wrote norma
 
 The other and even bigger part are the integration tests (Symfony WebTestCase). We use fixtures, lots of ‘em. And due to that fact the the UnitTests for this “api.response.json” service make certain that the response is valid regarding the api specs. We just have to check the HTTP response code and maybe some smaller fractional checks for the data in the response.
 
-And yeha, that’s basically it. So the magic is to bundle all the responses to the service. And a little side note when you’re interested in how we’re developing and deploying my college [florian][3] wrote a few articles on [his blog[GER]][4].
+And yeha, that’s basically it. So the magic is to bundle all the responses to the service. And a little side note when you’re interested in how we’re developing and deploying my college [florian][3] wrote a few articles on [his blog\[GER\]][4].
 
  [3]: https://twitter.com/#!/fholzhauer
  [4]: http://fh.vc/
