@@ -1,16 +1,10 @@
 ---
-title: About
+title: About me
 author: Ole Michaelis
 layout: page
-Hide SexyBookmarks:
-  - 0
-Hide OgTags:
-  - 0
 ---
-# 
 
 ![CodeStars.eu Preview logo][1]
-CodeStars.eu Preview logo
 
 Hey stranger, welcome to my blog.
 
