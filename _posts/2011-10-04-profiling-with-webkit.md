@@ -27,10 +27,11 @@ I asked google for the WebKit Inspector Profile API with no result.
 So i digged around in the WebKit Inspector code and found out how it works.
 
 ```javascript
-console.profile(“Hard Calculations”);
+console.profile('Hard Calculations');
 // the script you want to profile
 console.profileEnd();
 ```
+
 Pretty easy, huh?* “Hard Calculations”* is the name of the profile that will be created.
 Btw. if you run this in the console itself you’ll only see injection functions so try it in your project.
 
