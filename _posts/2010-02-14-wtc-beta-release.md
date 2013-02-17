@@ -2,7 +2,6 @@
 title: WTC Beta Release
 author: Ole Michaelis
 layout: post
-permalink: /2010/wtc-beta-release/
 dsq_thread_id:
   - 923088198
 categories:

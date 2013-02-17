@@ -2,7 +2,6 @@
 title: JavaScript for PHP Developers
 author: Ole Michaelis
 layout: post
-permalink: /2010/javascript-for-php-developers/
 dsq_thread_id:
   - 892064739
 categories:

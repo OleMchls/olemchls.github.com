@@ -2,7 +2,6 @@
 title: Kill your Browser with JavaScript
 author: Ole Michaelis
 layout: post
-permalink: /2010/kill-your-browser-with-javascript/
 dsq_thread_id:
   - 747035900
 categories:

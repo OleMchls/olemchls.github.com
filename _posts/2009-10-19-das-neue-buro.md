@@ -2,7 +2,6 @@
 title: Das neue Büro
 author: Ole Michaelis
 layout: post
-permalink: /2009/das-neue-buro/
 categories:
   - One Step
 tags:

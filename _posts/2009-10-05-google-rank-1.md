@@ -2,7 +2,6 @@
 title: 'Google Rank #1'
 author: Ole Michaelis
 layout: post
-permalink: /2009/google-rank-1/
 dsq_thread_id:
   - 1074915710
 categories:

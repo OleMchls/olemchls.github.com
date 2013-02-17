@@ -2,7 +2,6 @@
 title: Testing a restful JSON API
 author: Ole Michaelis
 layout: post
-permalink: /2012/testing-a-restful-json-api/
 dsq_thread_id:
   - 746780430
 categories:

@@ -2,7 +2,6 @@
 title: 'Wie kann ich Ihnen helfen&#8230;. ?'
 author: Ole Michaelis
 layout: post
-permalink: /2009/wie-kann-ich-ihnen-helfen/
 categories:
   - One Step
 tags:

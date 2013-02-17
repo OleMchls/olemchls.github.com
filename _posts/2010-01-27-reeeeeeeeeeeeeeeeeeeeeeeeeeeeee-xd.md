@@ -2,7 +2,6 @@
 title: Reeeeeeeeeeeeeee xD
 author: Ole Michaelis
 layout: post
-permalink: /2010/reeeeeeeeeeeeeeeeeeeeeeeeeeeeee-xd/
 dsq_thread_id:
   - 746805818
 categories:

@@ -2,7 +2,6 @@
 title: Grepolis Trailer
 author: Ole Michaelis
 layout: post
-permalink: /2009/grepolis-trailer/
 dsq_thread_id:
   - 766946198
 categories:

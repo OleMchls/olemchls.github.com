@@ -2,7 +2,6 @@
 title: 'Life&#8217;s changing &#8230; Blog&#8217;s changing'
 author: Ole Michaelis
 layout: post
-permalink: /2011/lifes-changing-blogs-changing/
 dsq_thread_id:
   - 746805830
 categories:

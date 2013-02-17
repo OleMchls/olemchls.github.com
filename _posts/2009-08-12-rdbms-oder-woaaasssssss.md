@@ -2,7 +2,6 @@
 title: '&#8220;RDBMS&#8221; oder Woaaasssssss?'
 author: Ole Michaelis
 layout: post
-permalink: /2009/rdbms-oder-woaaasssssss/
 categories:
   - One Step
 tags:

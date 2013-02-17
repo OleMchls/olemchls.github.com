@@ -2,7 +2,6 @@
 title: Speed up your Blog! Part 3
 author: Ole Michaelis
 layout: post
-permalink: /2010/speed-up-your-blog-part-3/
 dsq_thread_id:
   - 746805822
 categories:

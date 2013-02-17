@@ -2,7 +2,6 @@
 title: Enable UML for NetBeans
 author: Ole Michaelis
 layout: post
-permalink: /2010/enable-uml-for-netbeans/
 dsq_thread_id:
   - 743586532
 categories:

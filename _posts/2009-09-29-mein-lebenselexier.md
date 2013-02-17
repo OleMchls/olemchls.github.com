@@ -2,7 +2,6 @@
 title: 'Mein Lebenselexier&#8230;'
 author: Ole Michaelis
 layout: post
-permalink: /2009/mein-lebenselexier/
 dsq_thread_id:
   - 793806562
 categories:

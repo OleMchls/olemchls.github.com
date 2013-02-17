@@ -2,7 +2,6 @@
 title: Search Monster
 author: Ole Michaelis
 layout: post
-permalink: /2012/search-monster/
 dsq_thread_id:
   - 1011707578
 categories:

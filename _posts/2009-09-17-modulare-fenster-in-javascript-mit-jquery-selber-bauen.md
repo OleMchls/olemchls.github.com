@@ -2,7 +2,6 @@
 title: Modulare Fenster in JavaScript (mit jQuery) selber bauen
 author: Ole Michaelis
 layout: post
-permalink: /2009/modulare-fenster-in-javascript-mit-jquery-selber-bauen/
 dsq_thread_id:
   - 749064144
 categories:

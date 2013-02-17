@@ -2,7 +2,6 @@
 title: '#Musik, Staemme 5.6 und Grepolis!'
 author: Ole Michaelis
 layout: post
-permalink: /2009/musik-staemme-5-6-und-greoplis/
 dsq_thread_id:
   - 788731877
 categories:

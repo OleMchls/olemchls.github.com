@@ -2,7 +2,6 @@
 title: Ich bin Bi! Und ich weiss nicht ob ich das gut finde!
 author: Ole Michaelis
 layout: post
-permalink: /2009/ich-bin-bi-und-ich-weiss-nicht-ob-ich-das-gut-finde/
 dsq_thread_id:
   - 755875962
 categories:

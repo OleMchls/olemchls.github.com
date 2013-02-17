@@ -2,7 +2,6 @@
 title: 'Let&#8217;s do it in English'
 author: Ole Michaelis
 layout: post
-permalink: /2010/lets-do-it-in-english/
 dsq_thread_id:
   - 746805891
 categories:

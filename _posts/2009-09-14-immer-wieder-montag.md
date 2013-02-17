@@ -2,7 +2,6 @@
 title: 'Immer wieder Montag&#8230;'
 author: Ole Michaelis
 layout: post
-permalink: /2009/immer-wieder-montag/
 dsq_thread_id:
   - 798065421
 categories:

@@ -2,7 +2,6 @@
 title: Der MarkUp Knecht
 author: Ole Michaelis
 layout: post
-permalink: /2009/der-markup-knecht/
 dsq_thread_id:
   - 766428242
 categories:

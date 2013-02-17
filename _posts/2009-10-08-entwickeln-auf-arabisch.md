@@ -2,7 +2,6 @@
 title: Entwickeln auf Arabisch
 author: Ole Michaelis
 layout: post
-permalink: /2009/entwickeln-auf-arabisch/
 dsq_thread_id:
   - 789567743
 categories:

@@ -2,7 +2,6 @@
 title: Code hinting in a loop with PHPDoc
 author: Ole Michaelis
 layout: post
-permalink: /2010/code-hinting-in-a-loop-with-phpdoc/
 dsq_thread_id:
   - 759393186
 categories:

@@ -2,7 +2,6 @@
 title: 'Inner &#8216;Classes&#8217; in JavaScript'
 author: Ole Michaelis
 layout: post
-permalink: /2011/inner-classes-in-javascript/
 dsq_thread_id:
   - 752962434
 categories:

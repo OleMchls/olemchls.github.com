@@ -2,7 +2,6 @@
 title: CodeStars jetzt auch mit Facebook share
 author: Ole Michaelis
 layout: post
-permalink: /2010/codestars-jetzt-auch-mit-facebook-share/
 categories:
   - One Step
 tags:

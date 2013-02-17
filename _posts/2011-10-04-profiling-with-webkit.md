@@ -2,7 +2,6 @@
 title: Profiling with WebKit
 author: Jan Scheurer
 layout: post
-permalink: /2011/profiling-with-webkit/
 dsq_thread_id:
   - 743504372
 categories:

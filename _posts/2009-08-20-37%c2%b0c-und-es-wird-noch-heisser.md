@@ -2,7 +2,6 @@
 title: '37°C und es wird noch heisser&#8230;.'
 author: Ole Michaelis
 layout: post
-permalink: /2009/37%c2%b0c-und-es-wird-noch-heisser/
 dsq_thread_id:
   - 808949343
 categories:

@@ -2,7 +2,6 @@
 title: Introducing X-Mailer
 author: Ole Michaelis
 layout: post
-permalink: /2009/introducing-x-mailer/
 dsq_thread_id:
   - 809763724
 categories:

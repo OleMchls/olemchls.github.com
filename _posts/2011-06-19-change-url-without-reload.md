@@ -2,7 +2,6 @@
 title: Change URL without reload
 author: Jan Scheurer
 layout: post
-permalink: /2011/change-url-without-reload/
 dsq_thread_id:
   - 750996769
 categories:

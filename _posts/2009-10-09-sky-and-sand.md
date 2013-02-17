@@ -2,7 +2,6 @@
 title: Sky and Sand
 author: Ole Michaelis
 layout: post
-permalink: /2009/sky-and-sand/
 dsq_thread_id:
   - 776856961
 categories:

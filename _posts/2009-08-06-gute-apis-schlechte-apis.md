@@ -2,7 +2,6 @@
 title: Gute APIs, Schlechte APIs
 author: Ole Michaelis
 layout: post
-permalink: /2009/gute-apis-schlechte-apis/
 dsq_thread_id:
   - 746805828
 categories:

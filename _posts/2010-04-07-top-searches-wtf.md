@@ -2,7 +2,6 @@
 title: 'Top Searches?! &#8211; WTF'
 author: Ole Michaelis
 layout: post
-permalink: /2010/top-searches-wtf/
 categories:
   - W T F ?! of the day
 tags:

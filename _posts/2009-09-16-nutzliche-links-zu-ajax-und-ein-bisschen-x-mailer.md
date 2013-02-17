@@ -2,7 +2,6 @@
 title: Nützliche links zu Ajax und ein bisschen X-Mailer
 author: Ole Michaelis
 layout: post
-permalink: /2009/nutzliche-links-zu-ajax-und-ein-bisschen-x-mailer/
 dsq_thread_id:
   - 746805839
 categories:

@@ -2,7 +2,6 @@
 title: Cloud-Zoom inside Fancybox
 author: Ole Michaelis
 layout: post
-permalink: /2010/cloud-zoom-in-der-fancybox/
 dsq_thread_id:
   - 743447648
 categories:

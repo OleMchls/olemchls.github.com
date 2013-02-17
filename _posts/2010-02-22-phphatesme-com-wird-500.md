@@ -2,7 +2,6 @@
 title: PHPhatesme.com wird 500!
 author: Ole Michaelis
 layout: post
-permalink: /2010/phphatesme-com-wird-500/
 dsq_thread_id:
   - 775319200
 categories:

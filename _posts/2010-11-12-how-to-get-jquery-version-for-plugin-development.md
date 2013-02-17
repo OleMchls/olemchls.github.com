@@ -2,7 +2,6 @@
 title: How to get jQuery Version for plugin development
 author: Ole Michaelis
 layout: post
-permalink: /2010/how-to-get-jquery-version-for-plugin-development/
 dsq_thread_id:
   - 752948569
 categories:

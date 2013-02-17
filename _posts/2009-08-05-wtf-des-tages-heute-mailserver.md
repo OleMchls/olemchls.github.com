@@ -2,7 +2,6 @@
 title: 'WTF des Tages! Heute: Mailserver'
 author: Ole Michaelis
 layout: post
-permalink: /2009/wtf-des-tages-heute-mailserver/
 dsq_thread_id:
   - 755876015
 categories:

@@ -2,7 +2,6 @@
 title: 'Zend Studio 7.0 und trotzdem nichts geschafft&#8230;'
 author: Ole Michaelis
 layout: post
-permalink: /2009/zend-studio-7-0-und-trotzdem-nichts-geschafft/
 categories:
   - One Step
 tags:

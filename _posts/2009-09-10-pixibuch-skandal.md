@@ -2,7 +2,6 @@
 title: Pixibuch SKANDAL!
 author: Ole Michaelis
 layout: post
-permalink: /2009/pixibuch-skandal/
 dsq_thread_id:
   - 878900747
 categories:

@@ -2,7 +2,6 @@
 title: R-Type in Java die 2.
 author: Ole Michaelis
 layout: post
-permalink: /2010/r-type-in-java-die-2/
 dsq_thread_id:
   - 746805856
 categories:

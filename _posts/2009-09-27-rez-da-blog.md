@@ -2,7 +2,6 @@
 title: Rez da Blog!
 author: Ole Michaelis
 layout: post
-permalink: /2009/rez-da-blog/
 dsq_thread_id:
   - 823936436
 categories:

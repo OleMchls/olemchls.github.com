@@ -2,7 +2,6 @@
 title: Themes for Netbeans
 author: Ole Michaelis
 layout: post
-permalink: /2011/themes-for-netbeans/
 dsq_thread_id:
   - 746805895
 categories:

@@ -2,7 +2,6 @@
 title: Ein neuer Gast-Blogger
 author: Ole Michaelis
 layout: post
-permalink: /2010/ein-neuer-gast-blogger/
 dsq_thread_id:
   - 746805848
 categories:

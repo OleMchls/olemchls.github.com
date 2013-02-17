@@ -2,7 +2,6 @@
 title: 'Its not a Bug it&#8217;s a Feature!'
 author: Ole Michaelis
 layout: post
-permalink: /2009/its-not-a-bug-it-a-feature/
 categories:
   - One Step
 tags:

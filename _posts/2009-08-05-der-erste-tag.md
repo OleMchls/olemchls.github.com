@@ -2,7 +2,6 @@
 title: Der erste Tag
 author: Ole Michaelis
 layout: post
-permalink: /2009/der-erste-tag/
 dsq_thread_id:
   - 874704540
 categories:

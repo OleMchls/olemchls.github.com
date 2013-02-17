@@ -2,7 +2,6 @@
 title: 'EuroVision: Google sagt Sieg von Lena vorraus'
 author: Ole Michaelis
 layout: post
-permalink: /2010/eurovision-google-sagt-sieg-von-lena-vorraus/
 categories:
   - W T F ?! of the day
 tags:

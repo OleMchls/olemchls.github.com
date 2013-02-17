@@ -2,7 +2,6 @@
 title: My InnoGames GameJam Story
 author: Ole Michaelis
 layout: post
-permalink: /2012/my-innogames-gamejam-story/
 dsq_thread_id:
   - 746805921
 categories:

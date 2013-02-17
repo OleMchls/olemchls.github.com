@@ -2,7 +2,6 @@
 title: 'A lonely Day &#8230;'
 author: Ole Michaelis
 layout: post
-permalink: /2009/a-lonely-day/
 dsq_thread_id:
   - 792286277
 categories:

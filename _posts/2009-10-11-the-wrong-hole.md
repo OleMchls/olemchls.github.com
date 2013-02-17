@@ -2,7 +2,6 @@
 title: The Wrong Hole
 author: Ole Michaelis
 layout: post
-permalink: /2009/the-wrong-hole/
 dsq_thread_id:
   - 755876067
 categories:

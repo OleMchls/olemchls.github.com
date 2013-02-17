@@ -2,7 +2,6 @@
 title: R-Type in Java
 author: Ole Michaelis
 layout: post
-permalink: /2010/r-type-in-java/
 dsq_thread_id:
   - 755876127
 categories:
