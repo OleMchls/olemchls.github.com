@@ -2,8 +2,6 @@
 title: On-Screen debugger for JavaScript
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 793095041
 categories:
   - One Step
   - Tools

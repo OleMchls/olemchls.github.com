@@ -2,8 +2,6 @@
 title: 'Immer wieder Montag&#8230;'
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 798065421
 categories:
   - One Step
 tags:

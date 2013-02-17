@@ -2,8 +2,6 @@
 title: Testing a restful JSON API
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 746780430
 categories:
   - Digital Pioneers
 tags:

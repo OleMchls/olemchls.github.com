@@ -2,8 +2,6 @@
 title: Cloud-Zoom inside Fancybox
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 743447648
 categories:
   - One Step
 tags:

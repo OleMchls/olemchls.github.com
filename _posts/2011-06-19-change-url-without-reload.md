@@ -2,8 +2,6 @@
 title: Change URL without reload
 author: Jan Scheurer
 layout: post
-dsq_thread_id:
-  - 750996769
 categories:
   - JavaScript
 tags:

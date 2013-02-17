@@ -2,8 +2,6 @@
 title: '37°C und es wird noch heisser&#8230;.'
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 808949343
 categories:
   - One Step
 tags:

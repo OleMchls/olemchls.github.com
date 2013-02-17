@@ -2,8 +2,6 @@
 title: Speed up your Blog! Part 3
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 746805822
 categories:
   - One Step
   - Speed Up!

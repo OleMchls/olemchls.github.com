@@ -2,8 +2,6 @@
 title: 'A lonely Day &#8230;'
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 792286277
 categories:
   - One Step
 tags:

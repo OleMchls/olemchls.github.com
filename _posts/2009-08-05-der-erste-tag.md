@@ -2,8 +2,6 @@
 title: Der erste Tag
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 874704540
 categories:
   - One Step
 tags:

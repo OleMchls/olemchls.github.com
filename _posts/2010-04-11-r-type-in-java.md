@@ -2,8 +2,6 @@
 title: R-Type in Java
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 755876127
 categories:
   - One Step
 tags:

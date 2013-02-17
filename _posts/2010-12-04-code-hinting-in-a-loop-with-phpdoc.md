@@ -2,8 +2,6 @@
 title: Code hinting in a loop with PHPDoc
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 759393186
 categories:
   - One Step
 tags:

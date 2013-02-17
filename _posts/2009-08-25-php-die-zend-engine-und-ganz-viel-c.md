@@ -2,8 +2,6 @@
 title: PHP, die Zend Engine und ganz viel C
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 768906646
 categories:
   - One Step
 tags:

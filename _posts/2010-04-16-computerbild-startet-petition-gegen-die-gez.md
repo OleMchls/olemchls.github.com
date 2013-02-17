@@ -2,8 +2,6 @@
 title: ComputerBild startet petition gegen die GEZ
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 769790449
 categories:
   - W T F ?! of the day
 tags:

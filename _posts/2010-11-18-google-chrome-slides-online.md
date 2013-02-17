@@ -2,8 +2,6 @@
 title: Google Chrome Slides online!
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 746805855
 categories:
   - Slides
 tags:

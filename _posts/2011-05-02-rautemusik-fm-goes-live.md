@@ -2,8 +2,6 @@
 title: RauteMusik.FM goes live!
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 746805917
 categories:
   - RauteMusik
 tags:

@@ -2,8 +2,6 @@
 title: 'Google Rank #1'
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 1074915710
 categories:
   - One Step
 tags:

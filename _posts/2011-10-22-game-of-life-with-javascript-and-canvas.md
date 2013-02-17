@@ -2,8 +2,6 @@
 title: Game of Life with JavaScript and Canvas
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 746805904
 categories:
   - JavaScript
 tags:

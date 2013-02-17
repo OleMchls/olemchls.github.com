@@ -2,8 +2,6 @@
 title: '#Musik, Staemme 5.6 und Grepolis!'
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 788731877
 categories:
   - One Step
 tags:

@@ -2,8 +2,6 @@
 title: Sky and Sand
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 776856961
 categories:
   - One Step
 tags:

@@ -2,8 +2,6 @@
 title: Enable UML for NetBeans
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 743586532
 categories:
   - One Step
 tags:

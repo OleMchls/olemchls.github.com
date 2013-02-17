@@ -2,8 +2,6 @@
 title: Grepolis Trailer
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 766946198
 categories:
   - One Step
 tags:

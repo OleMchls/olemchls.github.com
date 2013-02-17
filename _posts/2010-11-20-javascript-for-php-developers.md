@@ -2,8 +2,6 @@
 title: JavaScript for PHP Developers
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 892064739
 categories:
   - Slides
 tags:

@@ -2,8 +2,6 @@
 title: Ein neuer Gast-Blogger
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 746805848
 categories:
   - One Step
 tags:

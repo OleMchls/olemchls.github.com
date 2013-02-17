@@ -2,8 +2,6 @@
 title: Search Monster
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 1011707578
 categories:
   - JavaScript
 tags:

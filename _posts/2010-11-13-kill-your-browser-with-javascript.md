@@ -2,8 +2,6 @@
 title: Kill your Browser with JavaScript
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 747035900
 categories:
   - One Step
 tags:

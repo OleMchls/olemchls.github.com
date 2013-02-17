@@ -2,8 +2,6 @@
 title: The Wrong Hole
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 755876067
 categories:
   - W T F ?! of the day
 tags:

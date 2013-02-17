@@ -2,8 +2,6 @@
 title: Reeeeeeeeeeeeeee xD
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 746805818
 categories:
   - One Step
 tags:

@@ -2,8 +2,6 @@
 title: 'Let&#8217;s do it in English'
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 746805891
 categories:
   - One Step
 tags:

@@ -2,8 +2,6 @@
 title: Rez da Blog!
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 823936436
 categories:
   - One Step
 tags:

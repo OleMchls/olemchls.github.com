@@ -2,8 +2,6 @@
 title: Entwickeln auf Arabisch
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 789567743
 categories:
   - One Step
 tags:

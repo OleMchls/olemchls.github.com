@@ -2,8 +2,6 @@
 title: 'Mein Lebenselexier&#8230;'
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 793806562
 categories:
   - W T F ?! of the day
 tags:

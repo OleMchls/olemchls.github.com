@@ -2,8 +2,6 @@
 title: Profiling with WebKit
 author: Jan Scheurer
 layout: post
-dsq_thread_id:
-  - 743504372
 categories:
   - JavaScript
   - Speed Up!

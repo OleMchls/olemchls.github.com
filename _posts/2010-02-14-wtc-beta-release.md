@@ -2,8 +2,6 @@
 title: WTC Beta Release
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 923088198
 categories:
   - One Step
   - Tools

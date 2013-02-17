@@ -2,8 +2,6 @@
 title: Pixibuch SKANDAL!
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 878900747
 categories:
   - One Step
 tags:

@@ -2,8 +2,6 @@
 title: 'Life&#8217;s changing &#8230; Blog&#8217;s changing'
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 746805830
 categories:
   - One Step
 ---

@@ -2,8 +2,6 @@
 title: Introducing X-Mailer
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 809763724
 categories:
   - One Step
   - Tools

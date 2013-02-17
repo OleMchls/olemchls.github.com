@@ -2,8 +2,6 @@
 title: 'Crafting 4 Skillz und warum ich ein &#8220;Geek&#8221; bin'
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 750198281
 categories:
   - One Step
 tags:

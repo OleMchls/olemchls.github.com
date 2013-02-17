@@ -2,8 +2,6 @@
 title: Der MarkUp Knecht
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 766428242
 categories:
   - Tools
 tags:

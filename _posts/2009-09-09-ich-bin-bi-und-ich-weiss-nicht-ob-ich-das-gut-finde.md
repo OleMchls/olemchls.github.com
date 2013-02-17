@@ -2,8 +2,6 @@
 title: Ich bin Bi! Und ich weiss nicht ob ich das gut finde!
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 755875962
 categories:
   - One Step
 tags:

@@ -2,8 +2,6 @@
 title: Nützliche links zu Ajax und ein bisschen X-Mailer
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 746805839
 categories:
   - One Step
   - Tools

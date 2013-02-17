@@ -2,8 +2,6 @@
 title: How to get jQuery Version for plugin development
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 752948569
 categories:
   - One Step
 tags:

@@ -2,8 +2,6 @@
 title: My InnoGames GameJam Story
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 746805921
 categories:
   - InnoGames
 tags:

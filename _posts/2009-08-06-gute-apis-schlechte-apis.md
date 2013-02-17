@@ -2,8 +2,6 @@
 title: Gute APIs, Schlechte APIs
 author: Ole Michaelis
 layout: post
-dsq_thread_id:
-  - 746805828
 categories:
   - One Step
 tags:
