@@ -28,11 +28,10 @@ Alright!
 You may think it has something to do with the window.location object. Sorry, it’s not! The object we’re looking at now is the window.history object.
 
 ```javascript
-window.history.pushState(
-{
-‘test’:”oh i am a test text :O”,
-‘stuff’:”some stuff here”
-},”History title”,”/?changed”);
+window.history.pushState({
+  test : 'oh i am a test text :O',
+  stuff: 'some stuff here'
+},'History title','/?changed');
 ```
 
 So what do we have here?
@@ -43,8 +42,8 @@ So lets go one step further and parse this object and also detecting and reactin
 
 ```javascript
 window.onpopstate = function(event){
-alert(event.state.test);
-alert(event.state.stuff);
+  alert(event.state.test);
+  alert(event.state.stuff);
 }
 ```
 
