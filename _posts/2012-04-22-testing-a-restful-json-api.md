@@ -18,8 +18,6 @@ At the moment I work on the backend for [Stuffle][2], the client-server communic
 
  [2]: http://signup.stuffle.it/
 
-
-
 Nor in a strongly typed language, there we’ll already come into trouble with the second example. So we have to find a way to make the API very stable even during the development process, because the two parts were developed at the same time. So we decided to develop the API test driven. But have you ever written tests with for stuff like this, I did not before! Luckily we use symfony2 so the first step was to implement a service that transfroms our MongoDB documents (with some other extra dataproviders) into a json string which met the specifications. So almost all of our actions ends like
 
 Now we’ll come to the tricky part. Because if we want to test the whole response including the types and it’s correct we would end in test methods containing around 200 assertions. NO WAY!
