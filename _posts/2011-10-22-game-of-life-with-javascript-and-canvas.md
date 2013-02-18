@@ -19,7 +19,7 @@ After a long time of silence here in this Blog, I’ll post some new stuff. This
 
 And yeha, i just like simple like this:
 
-
+<iframe name="GameOfLife" src="http://dl.dropbox.com/u/18537549/game-of-life/gol.html" width="400" height="400"></iframe>
 
 You can find the pages [here][2]. It’s only client-side code and not obfuscated or some thing, so feel free to take a look on the uncommented source.
 
