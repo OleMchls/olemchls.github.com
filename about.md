@@ -1,6 +1,6 @@
 ---
 title: About me
-tagline: -
+tagline: funny, loud, sunshined mind!
 author: Ole Michaelis
 layout: page
 ---
