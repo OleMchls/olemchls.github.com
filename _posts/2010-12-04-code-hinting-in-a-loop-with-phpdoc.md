@@ -35,6 +35,6 @@ Code Hinting in a foreach
 
 And the complete example you’ll find here: **broken**
 
- [4]: //assets/uploads/2010/12/loop_code_suggestion.png
+ [4]: /assets/uploads/2010/12/loop_code_suggestion.png
 
 See ya!

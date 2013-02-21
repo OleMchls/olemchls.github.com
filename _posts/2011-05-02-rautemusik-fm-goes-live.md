@@ -20,7 +20,7 @@ RauteMusik.FM Homepage
 
 Hope you all like this site. It tooks a lot of work for my and my friends (Tom, Martin and Mike).
 
- [2]: //assets/uploads/2011/05/RauteMusik.FM_.png
+ [2]: /assets/uploads/2011/05/RauteMusik.FM_.png
 
 Now I can also write about the daily work from time to time. Because its not top secret anymore =)
 

@@ -28,9 +28,9 @@ Nimbus - NetBeans IDE 6.9.1
 
 And you can also download a﻿﻿ variety of others.
 
- [1]: //assets/uploads/2011/01/playground-NetBeans-IDE-6.9.1_003.png
- [2]: //assets/uploads/2011/01/playground-NetBeans-IDE-6.9.1_004.png
- [3]: //assets/uploads/2011/01/playground-NetBeans-IDE-6.9.1_006.png
+ [1]: /assets/uploads/2011/01/playground-NetBeans-IDE-6.9.1_003.png
+ [2]: /assets/uploads/2011/01/playground-NetBeans-IDE-6.9.1_004.png
+ [3]: /assets/uploads/2011/01/playground-NetBeans-IDE-6.9.1_006.png
 
 You can try these themes with a single parameter on you netbeans call, like:
 

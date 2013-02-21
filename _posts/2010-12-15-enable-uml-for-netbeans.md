@@ -21,7 +21,7 @@ NetBeans UML
 
 If you also want to use this feature I will give you an easy 4-step-manual:
 
- [1]: //assets/uploads/2010/12/Selection_001.png
+ [1]: /assets/uploads/2010/12/Selection_001.png
 
 1.  Go to the [Netbeans Module Cluster download page][2]
 2.  Download the ‘*netbeans-6.9.1-201007282301-ml-uml.zip*‘ file (the version number should or could higher or lower, depending on your installed version)

@@ -15,4 +15,4 @@ redbull_tower
 
 
 
- [1]: //assets/uploads/2009/09/SNC00136.jpg
+ [1]: /assets/uploads/2009/09/SNC00136.jpg

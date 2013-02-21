@@ -27,7 +27,7 @@ Dann möchte ich euch nach der kurzen Einführung in X-mailer gestern heute einm
 
 [![X-Mailer drafts alpha][3]][3]
 
- [3]: //assets/uploads/2009/09/codestars_drafts_screen.jpg
+ [3]: /assets/uploads/2009/09/codestars_drafts_screen.jpg
 
 ToDo Für die Draftspage sind noch:
 
