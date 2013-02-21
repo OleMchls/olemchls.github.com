@@ -10,7 +10,15 @@
 	<meta name="author" content="{{ site.author.name }}">
 	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">
 	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
-	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+	<!-- jQuery -->
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<!-- lightview -->
+	<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+	<!--[if lt IE 9]><script src="{{ ASSET_PATH }}/js/excanvas/excanvas.js"></script><![endif]-->
+	<script type="text/javascript" src="{{ ASSET_PATH }}/js/spinners/spinners.min.js"></script>
+	<script type="text/javascript" src="{{ ASSET_PATH }}/js/lightview/lightview.js"></script>
+	<link rel="stylesheet" type="text/css" href="{{ ASSET_PATH }}/css/lightview/lightview.css"/>
 </head>
 <body>
 
@@ -76,6 +84,21 @@
 <script>
 /*! A fix for the iOS orientationchange zoom bug.Script by @scottjehl, rebound by @wilto. MIT License.*/
 (function(j){var i=j.document;if(!i.querySelectorAll){return}var l=i.querySelectorAll("meta[name=viewport]")[0],a=l&&l.getAttribute("content"),h=a+", maximum-scale=1.0",d=a+", maximum-scale=10.0",g=true,c=j.orientation,k=0;if(!l){return}function f(){l.setAttribute("content",d);g=true}function b(){l.setAttribute("content",h);g=false}function e(m){c=Math.abs(j.orientation);k=Math.abs(m.gamma);if(k>8&&c===0){if(g){b()}}else{if(!g){f()}}}j.addEventListener("orientationchange",f,false);j.addEventListener("deviceorientation",e,false)})(this);
+</script>
+<script>
+	$(function(){
+		//lightview
+		$('a img').parent().addClass('lightview')
+		//linkfade
+		/**
+		$('a > img, a > *').mouseenter(function(){
+			var speed= 200
+			$(this).fadeTo(speed, 0.6, function(){
+				$(this).fadeTo(speed, 1)
+			})
+		})
+		**/
+	})
 </script>
 
   {% include JB/analytics %}
