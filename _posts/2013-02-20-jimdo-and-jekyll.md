@@ -13,6 +13,11 @@ tags:
 
 Ohh boy! Such a long time passed since the last post. I just wonna give all of you a few updates.
 
+> TL;DR
+> I'm now working for [Jimdo][jimdo].
+> This blog now runs with [jekyll][jekyll] and [github pages][gh_pages].
+> Please change your reader to [http://feeds.feedburner.com/Codestars][feedburner].
+
 ### I'm a Jimdo'er
 
 [![Jimdo-Team][jimdo-team-pic]][jimdo-team-pic]
@@ -51,6 +56,8 @@ I suggest any wrapper around [jekyll][jekyll] like [jekyll bootstrap][jb] or [oc
 
 So yeah - here it is! My fresh, new, shiny blog crafted with jekyll bootstrap and github pages. It's now responsive, fast, supercool and nerdy. Plus I think this will encourage me to blog more in 2013!
 
+Oh and if you are following my blog on your reader: Please change your reader to [http://feeds.feedburner.com/Codestars][feedburner].
+
  [jimdo-team-pic]: assets/uploads/2013/02/jimdoHQ.jpg
  [codestars]: https://twitter.com/codestars
  [jimdo]: http://jimdo.com/
@@ -65,3 +72,4 @@ So yeah - here it is! My fresh, new, shiny blog crafted with jekyll bootstrap an
  [aeden-poopin]: https://twitter.com/CodeStars/status/291621090390843392
  [aeden-poopin2]: http://storify.com/CodeStars/conversation-with-codestars-and-aeden
  [hello-jekyll]: http://weedygarden.net/2012/12/hello-jekyll/
+ [feedburner]: http://feeds.feedburner.com/Codestars
