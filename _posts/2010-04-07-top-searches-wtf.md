@@ -16,5 +16,5 @@ Top Searches 07.04.2010
 
 Man beachte besonders den 4. Punkt xD
 
- [1]: /assets/uploads/2010/04/zend.png
+ [1]: //assets/uploads/2010/04/zend.png
 

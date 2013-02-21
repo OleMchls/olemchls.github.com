@@ -58,7 +58,7 @@ So yeah - here it is! My fresh, new, shiny blog crafted with jekyll bootstrap an
 
 Oh and if you are following my blog on your reader: Please change your reader to [http://feeds.feedburner.com/Codestars][feedburner].
 
- [jimdo-team-pic]: assets/uploads/2013/02/jimdoHQ.jpg
+ [jimdo-team-pic]: /assets/uploads/2013/02/jimdoHQ.jpg
  [codestars]: https://twitter.com/codestars
  [jimdo]: http://jimdo.com/
  [jekyll]: http://jekyllrb.com/

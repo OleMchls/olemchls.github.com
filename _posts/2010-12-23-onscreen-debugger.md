@@ -36,7 +36,7 @@ vConsole.update(‘bazID’, ‘foobar’);
 For me the most important feature is that not like the browser console. Which creates a new line for every entry, you can update existing entries. As you can see in the example the mouse position on the site.[![VisualConsole UML][2]][2]
 VisualConsole UML
 
- [2]: /assets/uploads/2010/12/visualconsole.png
+ [2]: //assets/uploads/2010/12/visualconsole.png
 
 And yeha we’re so used to UML so I’ll offer a UML for this too. Greets to my Classmates ;)
 

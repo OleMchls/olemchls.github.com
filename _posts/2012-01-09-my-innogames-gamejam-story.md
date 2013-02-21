@@ -31,7 +31,7 @@ Space Kitchen
 
 And you can test and play it [here][2]. Keep in mind that this is a multiplayer game and that it won’t be much fun to play alone, or let me say you can not really play alone. So pick up a colleague and go for a round full of Action and Fun! Oh and please don’t use Chrome, there was a little bug that we can not solve in time. But IE is working (loooool, but really it works) and of cause FF, Opera and Safari too. And don’t forget to turn up your volume ;)
 
- [1]: /assets/uploads/2012/01/spacekitchen.jpg
+ [1]: //assets/uploads/2012/01/spacekitchen.jpg
  [2]: http://codestars.eu:3000 "here"
 
 At the end of this article I’d like to say a huuuuge thanks to all attendees, organizers and of cuase my awesum employer [InnoGames][4]!

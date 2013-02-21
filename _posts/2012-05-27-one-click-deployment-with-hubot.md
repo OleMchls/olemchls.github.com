@@ -19,7 +19,7 @@ Hubot
 
 No? Srsly? Ok you should meet him – [here][2] - now!
 
- [1]: /assets/uploads/2012/05/Screen-Shot-2012-05-27-at-9.51.53-AM.png
+ [1]: //assets/uploads/2012/05/Screen-Shot-2012-05-27-at-9.51.53-AM.png
  [2]: http://hubot.github.com/
 
 Ok now you might have a clue what he’s doing now? Some toy for man, heh? But no honestly he can do much MUCH more. He’s some kind of a friend, he slaps you when you use [inappropriate language][3], replies to [your questions][4] or just let you [waste some time with 9gag][5]. And there is more, it’s up to you to train him [new stuff][6]. Let him do the stuff you hate to do, [pick][7] a pizza delivery service, decide for [a nice song][8] or even let him deploy you app!
@@ -43,7 +43,7 @@ Hubot deploy
 
 This is pretty awesome heh? And because we at Digital Pioneers love Open Source, we will give some love back to the community. So here’s the hubot script: . I’ll contribute the script back to [hubot-scripts][12] after we some how tested it b/c as far as i noticed yet it’s a lil bit buggy. And not that feature complete as i would like to have it.
 
- [11]: /assets/uploads/2012/05/Screen-Shot-2012-05-27-at-10.19.19-AM.jpg
+ [11]: //assets/uploads/2012/05/Screen-Shot-2012-05-27-at-10.19.19-AM.jpg
  [12]: https://github.com/github/hubot-scripts
 
 The bot is also able to list app and clouds, but this features are not that amazing like the deployment thingy, just want to mention it here, to be complete :)
