@@ -13,9 +13,9 @@ tags:
 
 Ohh boy! Such a long time passed since the last post. I just wonna give all of you a few updates.
 
-> TL;DR
-> I'm now working for [Jimdo][jimdo].
-> This blog now runs with [jekyll][jekyll] and [github pages][gh_pages].
+> TL;DR<br />
+> I'm now working for [Jimdo][jimdo].<br />
+> This blog now runs with [jekyll][jekyll] and [github pages][gh_pages].<br />
 > Please change your reader to [http://feeds.feedburner.com/Codestars][feedburner].
 
 ### I'm a Jimdo'er
