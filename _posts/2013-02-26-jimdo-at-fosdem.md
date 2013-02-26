@@ -39,5 +39,5 @@ Ohhhh and then we saw one of the most impressive talks we’ve ever seen. It was
 
 Of course there were also lots of really cool after-party options, like the DevOps dinner sponsored by OpsCode, Puppet Labs and CF Engine. Or attending the overcrowded beer event on Friday or just hanging out in Brussels with the smartest guys in technology. We hope to see you all again in 2014!
 
- [audience]: /assets/uploads/2013/02/IMG_1983.JPG
- [talk]: /assets/uploads/2013/02/IMG_1989.JPG
+ [audience]: /assets/uploads/2013/02/IMG_1983.jpg
+ [talk]: /assets/uploads/2013/02/IMG_1989.jpg
