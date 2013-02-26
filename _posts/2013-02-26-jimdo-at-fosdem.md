@@ -16,7 +16,7 @@ tags:
 February 2nd and 3rd - 5000 nerds overrun Brussels, Belgium, to attend Europe’s biggest **F**ree and **O**pen **S**ource **D**evelopers **E**urope **M**eetup - FOSDEM 2013.
 So, a colleague and I decided that we had to be there too. I had the pleasure of giving a talk in the PHP developer room. In case you missed it, here is our FOSDEM 2013 recap.
 
-[![Jimdo-Team][audience]][audience]
+[![FOSDEM audience][audience]][audience]
 
 We started with the opening keynote including the [FOSDEM dance](http://www.youtube.com/watch?v=qa6UT2CeR_c). Next, we planned to see **How Google builds web services** but unfortunately missed it, as well as some others, because of overcrowded rooms. We also missed **[Using Ruby Testing Frameworks to bring sanity to your infrastructure](https://speakerdeck.com/bryanwb/dont-shrug-integration-testing-for-infrastructure-with-ruby-frameworks)** covering topics like how to mock services in a Service Oriented Architecture environment.
 
@@ -31,7 +31,7 @@ We also learned about [Theory X and Theory Y](http://en.wikipedia.org/wiki/Theor
 
 **[Orchestrating complex deployments on OpenStack using Heat](http://wiki.openstack.org/Heat)** was largely a cool screencast of a live coding session of Heat, which is pretty much an AWS Cloud Formation clone in OpenStack.
 
-[![Jimdo-Team][talk]][talk]
+[![whats wrong with php][talk]][talk]
 
 And finally I also had the pleasure to give my **[What’s wrong with PHP](https://speakerdeck.com/nesquick/whats-wrong-with-php)** talk for the very first time. Luckily Jimdo helped a lot to make this possible! Thank you! :) I got great feedback on my talk and I was really happy when it was done - so I could really enjoy the conference (and the beer).
 
