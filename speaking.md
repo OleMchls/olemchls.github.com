@@ -41,7 +41,9 @@ Here's a short list of conferences or user groups I spoke at.
  * Talk: Automated deployments with robots
  * [Slides][robots_slides]
  * [Website][takeoff_hp]
+ * [Video][takeoff_talk]
 
+ [takeoff_talk]: http://www.youtube.com/watch?v=3_G9mfJkMuM&list=PLMz7qMiFSV93QQUFSDRFWPBcdGHfkySqN
  [takeoff_hp]: http://takeoffconf.com/
 
 ##2012
