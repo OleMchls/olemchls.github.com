@@ -11,7 +11,12 @@ I love spreading the word for things I really love and people always say my enth
 
 Here's a short list of conferences or user groups I spoke at.
 
-##2013
+##2013 - Upcomming
+
+### [ScotlandJS (Edinburgh, Scotland) _9th & 10th May_](http://scotlandjs.com/)
+
+##2013 - Past
+
 ### HH.js (Hamburg, Germany)
  * Talk: Automated deployments with robots
  * [Slides][robots_slides]
