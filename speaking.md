@@ -13,7 +13,9 @@ Here's a short list of conferences or user groups I spoke at.
 
 ##2013 - Upcomming
 
+### [4Developers (Warsaw, Poland) _12th April_](http://2013.4developers.org.pl/en/)
 ### [ScotlandJS (Edinburgh, Scotland) _9th & 10th May_](http://scotlandjs.com/)
+### [PHP UG Berlin (Berlin, Germany) _4th June_](http://www.bephpug.de/)
 
 ##2013 - Past
 
