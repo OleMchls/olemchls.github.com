@@ -13,11 +13,26 @@ Here's a short list of conferences or user groups I spoke at.
 
 ##2013 - Upcomming
 
-### [4Developers (Warsaw, Poland) _12th April_](http://2013.4developers.org.pl/en/)
 ### [ScotlandJS (Edinburgh, Scotland) _9th & 10th May_](http://scotlandjs.com/)
 ### [PHP UG Berlin (Berlin, Germany) _4th June_](http://www.bephpug.de/)
 
 ##2013 - Past
+
+### 4Developers (Warsaw, Poland)
+ * Talk: What's wrong with PHP?
+ * [Slides][phpug_slides_whats_wrong]
+ * [Website][4developers_homepage]
+ 
+ [phpug_slides_whats_wrong]: https://speakerdeck.com/nesquick/whats-wrong-with-php-1
+ [4developers_homepage]: http://2013.4developers.org.pl/en/
+ 
+### PHP user group Hamburg (Hamburg, Germany)
+ * Talk: What's wrong with PHP?
+ * [Slides][phpug_slides_whats_wrong]
+ * [Website][phpug_hp_2013]
+ 
+ [phpug_slides_whats_wrong]: https://speakerdeck.com/nesquick/whats-wrong-with-php-1
+ [phpug_hp_2013]: http://www.phpughh.de/
 
 ### HH.js (Hamburg, Germany)
  * Talk: Automated deployments with robots
