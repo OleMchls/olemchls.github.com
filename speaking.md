@@ -15,6 +15,7 @@ Here's a short list of conferences or user groups I spoke at.
 
 ### [ScotlandJS (Edinburgh, Scotland) _9th & 10th May_](http://scotlandjs.com/)
 ### [PHP UG Berlin (Berlin, Germany) _4th June_](http://www.bephpug.de/)
+### [DevCon June (Tel Aviv, Israel) _20th June_](http://devcon-june2013.events.co.il/)
 
 ##2013 - Past
 
