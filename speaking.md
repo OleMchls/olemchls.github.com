@@ -3,19 +3,45 @@ title: Speaking
 tagline: spreading the love and fun of open source software development and programming in general
 author: Ole Michaelis
 layout: page
+published: false
 ---
 
 I love spreading the word for things I really love and people always say my enthusiasm is contagious. Everytime I do a talk at a conference or user group, people catch me up afterwards and tell me that I made them think or curious about something. And that's why I love doing this! <small>oh, and I just love being in the limelight</small>
 
 > I would love to come to your conference!
 
-Here's a short list of conferences or user groups I spoke at.
+Here's a list of conferences or user groups I spoke at.
 
 ##2013 - Upcomming
 
 ### [ScotlandJS (Edinburgh, Scotland) _9th & 10th May_](http://scotlandjs.com/)
+### [PHP UG Berlin (Berlin, Germany) _4th June_](http://www.bephpug.de/)
+### [DevCon June (Tel Aviv, Israel) _20th June_](http://devcon-june2013.events.co.il/)
+### [ThatConference (Wisconsin Dells, USA) _12th - 14th August_](http://www.thatconference.com/)
 
 ##2013 - Past
+
+### PHPunconference Europe (Berlin, Germany)
+ * Talks:
+  * What's wrong with PHP?
+  * 10 reasons wyo ruby rocks
+ * [Website](http://www.phpuceu.org/)
+
+### 4Developers (Warsaw, Poland)
+ * Talk: What's wrong with PHP?
+ * [Slides][phpug_slides_whats_wrong]
+ * [Website][4developers_homepage]
+ 
+ [phpug_slides_whats_wrong]: https://speakerdeck.com/nesquick/whats-wrong-with-php-1
+ [4developers_homepage]: http://2013.4developers.org.pl/en/
+ 
+### PHP user group Hamburg (Hamburg, Germany)
+ * Talk: What's wrong with PHP?
+ * [Slides][phpug_slides_whats_wrong]
+ * [Website][phpug_hp_2013]
+ 
+ [phpug_slides_whats_wrong]: https://speakerdeck.com/nesquick/whats-wrong-with-php-1
+ [phpug_hp_2013]: http://www.phpughh.de/
 
 ### HH.js (Hamburg, Germany)
  * Talk: Automated deployments with robots
