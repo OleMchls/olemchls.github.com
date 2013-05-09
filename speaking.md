@@ -1,11 +1,3 @@
----
-title: Speaking
-tagline: spreading the love and fun of open source software development and programming in general
-author: Ole Michaelis
-layout: page
-published: false
----
-
 I love spreading the word for things I really love and people always say my enthusiasm is contagious. Everytime I do a talk at a conference or user group, people catch me up afterwards and tell me that I made them think or curious about something. And that's why I love doing this! <small>oh, and I just love being in the limelight</small>
 
 > I would love to come to your conference!
@@ -14,12 +6,17 @@ Here's a list of conferences or user groups I spoke at.
 
 ##2013 - Upcomming
 
-### [ScotlandJS (Edinburgh, Scotland) _9th & 10th May_](http://scotlandjs.com/)
 ### [PHP UG Berlin (Berlin, Germany) _4th June_](http://www.bephpug.de/)
 ### [DevCon June (Tel Aviv, Israel) _20th June_](http://devcon-june2013.events.co.il/)
 ### [ThatConference (Wisconsin Dells, USA) _12th - 14th August_](http://www.thatconference.com/)
 
 ##2013 - Past
+
+### ScotlandJS (Edinburgh, Scotland)
+* Talk: Automated deployments with robots
+* [Slides](https://speakerdeck.com/nesquick/automated-deployments-with-robots-1)
+* [Website](http://scotlandjs.com/)
+* Video (will follow soon)
 
 ### PHPunconference Europe (Berlin, Germany)
  * Talks:
