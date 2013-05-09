@@ -31,6 +31,6 @@ For me people never used linux as an operation system are no real developers. It
 
 So grab your ops colleagues and maybe offer them a little position exchange (everything included, also being on-call) for about a week or so. You will see this will change your mind and you will gather some more insights and gain a better understanding of the so called "system administrators" in your company. Oh and I finally learned some puppet, too.
 
-Sidenote: If you like this topic and want to hear more of this, I will give [a Talk on this topic]() at [ThatConference]() in Wisconsin this August. If you're also curious about this topic please step by and let's have a talk.
+Sidenote: If you like this topic and want to hear more of this, I will give [a Talk on this topic](http://www.thatconference.com/sessions/speaker_Ole_Michaelis) at [ThatConference](http://www.thatconference.com/) in Wisconsin this August. If you're also curious about this topic please step by and let's have a talk.
 
 Jimdo also have a [Developers Blog](http://dev.jimdo.com) you definitely should follow. We try to blog about more specific things we archived so far.
