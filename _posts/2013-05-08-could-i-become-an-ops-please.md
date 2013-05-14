@@ -10,6 +10,10 @@ tags:
   - jimdo
 ---
 
+Test 1
+
+Test 2
+
 I started at Jimdo December 2012, ready to change everything and bring in all my gained knowledge in Software Design and Service Oriented Architecture (SOA). I already knew that the Jimdo system is approximately six years old, so what we all call a "grown system". In fact this means there are a few thing I would do "better", like we have code tightly coupled to the hardware structure and also into itself. No SOA at all, but I want to change that, as I was hired for the Feature team, I realized pretty fast that I, of cause, can't do it alone. I teamed up with [Sönke](https://twitter.com/s0enke) and joined the Infrastructure team. He is a Jimdo since 4 years, so he knows a lot about the system, but he is also a great software architect.
 
 > Why I joined the Infrastructure team?
