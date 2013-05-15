@@ -4,7 +4,7 @@ author: Ole Michaelis
 layout: post
 categories:
   - Jimdo
-  - jekyll
+  - Tools
 tags:
   - jimdo
   - jekyll
