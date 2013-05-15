@@ -7,7 +7,7 @@ categories:
   - Jimdo
 tags:
   - devops
-  - jimdo
+  - learning
 ---
 
 I started at Jimdo in December 2012, ready to change everything and bring in all my gained knowledge in Software Design and Service Oriented Architecture (SOA). I already knew that the Jimdo system was approximately six years old, so what we all call a "grown system". In fact this means that there are a few thing I would do "better", like we have code tightly coupled to the hardware structure and also into itself. No SOA at all, but I want to change that, as I was hired for the Feature team, I quickly realized that I obviously couldn't do it alone. I teamed up with [Sönke](https://twitter.com/s0enke) and joined the Infrastructure team. He has been at Jimdo since 4 years, so he does not only know a lot about the system, but also is a great software architect.
