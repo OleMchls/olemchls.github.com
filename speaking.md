@@ -14,11 +14,15 @@ Here's a list of conferences or user groups I spoke at.
 
 ##2013 - Upcomming
 
-### [PHP UG Berlin (Berlin, Germany) _4th June_](http://www.bephpug.de/)
 ### [DevCon June (Tel Aviv, Israel) _20th June_](http://devcon-june2013.events.co.il/)
 ### [ThatConference (Wisconsin Dells, USA) _12th - 14th August_](http://www.thatconference.com/)
 
 ##2013 - Past
+
+### PHP UG Berlin (Berlin, Germany)
+* Talk: What's wrong with php?
+* [Slides](https://speakerdeck.com/nesquick/whats-wrong-with-php-2)
+* [Website](http://www.bephpug.de/)
 
 ### ScotlandJS (Edinburgh, Scotland)
 * Talk: Automated deployments with robots
