@@ -12,12 +12,21 @@ I love spreading the word for things I really love and people always say my enth
 
 Here's a list of conferences or user groups I spoke at.
 
-##2013 - Upcomming
+##2013 - Upcoming
 
-### [DevCon June (Tel Aviv, Israel) _20th June_](http://devcon-june2013.events.co.il/)
 ### [ThatConference (Wisconsin Dells, USA) _12th - 14th August_](http://www.thatconference.com/)
 
 ##2013 - Past
+
+### TechCon Ramallah June (Ramallah, Palestine)
+* Talk: Automated deployments with robots
+* [Slides](https://speakerdeck.com/nesquick/automated-deployments-with-robots-2)
+
+### DevCon June (Tel Aviv, Israel)
+* Talk: What's wrong with php?
+* [Slides](https://speakerdeck.com/nesquick/whats-wrong-with-php-3)
+* [Website](http://devcon-june2013.events.co.il/)
+* Video (will follow soon)
 
 ### PHP UG Berlin (Berlin, Germany)
 * Talk: What's wrong with php?
@@ -41,15 +50,15 @@ Here's a list of conferences or user groups I spoke at.
  * Talk: What's wrong with PHP?
  * [Slides][phpug_slides_whats_wrong]
  * [Website][4developers_homepage]
- 
+
  [phpug_slides_whats_wrong]: https://speakerdeck.com/nesquick/whats-wrong-with-php-1
  [4developers_homepage]: http://2013.4developers.org.pl/en/
- 
+
 ### PHP user group Hamburg (Hamburg, Germany)
  * Talk: What's wrong with PHP?
  * [Slides][phpug_slides_whats_wrong]
  * [Website][phpug_hp_2013]
- 
+
  [phpug_slides_whats_wrong]: https://speakerdeck.com/nesquick/whats-wrong-with-php-1
  [phpug_hp_2013]: http://www.phpughh.de/
 
@@ -98,7 +107,7 @@ Here's a list of conferences or user groups I spoke at.
 
 ### PHPunconference (Hamburg, Germany)
  * Talk: Application Metrics - measure ALL the things!*
- * [Slides][unconf_slides] 
+ * [Slides][unconf_slides]
  * [Website][unconf_2012]
 
  [unconf_slides]: https://speakerdeck.com/nesquick/application-metrics-measure-all-the-things-star
