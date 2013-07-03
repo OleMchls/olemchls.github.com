@@ -37,7 +37,7 @@ Here's a list of conferences or user groups I spoke at.
 * Talk: Automated deployments with robots
 * [Slides](https://speakerdeck.com/nesquick/automated-deployments-with-robots-1)
 * [Website](http://scotlandjs.com/)
-* Video (will follow soon)
+* [Video](https://vimeo.com/69454968)
 * Audience Notes: [1](http://decadecity.net/blog/2013/05/09/ole-michaelis-automated-deployments-with-robots)
 
 ### PHPunconference Europe (Berlin, Germany)
