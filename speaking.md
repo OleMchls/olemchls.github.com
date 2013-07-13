@@ -29,7 +29,7 @@ Here's a list of conferences or user groups I spoke at.
 * [Website](http://devcon-june2013.events.co.il/)
 * Video: [Surf Geeks](http://www.youtube.com/watch?v=RERjqWWkDIc)
 * Video: [DevconTLV June 2013 - Official Clip](http://www.youtube.com/watch?v=vRiNHEaC5_4)
-* **Video of the talk will follow soon**
+* *Video of the talk will follow soon*
 
 ### PHP UG Berlin (Berlin, Germany)
 * Talk: What's wrong with php?
