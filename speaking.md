@@ -15,7 +15,7 @@ Here's a list of conferences or user groups I spoke at.
 ##2013 - Upcoming
 
 ### [ThatConference (Wisconsin Dells, USA) _12th - 14th August_](http://www.thatconference.com/)
-### [Developer Conference in Hamburg (Hamburg, Germany) _7th & 8th November_](http://www.developer-conference.eu)
+### [Developer Conference (Hamburg, Germany) _7th & 8th November_](http://www.developer-conference.eu)
 
 ##2013 - Past
 
