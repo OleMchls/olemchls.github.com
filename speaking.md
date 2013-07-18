@@ -27,9 +27,10 @@ Here's a list of conferences or user groups I spoke at.
 * Talk: What's wrong with php?
 * [Slides](https://speakerdeck.com/nesquick/whats-wrong-with-php-3)
 * [Website](http://devcon-june2013.events.co.il/)
+* [Talk Page](http://devcon-june2013.events.co.il/presentations/882-whats-wrong-with-php)
+* [Video](http://www.youtube.com/watch?feature=player_embedded&v=jBByC28N1C8)
 * Video: [Surf Geeks](http://www.youtube.com/watch?v=RERjqWWkDIc)
 * Video: [DevconTLV June 2013 - Official Clip](http://www.youtube.com/watch?v=vRiNHEaC5_4)
-* *Video of the talk will follow soon*
 
 ### PHP UG Berlin (Berlin, Germany)
 * Talk: What's wrong with php?
