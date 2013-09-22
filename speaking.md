@@ -14,10 +14,14 @@ Here's a list of conferences or user groups I spoke at.
 
 ##2013 - Upcoming
 
-### [ThatConference (Wisconsin Dells, USA) _12th - 14th August_](http://www.thatconference.com/)
 ### [Developer Conference (Hamburg, Germany) _7th & 8th November_](http://www.developer-conference.eu)
 
 ##2013 - Past
+
+### ThatConference (Wisconsin Dells, USA)
+* Talk: Packing skills to be a devops - and why it's a good thing
+* [Slides](https://speakerdeck.com/nesquick/packing-skills-to-be-a-devops-and-why-thats-a-good-thing)
+* [Website](http://www.thatconference.com/)
 
 ### TechCon Ramallah June (Ramallah, Palestine)
 * Talk: Automated deployments with robots
