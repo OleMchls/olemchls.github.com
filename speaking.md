@@ -14,11 +14,15 @@ Here's a list of conferences or user groups I spoke at.
 
 ##2013 - Upcoming
 
-### [Codemotion (Madrid, Spain) _18th & 19th October_](http://codemotion.es/)
 ### [WebTech Conference (Munich, Germany) _27th - 30th October_](http://webtechcon.de/)
 ### [Developer Conference (Hamburg, Germany) _7th & 8th November_](http://www.developer-conference.eu)
 
 ##2013 - Past
+
+### Codemotion (Madrid, Spain)
+* Talk: Whats's wrong with php?
+* [Slides](https://speakerdeck.com/nesquick/whats-wrong-with-php-4)
+* [Website](http://codemotion.es/)
 
 ### PHPunconference (Hamburg, Germany)
 * Talk: Next Level: DevOps
