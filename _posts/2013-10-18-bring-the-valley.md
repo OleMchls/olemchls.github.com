@@ -14,7 +14,7 @@ tags:
 
 > I will make the valley know, that Hamburg is way more awesome then Berlin!
 
-This is a quote from the [So Coded Conference](http://socoded.com/)  after party. And this, for me as one of the organizers, is one of the biggest compliments we could get. Many people asked me: “Why do you do this?”  Well, that's an obvious question, right? And with this blog post I will try to explain why, especially in relation to the quote above.
+This is a quote from the [So Coded Conference](http://socoded.com/) after party. And this, for me as one of the organizers, is one of the biggest compliments we could get. Many people asked me: “Why do you do this?”  Well, that's an obvious question, right? And with this blog post I will try to explain why, especially in relation to the quote above.
 
 I love the Valley, or more specifically, I love the hacker spirit around there. So many cool tech companies want to change the world we all live in. In every café you enter, you will find nerds sitting in front of their MacBooks, hacking on new things. So what's cool about this? These people don't do it for the money or the fame they might get. They do it because they believe! They believe in the things they build – they believe they can change something. It's the hacker spirit I love and it is tech people like us that are creating this. 
 
