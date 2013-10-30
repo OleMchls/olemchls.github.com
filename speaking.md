@@ -18,7 +18,7 @@ Here's a list of conferences or user groups I spoke at.
 
 ##2014 - Upcoming
 
-### [PHP UK Conference (London, England) _21st & 22ns February_](http://phpconference.co.uk/)
+### [PHP UK Conference (London, England) _21st & 22nd February_](http://phpconference.co.uk/)
 
 ##2013 - Past
 
