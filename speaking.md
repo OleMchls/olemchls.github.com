@@ -12,15 +12,16 @@ I love spreading the word for things I really love and people always say my enth
 
 Here's a list of conferences or user groups I spoke at.
 
-##2013 - Upcoming
-
-#### [Developer Conference (Hamburg, Germany) _7th & 8th November_](http://www.developer-conference.eu)
-
 ##2014 - Upcoming
 
 #### [PHP UK Conference (London, England) _21st & 22nd February_](http://phpconference.co.uk/)
 
-##2013 - Past
+##2013
+
+### Developer Conference (Hamburg, Germany)
+* Talk: Next Level: DevOps
+* [Slides](https://speakerdeck.com/nesquick/next-level-devops-1)
+* [Website](http://www.developer-conference.eu)
 
 ### WebTech Conference (Munich, Germany)
 * Talk: Make it SOLID - Software Architecture for System Administrators
