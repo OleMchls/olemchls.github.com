@@ -15,7 +15,7 @@ Here's a list of conferences or user groups I spoke at.
 ##2014 - Upcoming
 
 #### [PHP UK Conference (London, England) _21st & 22nd February_](http://phpconference.co.uk/)
-#### [Take Off Conference (Lille, France) _30th & 21st January_](http://takeoffconf.com/2014)
+#### [Take Off Conference (Lille, France) _30th & 31st January_](http://takeoffconf.com/2014)
 
 ##2013
 
