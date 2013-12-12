@@ -43,10 +43,10 @@ I cobbled together this logo so that I don’t forget that,
 
 I decided to use the term made popular by [Zed A. Shaw](http://zedshaw.com/): ["Programming Motherfucker”](http://programming-motherfucker.com/). It has a different meaning for me than being against all the Agile stuff which is happening in our community.
 
-It’s more about doing what you love, focusing on why you started doing this kind of job, remembering the reason why I work in this industry. It's about programming, having fun making things, and creating software and *maybe* changing the world!
+It’s more about doing what you love, focusing on why you started doing this kind of job, remembering the reason why I work in this industry. It's about programming, having fun making things, and creating software and _maybe_ changing the world!
 
 I want to make stickers out of it, use it as wallpaper and place it everywhere in my life. Anything to keep myself from forgetting what I am really passionate about.
 
 **Programming Motherfucker!**
 
-*Note: please feel free to use this 'logo' and to place it in your office, bump it to your co-workers screen or paint your wall with it!*
+_Note: please feel free to use this 'logo' and to place it in your office, bump it to your co-workers screen or paint your wall with it!_
