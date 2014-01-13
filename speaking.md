@@ -16,7 +16,9 @@ Here's a list of conferences or user groups I spoke at.
 
 #### [Take Off Conference (Lille, France) _30th & 31st January_](http://takeoffconf.com/2014)
 #### [PHP UK Conference (London, England) _21st & 22nd February_](http://phpconference.co.uk/)
-#### [Code PaLOUsa (Louisville, KY, USA) _24th - 26thnd February_](http://www.codepalousa.com/)
+#### [Code PaLOUsa (Louisville, KY, USA) _24th - 26th February_](http://www.codepalousa.com/)
+#### [OSDC (Berlin, Germany) _08th - 10th April_](http://www.netways.de/osdc/osdc2014/overview/)
+#### [PHPNE (Newcastle, England) _18th March_](http://conference.phpne.org.uk/)
 
 ##2013
 
