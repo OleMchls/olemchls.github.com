@@ -6,7 +6,7 @@ tagline: php, javascript and robots!
 {% include JB/setup %}
 
 {% for post in site.posts limit:10 %}
-  {% if post.tech == true %}{% continue %}{% endif %}
+  {% if post.tech != true %}{% continue %}{% endif %}
   <div class="post">
     <div class="meta">
       <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
