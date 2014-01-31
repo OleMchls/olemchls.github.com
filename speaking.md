@@ -14,13 +14,18 @@ Here's a list of conferences or user groups I spoke at.
 
 ##2014 - Upcoming
 
-#### [Take Off Conference (Lille, France) _30th & 31st January_](http://takeoffconf.com/2014)
 #### [PHP UK Conference (London, England) _21st & 22nd February_](http://phpconference.co.uk/)
 #### [Code PaLOUsa (Louisville, KY, USA) _24th - 26th February_](http://www.codepalousa.com/)
 #### [PHPNE (Newcastle, England) _18th March_](http://conference.phpne.org.uk/)
 #### [OSDC (Berlin, Germany) _08th - 10th April_](http://www.netways.de/osdc/osdc2014/overview/)
 
 ##2013
+
+### Take Off Conference (Lille, France)
+* Talk: Next Level: DevOps
+* [Slides](https://speakerdeck.com/nesquick/next-level-devops-2)
+* [Video](http://www.youtube.com/watch?v=AvUzov1_VCI)
+* [Website](http://takeoffconf.com/2014)
 
 ### Developer Conference (Hamburg, Germany)
 * Talk: Next Level: DevOps
