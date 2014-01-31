@@ -75,7 +75,7 @@ Here's a list of conferences or user groups I spoke at.
 ### PHPunconference Europe (Berlin, Germany)
  * Talks:
   * What's wrong with PHP?
-  * 10 reasons wyo ruby rocks
+  * 10 reasons why ruby rocks
  * [Website](http://www.phpuceu.org/)
 
 ### 4Developers (Warsaw, Poland)
