@@ -10,8 +10,8 @@ markdown: redcarpet
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : CodeStars Development
-tagline: php, javascript and robots!
+title : codestars.eu
+tagline: just me sharing my toughts on things which bothers me
 author :
   name : Ole Michaelis
   email : Ole.Michaelis@googlemail.com
