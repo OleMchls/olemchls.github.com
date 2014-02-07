@@ -38,7 +38,7 @@ Here's a list of conferences or user groups I spoke at.
 * Talk: Make it SOLID - Software Architecture for System Administrators
 * [Slides](https://speakerdeck.com/nesquick/make-it-solid-software-architecture-for-system-administrators)
 * [Website](http://webtechcon.de/)
-* Video will follow soon
+* [Video](http://www.youtube.com/watch?v=unU7WF3E4No)
 
 ### Codemotion (Madrid, Spain)
 * Talk: Whats's wrong with php?
