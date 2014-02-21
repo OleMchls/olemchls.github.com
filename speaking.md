@@ -14,12 +14,17 @@ Here's a list of conferences or user groups I spoke at.
 
 ##2014 - Upcoming
 
-#### [PHP UK Conference (London, England) _21st & 22nd February_](http://phpconference.co.uk/)
 #### [Code PaLOUsa (Louisville, KY, USA) _24th - 26th February_](http://www.codepalousa.com/)
 #### [PHPNE (Newcastle, England) _18th March_](http://conference.phpne.org.uk/)
 #### [OSDC (Berlin, Germany) _08th - 10th April_](http://www.netways.de/osdc/osdc2014/overview/)
 
 ##2014
+
+### PHP UK Conference (London, England)
+* Talk: Service Oriented Architecture for Robust and Scalable Systems
+* [Slides](https://speakerdeck.com/nesquick/service-oriented-architecture-for-robust-and-scalable-systems)
+* Video will follow soon
+* [Website](http://phpconference.co.uk/)
 
 ### Take Off Conference (Lille, France)
 * Talk: Next Level: DevOps
