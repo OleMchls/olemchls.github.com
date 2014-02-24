@@ -2,6 +2,7 @@
 title: Calculate age with PHP DateTime
 author: Ole Michaelis
 layout: post
+tech: true
 categories:
   - One Step
   - PHP

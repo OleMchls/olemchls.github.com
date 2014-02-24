@@ -2,6 +2,7 @@
 title: 'One-click-deployment with Hubot &#8211; Hubot: my new mate, co-worker and devops engineer'
 author: Ole Michaelis
 layout: post
+tech: true
 categories:
   - Digital Pioneers
   - OpenSource

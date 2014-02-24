@@ -2,6 +2,7 @@
 title: Themes for Netbeans
 author: Ole Michaelis
 layout: post
+tech: true
 categories:
   - Tools
 tags:

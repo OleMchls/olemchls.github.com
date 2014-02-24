@@ -2,6 +2,7 @@
 title: 'Inner &#8216;Classes&#8217; in JavaScript'
 author: Ole Michaelis
 layout: post
+tech: true
 categories:
   - JavaScript
   - One Step

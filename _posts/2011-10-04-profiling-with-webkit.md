@@ -2,6 +2,7 @@
 title: Profiling with WebKit
 author: Jan Scheurer
 layout: post
+tech: true
 categories:
   - JavaScript
   - Speed Up!

@@ -2,6 +2,7 @@
 title: Change URL without reload
 author: Jan Scheurer
 layout: post
+tech: true
 categories:
   - JavaScript
 tags:

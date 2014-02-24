@@ -2,6 +2,7 @@
 title: 'Hubot on nodejitsu'
 author: Ole Michaelis
 layout: post
+tech: true
 categories:
   - Hubot
   - JavaScript
