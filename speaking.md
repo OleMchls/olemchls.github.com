@@ -16,6 +16,8 @@ Here's a list of conferences or user groups I spoke at.
 
 #### [PHPNE (Newcastle, England) _18th March_](http://conference.phpne.org.uk/)
 #### [OSDC (Berlin, Germany) _08th - 10th April_](http://www.netways.de/osdc/osdc2014/overview/)
+#### [Dutch PHP Conference (Amsterdam, Netherlands) _26th - 28th June_](http://www.phpconference.nl/)
+#### [enterJS 2014 (Köln, Germany) _30th June - 2nd July_](http://www.enterjs.de/)
 
 ##2014
 
