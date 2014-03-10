@@ -14,11 +14,16 @@ Here's a list of conferences or user groups I spoke at.
 
 ##2014 - Upcoming
 
-#### [Code PaLOUsa (Louisville, KY, USA) _24th - 26th February_](http://www.codepalousa.com/)
 #### [PHPNE (Newcastle, England) _18th March_](http://conference.phpne.org.uk/)
 #### [OSDC (Berlin, Germany) _08th - 10th April_](http://www.netways.de/osdc/osdc2014/overview/)
 
 ##2014
+
+### Code PaLOUsa (Louisville, KY, USA) 
+* Talk: Queue it! What job queues can do for you!
+* [Slides](https://speakerdeck.com/nesquick/queue-it-what-job-queues-can-do-for-you)
+* Video will follow soon
+* [Website](http://www.codepalousa.com/)
 
 ### PHP UK Conference (London, England)
 * Talk: Service Oriented Architecture for Robust and Scalable Systems
