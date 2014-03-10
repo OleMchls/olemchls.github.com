@@ -25,6 +25,7 @@ Here's a list of conferences or user groups I spoke at.
 * [Slides](https://speakerdeck.com/nesquick/service-oriented-architecture-for-robust-and-scalable-systems)
 * Video will follow soon
 * [Website](http://phpconference.co.uk/)
+* [Audience Feedback](http://joind.in/talk/view/10689)
 
 ### Take Off Conference (Lille, France)
 * Talk: Next Level: DevOps
@@ -127,6 +128,7 @@ Here's a list of conferences or user groups I spoke at.
  * Talk: What’s wrong with php?
  * [Slides][what_wrong_with_php_slides]
  * [Website][fosdem_hp]
+ * [Audience Feedback](http://joind.in/talk/view/8070)
 
  [what_wrong_with_php_slides]: https://speakerdeck.com/nesquick/whats-wrong-with-php
  [fosdem_hp]: https://fosdem.org/2013/schedule/speaker/ole_michaelis/
