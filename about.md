@@ -7,6 +7,8 @@ layout: page
 
 [![Ole Michaelis][1]][1]
 
+  > Ole Michaelis is the co-founder of SoCoded, a hackfest and web development conference in Hamburg. He’s a Software Engineer at Jimdo, a DIY website creator, where he focuses on backend development. In his free time, he’s building slidr.io, a hazzle-free slide sharing platform. Ole is passionate about open source software, enjoys traveling, and loves Mexican food. He classifies himself as a 'bad' German as he dislikes beer and soccer – the traditional German past-times.
+
 After my traineeship at [InnoGames][2] I continued working there as a lead developer for a big social game. Next station was [Digital Pioneers N.V.][3] there I’ve done a lot of high tech protoyping and DevOps working with Symfony2, MongoDB, EC2, Scalarium, Redis, Node.js, CoffeeScript, statsd, metrics and other cool tech stuff. After I left there I joined my current company [Jimdo][4], here I try to bring in my knowledge in software quality and cloud computing.
 
 I really love all the new technologies from NoSQL and node.js to Metrics Driven Development and bringing cool tools and tech to my developer colleagues. And I really really enjoy speaking at conferences and user groups, like I did on [TakeOff Conference 2013][5] or [FOSDEM 2013][6].
