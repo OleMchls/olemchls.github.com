@@ -21,7 +21,6 @@ If you find an old german post: I started this Blog in German, but after my firs
  [4]: http://www.jimdo.com
  [5]: http://takeoffconf.com
  [6]: https://fosdem.org/2013/schedule/speaker/ole_michaelis/
- 
 
 ###Public Key:
 
