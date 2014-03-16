@@ -9,9 +9,9 @@ layout: page
 
 [1]: /assets/about/ole.png "Ole Michaelis Profile Pictures"
 
-After my traineeship at [InnoGames][http://www.innogames.de] I continued working there as a lead developer for a big social game. Next station was [Digital Pioneers N.V.][http://www.digitalpioneers.de] there I’ve done a lot of high tech protoyping and DevOps working with Symfony2, MongoDB, EC2, Scalarium, Redis, Node.js, CoffeeScript, statsd, metrics and other cool tech stuff. After I left there I joined my current company [Jimdo][http://www.jimdo.com], here I try to bring in my knowledge in software quality and cloud computing.
+After my traineeship at [InnoGames](http://www.innogames.de) I continued working there as a lead developer for a big social game. Next station was [Digital Pioneers N.V.](http://www.digitalpioneers.de) there I’ve done a lot of high tech protoyping and DevOps working with Symfony2, MongoDB, EC2, Scalarium, Redis, Node.js, CoffeeScript, statsd, metrics and other cool tech stuff. After I left there I joined my current company [Jimdo](http://www.jimdo.com), here I try to bring in my knowledge in software quality and cloud computing.
 
-I really love all the new technologies from NoSQL and node.js to Metrics Driven Development and bringing cool tools and tech to my developer colleagues. And I really really enjoy speaking at conferences and user groups, like I did on [TakeOff Conference 2013][http://takeoffconf.com] or [FOSDEM 2013][https://fosdem.org/2013/schedule/speaker/ole_michaelis/].
+I really love all the new technologies from NoSQL and node.js to Metrics Driven Development and bringing cool tools and tech to my developer colleagues. And I really really enjoy speaking at conferences and user groups, like I did on [TakeOff Conference 2013](http://takeoffconf.com) or [FOSDEM 2013](https://fosdem.org/2013/schedule/speaker/ole_michaelis/).
 
 If you find an old german post: I started this Blog in German, but after my first more or less successfull post I realized that more and more people came here with a page translater, so I decided to continue in English.
 
