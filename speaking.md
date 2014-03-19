@@ -14,14 +14,20 @@ Here's a list of conferences or user groups I spoke at.
 
 ##2014 - Upcoming
 
-#### [PHPNE (Newcastle, England) _18th March_](http://conference.phpne.org.uk/)
 #### [OSDC (Berlin, Germany) _08th - 10th April_](http://www.netways.de/osdc/osdc2014/overview/)
 #### [DPC (Amsterdam, Netherlands) _26th - 28th June_](http://www.phpconference.nl/)
 #### [enterJS 2014 (Cologne, Germany) _30th June - 2nd July_](http://www.enterjs.de/)
 
 ##2014
 
-### Code PaLOUsa (Louisville, KY, USA) 
+### PHPNE (Newcastle, England)
+* Talks:
+  * Service Oriented Architecture for Robust and Scalable Systems
+  * Create the perfect slide deck in 5 minutes
+* Slides: [SOA](https://speakerdeck.com/nesquick/service-oriented-architecture-for-robust-and-scalable-systems-1), [The perfect slide deck](https://speakerdeck.com/nesquick/create-the-perfect-slide-deck-in-5-minutes)
+* [Website](http://conference.phpne.org.uk/)
+
+### Code PaLOUsa (Louisville, KY, USA)
 * Talk: Queue it! What job queues can do for you!
 * [Slides](https://speakerdeck.com/nesquick/queue-it-what-job-queues-can-do-for-you)
 * Video will follow soon
