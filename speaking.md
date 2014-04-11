@@ -14,11 +14,15 @@ Here's a list of conferences or user groups I spoke at.
 
 ## 2014 - Upcoming
 
-#### [OSDC (Berlin, Germany) _08th - 10th April_](http://www.netways.de/osdc/osdc2014/overview/)
 #### [DPC (Amsterdam, Netherlands) _26th - 28th June_](http://www.phpconference.nl/)
 #### [enterJS 2014 (Cologne, Germany) _30th June - 2nd July_](http://www.enterjs.de/)
 
-##2014
+## 2014
+
+### OSDC (Berlin, Germany)
+* Talk: Make it SOLID. Software Architecture for System Administrators
+* [Slides](https://speakerdeck.com/nesquick/make-it-solid-software-architecture-for-system-administrators-1)
+* [Website](http://www.netways.de/osdc/osdc2014/overview/)
 
 ### PHPNE (Newcastle, England)
 * Talks:
