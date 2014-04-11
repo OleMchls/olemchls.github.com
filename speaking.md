@@ -12,7 +12,7 @@ I love spreading the word for things I really love and people always say my enth
 
 Here's a list of conferences or user groups I spoke at.
 
-##2014 - Upcoming
+## 2014 - Upcoming
 
 #### [OSDC (Berlin, Germany) _08th - 10th April_](http://www.netways.de/osdc/osdc2014/overview/)
 #### [DPC (Amsterdam, Netherlands) _26th - 28th June_](http://www.phpconference.nl/)
@@ -46,7 +46,7 @@ Here's a list of conferences or user groups I spoke at.
 * [Video](http://www.youtube.com/watch?v=AvUzov1_VCI)
 * [Website](http://takeoffconf.com/2014)
 
-##2013
+## 2013
 
 ### Developer Conference (Hamburg, Germany)
 * Talk: Next Level: DevOps
@@ -155,7 +155,7 @@ Here's a list of conferences or user groups I spoke at.
  [takeoff_talk]: http://www.youtube.com/watch?v=3_G9mfJkMuM&list=PLMz7qMiFSV93QQUFSDRFWPBcdGHfkySqN
  [takeoff_hp]: http://takeoffconf.com/
 
-##2012
+## 2012
 ### Symfony user group Hamburg (Hamburg, Germany)
  * Talk: Travis CI - Continuous Integration for the masses!
  * [Slides][travis_slides]
