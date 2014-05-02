@@ -23,6 +23,7 @@ Here's a list of conferences or user groups I spoke at.
 * Talk: Make it SOLID. Software Architecture for System Administrators
 * [Slides](https://speakerdeck.com/nesquick/make-it-solid-software-architecture-for-system-administrators-1)
 * [Website](http://www.netways.de/osdc/osdc2014/overview/)
+* [Video](https://www.youtube.com/watch?v=r0Px7FI1-84)
 
 ### PHPNE (Newcastle, England)
 * Talks:
