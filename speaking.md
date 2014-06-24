@@ -41,7 +41,7 @@ Here's a list of conferences or user groups I spoke at.
 ### PHP UK Conference (London, England)
 * Talk: Service Oriented Architecture for Robust and Scalable Systems
 * [Slides](https://speakerdeck.com/nesquick/service-oriented-architecture-for-robust-and-scalable-systems)
-* [Video](https://www.youtube.com/watch?v=M7aDoofLSmk&index=29&list=PL_aPVo2HeGF-7o9SPO5arFrAaU8bcIjba)
+* [Video](https://www.youtube.com/watch?v=ZcHV4nc_DTM&list=PL_aPVo2HeGF-7o9SPO5arFrAaU8bcIjba&index=32)
 * [Website](http://phpconference.co.uk/)
 * [Audience Feedback](http://joind.in/talk/view/10689)
 
