@@ -14,10 +14,16 @@ Here's a list of conferences or user groups I spoke at.
 
 ## 2014 - Upcoming
 
-#### [DPC (Amsterdam, Netherlands) _26th - 28th June_](http://www.phpconference.nl/)
 #### [enterJS 2014 (Cologne, Germany) _30th June - 2nd July_](http://www.enterjs.de/)
+#### [nodeconf ONE-SHOT (London, UK) _19th July_](http://london.nodeconf.com/)
 
 ## 2014
+
+### DPC (Amsterdam, Netherlands)
+* Talk: Queue it! What job queues can do for you!
+* [Slides](https://speakerdeck.com/nesquick/queue-it-what-job-queues-can-do-for-you-1)
+* [Website](http://www.phpconference.nl/)
+* [Audience Feedback](http://joind.in/talk/view/10866)
 
 ### OSDC (Berlin, Germany)
 * Talk: Make it SOLID. Software Architecture for System Administrators
