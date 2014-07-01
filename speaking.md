@@ -14,10 +14,14 @@ Here's a list of conferences or user groups I spoke at.
 
 ## 2014 - Upcoming
 
-#### [enterJS 2014 (Cologne, Germany) _30th June - 2nd July_](http://www.enterjs.de/)
 #### [nodeconf ONE-SHOT (London, UK) _19th July_](http://london.nodeconf.com/)
 
 ## 2014
+
+### enterJS 2014 (Cologne, Germany)
+* Talk: Next Level: DevOps
+* [Slides](https://speakerdeck.com/nesquick/next-level-devops-3)
+* [Website](http://www.enterjs.de/)
 
 ### DPC (Amsterdam, Netherlands)
 * Talk: Queue it! What job queues can do for you!
