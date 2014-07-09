@@ -15,6 +15,7 @@ Here's a list of conferences or user groups I spoke at.
 ## 2014 - Upcoming
 
 #### [nodeconf ONE-SHOT (London, UK) _19th July_](http://london.nodeconf.com/)
+#### [endpoint (Amsterdam, NL) _5th September_](http://endpointcon.com/)
 
 ## 2014
 
