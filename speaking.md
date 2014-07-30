@@ -50,7 +50,7 @@ Here's a list of conferences or user groups I spoke at.
 ### Code PaLOUsa (Louisville, KY, USA)
 * Talk: Queue it! What job queues can do for you!
 * [Slides](https://speakerdeck.com/nesquick/queue-it-what-job-queues-can-do-for-you)
-* Video will follow soon
+* [Video](http://www.infoq.com/presentations/job-queue-gearman-beanstalkd)
 * [Website](http://www.codepalousa.com/)
 
 ### PHP UK Conference (London, England)
