@@ -14,6 +14,7 @@ Here's a list of conferences or user groups I spoke at.
 ## 2014 - Upcoming
 
 #### [endpoint (Amsterdam, NL) _5th September_](http://endpointcon.com/)
+#### [Ruby Day 2014 (H-Farm, Italy) _26th September_](http://www.rubyday.it/)
 #### [code.talks (Hamburg, Germany) _9th & 10th October_](http://www.codetalks.de/)
 
 ## 2014
