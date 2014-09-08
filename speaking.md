@@ -13,11 +13,15 @@ Here's a list of conferences or user groups I spoke at.
 
 ## 2014 - Upcoming
 
-#### [endpoint (Amsterdam, NL) _5th September_](http://endpointcon.com/)
 #### [Ruby Day 2014 (H-Farm, Italy) _26th September_](http://www.rubyday.it/)
 #### [code.talks (Hamburg, Germany) _9th & 10th October_](http://www.codetalks.de/)
 
 ## 2014
+
+### endpoint (Amsterdam, NL)
+* Talk: Service Oriented Architecture for Robust and Scalable Systems
+* [Slides](http://slidr.io/nesQuick/service-oriented-architecture-for-robust-and-scalable-systems-2##1)
+* [Website](http://endpointcon.com/)
 
 ### nodeconf ONE-SHOT (London, UK)
 * Talk: Next Level Chat Robots
