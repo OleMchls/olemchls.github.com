@@ -25,23 +25,23 @@ Here's a list of conferences or user groups I spoke at.
 
 ### nodeconf ONE-SHOT (London, UK)
 * Talk: Next Level Chat Robots
-* [Slides](https://speakerdeck.com/nesquick/next-level-chat-robots)
+* [Slides](http://slidr.io/nesQuick/next-level-chat-robots)
 * [Website](http://london.nodeconf.com/)
 
 ### enterJS 2014 (Cologne, Germany)
 * Talk: Next Level: DevOps
-* [Slides](https://speakerdeck.com/nesquick/next-level-devops-3)
+* [Slides](http://slidr.io/nesQuick/next-level-devops-3)
 * [Website](http://www.enterjs.de/)
 
 ### DPC (Amsterdam, Netherlands)
 * Talk: Queue it! What job queues can do for you!
-* [Slides](https://speakerdeck.com/nesquick/queue-it-what-job-queues-can-do-for-you-1)
+* [Slides](http://slidr.io/nesQuick/queue-it-what-job-queues-can-do-for-you-1)
 * [Website](http://www.phpconference.nl/)
 * [Audience Feedback](http://joind.in/talk/view/10866)
 
 ### OSDC (Berlin, Germany)
 * Talk: Make it SOLID. Software Architecture for System Administrators
-* [Slides](https://speakerdeck.com/nesquick/make-it-solid-software-architecture-for-system-administrators-1)
+* [Slides](http://slidr.io/nesQuick/make-it-solid-software-architecture-for-system-administrators-1)
 * [Website](http://www.netways.de/osdc/osdc2014/overview/)
 * [Video](https://www.youtube.com/watch?v=r0Px7FI1-84)
 
@@ -49,25 +49,25 @@ Here's a list of conferences or user groups I spoke at.
 * Talks:
   * Service Oriented Architecture for Robust and Scalable Systems
   * Create the perfect slide deck in 5 minutes
-* Slides: [SOA](https://speakerdeck.com/nesquick/service-oriented-architecture-for-robust-and-scalable-systems-1), [The perfect slide deck](https://speakerdeck.com/nesquick/create-the-perfect-slide-deck-in-5-minutes)
+* Slides: [SOA](http://slidr.io/nesQuick/service-oriented-architecture-for-robust-and-scalable-systems-1), [The perfect slide deck](http://slidr.io/nesQuick/create-the-perfect-slide-deck-in-5-minutes)
 * [Website](http://conference.phpne.org.uk/)
 
 ### Code PaLOUsa (Louisville, KY, USA)
 * Talk: Queue it! What job queues can do for you!
-* [Slides](https://speakerdeck.com/nesquick/queue-it-what-job-queues-can-do-for-you)
+* [Slides](http://slidr.io/nesQuick/queue-it-what-job-queues-can-do-for-you)
 * [Video](http://www.infoq.com/presentations/job-queue-gearman-beanstalkd)
 * [Website](http://www.codepalousa.com/)
 
 ### PHP UK Conference (London, England)
 * Talk: Service Oriented Architecture for Robust and Scalable Systems
-* [Slides](https://speakerdeck.com/nesquick/service-oriented-architecture-for-robust-and-scalable-systems)
+* [Slides](http://slidr.io/nesQuick/service-oriented-architecture-for-robust-and-scalable-systems)
 * [Video](https://www.youtube.com/watch?v=ZcHV4nc_DTM&list=PL_aPVo2HeGF-7o9SPO5arFrAaU8bcIjba&index=32)
 * [Website](http://phpconference.co.uk/)
 * [Audience Feedback](http://joind.in/talk/view/10689)
 
 ### Take Off Conference (Lille, France)
 * Talk: Next Level: DevOps
-* [Slides](https://speakerdeck.com/nesquick/next-level-devops-2)
+* [Slides](http://slidr.io/nesQuick/next-level-devops-2)
 * [Video](http://www.youtube.com/watch?v=AvUzov1_VCI)
 * [Website](http://takeoffconf.com/2014)
 
@@ -75,36 +75,36 @@ Here's a list of conferences or user groups I spoke at.
 
 ### Developer Conference (Hamburg, Germany)
 * Talk: Next Level: DevOps
-* [Slides](https://speakerdeck.com/nesquick/next-level-devops-1)
+* [Slides](http://slidr.io/nesQuick/next-level-devops-1)
 * [Website](http://www.developer-conference.eu)
 
 ### WebTech Conference (Munich, Germany)
 * Talk: Make it SOLID - Software Architecture for System Administrators
-* [Slides](https://speakerdeck.com/nesquick/make-it-solid-software-architecture-for-system-administrators)
+* [Slides](http://slidr.io/nesQuick/make-it-solid-software-architecture-for-system-administrators)
 * [Website](http://webtechcon.de/)
 * [Video](http://www.youtube.com/watch?v=unU7WF3E4No)
 
 ### Codemotion (Madrid, Spain)
 * Talk: Whats's wrong with php?
-* [Slides](https://speakerdeck.com/nesquick/whats-wrong-with-php-4)
+* [Slides](http://slidr.io/nesQuick/whats-wrong-with-php-4)
 * [Website](http://codemotion.es/)
 
 ### PHPunconference (Hamburg, Germany)
 * Talk: Next Level: DevOps
-* [Slides](https://speakerdeck.com/nesquick/next-level-devops)
+* [Slides](http://slidr.io/nesQuick/next-level-devops)
 
 ### ThatConference (Wisconsin Dells, USA)
 * Talk: Packing skills to be a devops - and why it's a good thing
-* [Slides](https://speakerdeck.com/nesquick/packing-skills-to-be-a-devops-and-why-thats-a-good-thing)
+* [Slides](http://slidr.io/nesQuick/packing-skills-to-be-a-devops-and-why-thats-a-good-thing)
 * [Website](http://www.thatconference.com/)
 
 ### TechCon Ramallah June (Ramallah, Palestine)
 * Talk: Automated deployments with robots
-* [Slides](https://speakerdeck.com/nesquick/automated-deployments-with-robots-2)
+* [Slides](http://slidr.io/nesQuick/automated-deployments-with-robots-2)
 
 ### DevCon June (Tel Aviv, Israel)
 * Talk: What's wrong with php?
-* [Slides](https://speakerdeck.com/nesquick/whats-wrong-with-php-3)
+* [Slides](http://slidr.io/nesQuick/whats-wrong-with-php-3)
 * [Website](http://devcon-june2013.events.co.il/)
 * [Talk Page](http://devcon-june2013.events.co.il/presentations/882-whats-wrong-with-php)
 * [Video](http://www.youtube.com/watch?feature=player_embedded&v=jBByC28N1C8)
@@ -113,12 +113,12 @@ Here's a list of conferences or user groups I spoke at.
 
 ### PHP UG Berlin (Berlin, Germany)
 * Talk: What's wrong with php?
-* [Slides](https://speakerdeck.com/nesquick/whats-wrong-with-php-2)
+* [Slides](http://slidr.io/nesQuick/whats-wrong-with-php-2)
 * [Website](http://www.bephpug.de/)
 
 ### ScotlandJS (Edinburgh, Scotland)
 * Talk: Automated deployments with robots
-* [Slides](https://speakerdeck.com/nesquick/automated-deployments-with-robots-1)
+* [Slides](http://slidr.io/nesQuick/automated-deployments-with-robots-1)
 * [Website](http://scotlandjs.com/)
 * [Video](https://vimeo.com/69454968)
 * Audience Notes: [1](http://decadecity.net/blog/2013/05/09/ole-michaelis-automated-deployments-with-robots)
@@ -134,7 +134,7 @@ Here's a list of conferences or user groups I spoke at.
  * [Slides][phpug_slides_whats_wrong]
  * [Website][4developers_homepage]
 
- [phpug_slides_whats_wrong]: https://speakerdeck.com/nesquick/whats-wrong-with-php-1
+ [phpug_slides_whats_wrong]: http://slidr.io/nesQuick/whats-wrong-with-php-1
  [4developers_homepage]: http://2013.4developers.org.pl/en/
 
 ### PHP user group Hamburg (Hamburg, Germany)
@@ -142,7 +142,7 @@ Here's a list of conferences or user groups I spoke at.
  * [Slides][phpug_slides_whats_wrong]
  * [Website][phpug_hp_2013]
 
- [phpug_slides_whats_wrong]: https://speakerdeck.com/nesquick/whats-wrong-with-php-1
+ [phpug_slides_whats_wrong]: http://slidr.io/nesQuick/whats-wrong-with-php-1
  [phpug_hp_2013]: http://www.phpughh.de/
 
 ### HH.js (Hamburg, Germany)
@@ -152,7 +152,7 @@ Here's a list of conferences or user groups I spoke at.
  * [Video][hhjs_video]
 
  [hhjs]: http://www.meetup.com/hamburg-js/events/72891992/
- [robots_slides]: https://speakerdeck.com/nesquick/automated-deployments-with-robots
+ [robots_slides]: http://slidr.io/nesQuick/automated-deployments-with-robots
  [hhjs_video]: http://lecture2go.uni-hamburg.de/veranstaltungen/-/v/14758
 
 ### Symfony user group Hamburg (Hamburg, Germany)
@@ -168,7 +168,7 @@ Here's a list of conferences or user groups I spoke at.
  * [Website][fosdem_hp]
  * [Audience Feedback](http://joind.in/talk/view/8070)
 
- [what_wrong_with_php_slides]: https://speakerdeck.com/nesquick/whats-wrong-with-php
+ [what_wrong_with_php_slides]: http://slidr.io/nesQuick/whats-wrong-with-php
  [fosdem_hp]: https://fosdem.org/2013/schedule/speaker/ole_michaelis/
 
 ### Take Off Conference (Lille, France)
@@ -186,7 +186,7 @@ Here's a list of conferences or user groups I spoke at.
  * [Slides][travis_slides]
  * [Website][sf_ug_hh_2012]
 
- [travis_slides]: https://speakerdeck.com/nesquick/travis-ci-continuous-integration-for-the-masses
+ [travis_slides]: http://slidr.io/nesQuick/travis-ci-continuous-integration-for-the-masses
  [sf_ug_hh_2012]: http://www.meetup.com/sfughh/events/91521812/
 
 ### PHPunconference (Hamburg, Germany)
@@ -194,7 +194,7 @@ Here's a list of conferences or user groups I spoke at.
  * [Slides][unconf_slides]
  * [Website][unconf_2012]
 
- [unconf_slides]: https://speakerdeck.com/nesquick/application-metrics-measure-all-the-things-star
+ [unconf_slides]: http://slidr.io/nesQuick/application-metrics-measure-all-the-things-star
  [unconf_2012]: http://contribs.eu.phpunconf.org/
 
 ### PHP user group Hamburg (Hamburg, Germany)
@@ -202,5 +202,5 @@ Here's a list of conferences or user groups I spoke at.
  * [Slides][phpug_slides_2012]
  * [Website][phpug_hp_2012]
 
- [phpug_slides_2012]: https://speakerdeck.com/nesquick/application-metrics-phpughh
+ [phpug_slides_2012]: http://slidr.io/nesQuick/application-metrics-phpughh
  [phpug_hp_2012]: http://www.meetup.com/phpughh/events/64049162/
