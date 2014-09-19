@@ -14,7 +14,10 @@ Here's a list of conferences or user groups I spoke at.
 ## 2014 - Upcoming
 
 #### [Ruby Day 2014 (H-Farm, Italy) _26th September_](http://www.rubyday.it/)
+#### [Open (Beta)house (Hamburg, Germany) _2nd October_](http://hamburg.betahaus.de/event/open-house-im-betahaus-hamburg/)
 #### [code.talks (Hamburg, Germany) _9th & 10th October_](http://www.codetalks.de/)
+#### [IPC 2014 (Munich, Germany) _26th - 29th October_](http://phpconference.com/2014)
+#### [RubyConf (San Diego, CA, USA) _17th - 19th November_](http://rubyconf.org/)
 
 ## 2014
 
