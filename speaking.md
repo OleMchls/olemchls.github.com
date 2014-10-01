@@ -36,7 +36,7 @@ Here's a list of conferences or user groups I spoke at.
 * Slides: [Skalierbare Architekturen durch verteilte Infrastruktur](http://slidr.io/nesQuick/service-oriented-architecture-for-robust-and-scalable-systems-2##1)
 * [Website](http://www.php-unconference.de/)
 
-### endpoint (Amsterdam, NL)
+### endpoint (Amsterdam, Netherlands)
 * Talk: Service Oriented Architecture for Robust and Scalable Systems
 * [Slides](http://slidr.io/nesQuick/service-oriented-architecture-for-robust-and-scalable-systems-2)
 * [Website](http://endpointcon.com/)
