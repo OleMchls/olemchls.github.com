@@ -25,8 +25,10 @@ Here's a list of conferences or user groups I spoke at.
 ## 2014
 
 ### Ruby Day Italy (H-Farm, Italy)
-* Talk: Service Oriented Architecture for Robust and Scalable Systems
-* [Slides](http://slidr.io/nesQuick/service-oriented-architecture-for-robust-and-scalable-systems-2)
+* Talks: 
+  * Service Oriented Architecture for Robust and Scalable Systems
+  * Build the perfect web application with these 12 weird tricks
+* Slides: [SOA](http://slidr.io/nesQuick/service-oriented-architecture-for-robust-and-scalable-systems-2), [12 Factor](http://slidr.io/nesQuick/build-the-perfect-web-application-with-these-12-weird-tricks##1)
 * [Website](http://www.rubyday.it/)
 
 ### PHPunconference (Hamburg, Germany)
