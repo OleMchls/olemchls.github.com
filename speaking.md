@@ -20,7 +20,7 @@ Here's a list of conferences or user groups I spoke at.
 
 ## 2015 - Upcoming
 
-#### [CodeMash (Sandusky, OH, USA) _6th - 9th January](http://www.codemash.org/)
+#### [CodeMash (Sandusky, OH, USA) _6th - 9th January_](http://www.codemash.org/)
 
 ## 2014
 
