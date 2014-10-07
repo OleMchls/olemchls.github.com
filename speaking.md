@@ -23,7 +23,7 @@ Here's a list of conferences or user groups I spoke at.
 
 ## 2014
 
-### [Open (Beta)house (Hamburg, Germany) _2nd October_]
+### Open (Beta)house
 * Talk: Chat Robots – Der kleine Helfer im Teamchat mach das Leben einfacher und die Teams produktiver
 * [Website](http://hamburg.betahaus.de/event/open-house-im-betahaus-hamburg/)
 
