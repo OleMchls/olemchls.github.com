@@ -13,7 +13,6 @@ Here's a list of conferences or user groups I spoke at.
 
 ## 2014 - Upcoming
 
-#### [code.talks (Hamburg, Germany) _9th & 10th October_](http://www.codetalks.de/)
 #### [IPC 2014 (Munich, Germany) _26th - 29th October_](http://phpconference.com/2014)
 #### [RubyConf (San Diego, CA, USA) _17th - 19th November_](http://rubyconf.org/)
 
@@ -23,7 +22,12 @@ Here's a list of conferences or user groups I spoke at.
 
 ## 2014
 
-### Open (Beta)house
+### code.talks (Hamburg, Germany)
+* Talk: Service Oriented Architecture for Robust and Scalable Systems
+* [Slides](http://slidr.io/nesQuick/service-oriented-architecture-for-robust-and-scalable-systems-2)
+* [Website](http://www.codetalks.de/)
+
+### Open (Beta)house (Hamburg, Germany)
 * Talk: Chat Robots – Der kleine Helfer im Teamchat mach das Leben einfacher und die Teams produktiver
 * [Website](http://hamburg.betahaus.de/event/open-house-im-betahaus-hamburg/)
 
