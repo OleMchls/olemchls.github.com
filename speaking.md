@@ -15,6 +15,7 @@ Here's a list of conferences or user groups I spoke at.
 
 #### [IPC 2014 (Munich, Germany) _26th - 29th October_](http://phpconference.com/2014)
 #### [RubyConf (San Diego, CA, USA) _17th - 19th November_](http://rubyconf.org/)
+#### [Codemotion Milan (Milan, Italy) _28th - 29th November_](http://milan.codemotionworld.com/)
 
 ## 2015 - Upcoming
 
