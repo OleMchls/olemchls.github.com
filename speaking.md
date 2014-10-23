@@ -37,6 +37,7 @@ Here's a list of conferences or user groups I spoke at.
   * Build the perfect web application with these 12 weird tricks
 * Slides: [SOA](http://slidr.io/nesQuick/service-oriented-architecture-for-robust-and-scalable-systems-2), [12 Factor](http://slidr.io/nesQuick/build-the-perfect-web-application-with-these-12-weird-tricks##1)
 * [Website](http://www.rubyday.it/)
+* Videos: [SOA](https://www.youtube.com/watch?v=SYr-XgybLG0&index=1&list=PL5ImBN21eKvbQ6kH6WCAqj1QqgusGsiO0), [12 Factor](https://www.youtube.com/watch?v=kTrSHOJxeLw&index=9&list=PL5ImBN21eKvbQ6kH6WCAqj1QqgusGsiO0)
 
 ### PHPunconference (Hamburg, Germany)
 * Talks:
