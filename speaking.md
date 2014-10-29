@@ -13,7 +13,6 @@ Here's a list of conferences or user groups I spoke at.
 
 ## 2014 - Upcoming
 
-#### [IPC 2014 (Munich, Germany) _26th - 29th October_](http://phpconference.com/2014)
 #### [RubyConf (San Diego, CA, USA) _17th - 19th November_](http://rubyconf.org/)
 #### [Codemotion Milan (Milan, Italy) _28th - 29th November_](http://milan.codemotionworld.com/)
 
@@ -22,6 +21,16 @@ Here's a list of conferences or user groups I spoke at.
 #### [CodeMash (Sandusky, OH, USA) _6th - 9th January_](http://www.codemash.org/)
 
 ## 2014
+
+### IPC 2014 (Munich, Germany)
+* Talks:
+  * Next Level: DevOps
+  * Queue it! What job queues can do for you!
+* Slides
+  * [Next Level: DevOps](http://slidr.io/nesQuick/next-level-devops-4)
+  * [Queue it! What job queues can do for you!](http://slidr.io/nesQuick/queue-it-what-job-queues-can-do-for-you-2)
+* Interview about DevOps (coming soon)
+* [Website](http://phpconference.com/2014)
 
 ### code.talks (Hamburg, Germany)
 * Talk: Service Oriented Architecture for Robust and Scalable Systems
