@@ -29,7 +29,7 @@ Here's a list of conferences or user groups I spoke at.
 * Slides
   * [Next Level: DevOps](http://slidr.io/nesQuick/next-level-devops-4)
   * [Queue it! What job queues can do for you!](http://slidr.io/nesQuick/queue-it-what-job-queues-can-do-for-you-2)
-* Interview about DevOps (coming soon)
+* [Interview about DevOps](http://phpmagazin.de/videos/ole-michaelis-devops-177500)
 * [Website](http://phpconference.com/2014)
 
 ### code.talks (Hamburg, Germany)
