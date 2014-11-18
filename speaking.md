@@ -13,7 +13,7 @@ Here's a list of conferences or user groups I spoke at.
 
 ## 2014 - Upcoming
 
-#### [RubyConf (San Diego, CA, USA) _17th - 19th November_](http://rubyconf.org/)
+
 #### [Codemotion Milan (Milan, Italy) _28th - 29th November_](http://milan.codemotionworld.com/)
 
 ## 2015 - Upcoming
@@ -21,6 +21,11 @@ Here's a list of conferences or user groups I spoke at.
 #### [CodeMash (Sandusky, OH, USA) _6th - 9th January_](http://www.codemash.org/)
 
 ## 2014
+
+### RubyConf (San Diego, CA, USA)
+* Talk: Chat Robots Next Level Tooling
+* [Slides](http://slidr.io/nesQuick/next-level-chat-robots-1#1)
+* [Website](http://rubyconf.org/)
 
 ### IPC 2014 (Munich, Germany)
 * Talks:
