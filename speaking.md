@@ -9,18 +9,18 @@ I love spreading the word for things I really love and people always say my enth
 
 > I would love to come to your conference!
 
-Here's a list of conferences or user groups I spoke at.
-
-## 2014 - Upcoming
-
-
-#### [Codemotion Milan (Milan, Italy) _28th - 29th November_](http://milan.codemotionworld.com/)
+Here's a list of conferences I spoke at.
 
 ## 2015 - Upcoming
 
 #### [CodeMash (Sandusky, OH, USA) _6th - 9th January_](http://www.codemash.org/)
 
 ## 2014
+
+### Codemotion Milan (Milan, Italy)
+* Talk: Programming Motherfucker or how I rediscovered my hacker spirit
+* [Slides](http://slidr.io/nesQuick/programming-motherfucker-or-how-i-rediscovered-my-hacker-spirit)
+* [Website](http://milan.codemotionworld.com/)
 
 ### RubyConf (San Diego, CA, USA)
 * Talk: Chat Robots Next Level Tooling
