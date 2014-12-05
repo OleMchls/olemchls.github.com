@@ -25,7 +25,7 @@ Here's a list of conferences I spoke at.
 ### RubyConf (San Diego, CA, USA)
 * Talk: Chat Robots Next Level Tooling
 * [Slides](http://slidr.io/nesQuick/next-level-chat-robots-1#1)
-* Video: coming soon
+* [Video](http://www.confreaks.com/videos/4834-RubyConf2014-chat-robots-next-level-tooling)
 * [Website](http://rubyconf.org/)
 
 ### IPC 2014 (Munich, Germany)
