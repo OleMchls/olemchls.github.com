@@ -20,6 +20,7 @@ Here's a list of conferences I spoke at.
 ### Codemotion Milan (Milan, Italy)
 * Talk: Programming Motherfucker or how I rediscovered my hacker spirit
 * [Slides](http://slidr.io/nesQuick/programming-motherfucker-or-how-i-rediscovered-my-hacker-spirit)
+* Video: coming soon...
 * [Website](http://milan.codemotionworld.com/)
 
 ### RubyConf (San Diego, CA, USA)
