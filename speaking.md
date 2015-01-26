@@ -16,7 +16,7 @@ Here's a list of conferences I spoke at.
 ### CodeMash (Sandusky, OH, USA)
 * Talk: Chat Robots Next Level Tooling
 * [Slides](http://slidr.io/nesQuick/chat-robots-next-level-tooling)
-* Pictures [1](http://cl.ly/image/3z1F0E2r3G0v/p203521411-5.jpg)[2](http://cl.ly/image/1q000E3D2h2z/p312414562-5.jpg)[3](http://cl.ly/image/1t45391D2517/p329075554-5.jpg)
+* Pictures [1](http://cl.ly/image/3z1F0E2r3G0v/p203521411-5.jpg) [2](http://cl.ly/image/1q000E3D2h2z/p312414562-5.jpg) [3](http://cl.ly/image/1t45391D2517/p329075554-5.jpg)
 * [Website](http://www.codemash.org/)
 
 ## 2014
