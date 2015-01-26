@@ -11,9 +11,12 @@ I love spreading the word for things I really love and people always say my enth
 
 Here's a list of conferences I spoke at.
 
-## 2015 - Upcoming
+## 2015
 
-#### [CodeMash (Sandusky, OH, USA) _6th - 9th January_](http://www.codemash.org/)
+### CodeMash (Sandusky, OH, USA)
+* Talk: Chat Robots Next Level Tooling
+* [Slides](http://slidr.io/nesQuick/chat-robots-next-level-tooling)
+* [Website](http://www.codemash.org/)
 
 ## 2014
 
