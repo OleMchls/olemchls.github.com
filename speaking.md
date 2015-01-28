@@ -11,6 +11,10 @@ I love spreading the word for things I really love and people always say my enth
 
 Here's a list of conferences I spoke at.
 
+## 2015 - Upcoming
+
+#### [Code PaLOUsa (Louisville, KY, USA) _27h - 30th April_](http://codepalousa.com/)
+
 ## 2015
 
 ### CodeMash (Sandusky, OH, USA)
