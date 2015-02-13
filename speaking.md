@@ -14,6 +14,7 @@ Here's a list of conferences I spoke at.
 ## 2015 - Upcoming
 
 #### [Code PaLOUsa (Louisville, KY, USA) _27h - 30th April_](http://codepalousa.com/)
+#### [Joy of Coding (Rotterdam, Netherlands) _29th May_](http://joyofcoding.org/)
 
 ## 2015
 
