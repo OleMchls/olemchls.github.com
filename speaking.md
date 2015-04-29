@@ -13,10 +13,14 @@ Here's a list of conferences I spoke at.
 
 ## 2015 - Upcoming
 
-#### [Code PaLOUsa (Louisville, KY, USA) _27h - 30th April_](http://codepalousa.com/)
 #### [Joy of Coding (Rotterdam, Netherlands) _29th May_](http://joyofcoding.org/)
 
 ## 2015
+
+### Code PaLOUsa (Louisville, KY, USA)
+* Talk: Build the perfect web application with these 12 weird tricks
+* [Slides](http://slidr.io/nesQuick/build-the-perfect-web-application-with-these-12-weird-tricks-1)
+* [Website](http://codepalousa.com/)
 
 ### CodeMash (Sandusky, OH, USA)
 * Talk: Chat Robots Next Level Tooling
