@@ -13,9 +13,14 @@ Here's a list of conferences I spoke at.
 
 ## 2015 - Upcoming
 
-#### [Joy of Coding (Rotterdam, Netherlands) _29th May_](http://joyofcoding.org/)
+#### [code.talks (Hamburg, Germany) _29th & 30th September_](http://www.codetalks.de/)
 
 ## 2015
+
+### Joy of Coding (Rotterdam, Netherlands)
+* Talk: The story of one who ever finally shipped something
+* [Slides](http://slidr.io/nesQuick/the-story-of-one-who-ever-finally-shipped-something)
+* [Website](http://joyofcoding.org/)
 
 ### Code PaLOUsa (Louisville, KY, USA)
 * Talk: Build the perfect web application with these 12 weird tricks
