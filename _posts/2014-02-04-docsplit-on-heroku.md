@@ -12,7 +12,6 @@ tags:
   - heroku
   - buildpacks
 ---
-{% include JB/setup %}
 
 I often search the web for things! But in roughly 20% of the cases even google don't have the answer to my very specific questions. So to prevent you I just want to blog more often tech stuff again. So lets go!
 

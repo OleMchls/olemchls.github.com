@@ -15,7 +15,6 @@ tags:
   - programming motherfucker
   - so coded
 ---
-{% include JB/setup %}
 
 When I was 18, still living at my parents house, a good friend of mine and I volunteered for Europe's biggest internet radio [#Musik](http://www.rautemusik.fm/) to rewrite their website. I was still a trainee at my current company and had a normal 8 hour working day. Right after finishing that, I arrived home and started hacking the website. It was a hilarious time, but I learned a lot and we had so much fun! We also made a lot of mistakes, like writing our own framework and implementing every shitty component on our own. And even if PHP 5.3 was there at the time, we didn't give a fuck about name spacing our code and such.
 
@@ -35,7 +34,7 @@ As I mentioned before, I've attended so many conferences and I always saw so man
 
 I asked a bad ass UX expert and friend of mine ([Fabian](https://twitter.com/filtercake)) for help, and lucky me, he also really liked that idea and the challenge of creating something new on a green field. So as of now we are a team of two passionate developers / designers getting our own playground for new technologies we always wanted to play around with. And we aren't just making a demo for the purpose of testing things, we are building a real app.
 
-In the past few days, I’ve been thinking about what happened over the last few months, and I realized that whenever I share this story I inspire people. That's also why I am sharing the story here. Sometimes I’m afraid that I’ll lose this feeling again, and I don’t want it to take me another 3 years to rediscover it. 
+In the past few days, I’ve been thinking about what happened over the last few months, and I realized that whenever I share this story I inspire people. That's also why I am sharing the story here. Sometimes I’m afraid that I’ll lose this feeling again, and I don’t want it to take me another 3 years to rediscover it.
 
 I cobbled together this logo so that I don’t forget that,
 

@@ -12,7 +12,6 @@ tags:
   - first talk
   - talk topic
 ---
-{% include JB/setup %}
 
 <small>this article was initially published with the March edition of [php[architect]](http://www.phparch.com/) magazine. I want to thank them that they allowed me to published the post here on my blog, too!</small>
 

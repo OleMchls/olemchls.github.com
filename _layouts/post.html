@@ -1,5 +1,15 @@
 ---
 layout: default
 ---
-{% include JB/setup %}
-{% include themes/the-minimum/post.html %}
+
+<article id="main">
+  <header>
+    <h2>{{ page.title }}</h2>
+    <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+  <section class="wrapper style5">
+    <div class="inner">
+      {{ content }}
+    </div>
+  </section>
+</article>
