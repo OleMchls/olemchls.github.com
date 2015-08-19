@@ -1,0 +1,24 @@
+---
+title: Speaking
+layout: page
+tagline: spreading the love and fun of programming
+---
+
+<p>I love spreading the word for things I really love and people always say my enthusiasm is contagious. Everytime I do a talk at a conference or user group, people catch me up afterwards and tell me that I made them think or curious about something. And that's why I love doing this! <i>oh, and I just love being in the limelight</i>
+<p>I would love to come to your conference!</p>
+
+<h2>Upcoming & Past Conferences</h2>
+{% for year in site.data.gigs %}
+  <h3>{{ year.year }}</h3>
+  {% for gig in year.conferences %}
+    <header>
+      <h4><a href="{{ gig.url }}">{{ gig.name }}</a></h4>
+      <p>{% if gig.date %}{{ gig.date }} <i>/</i> {% endif %}{{ gig.location }}</p>
+    </header>
+    <!-- <ul>
+      {% if gig.talk %}<li>Talk: {{ gig.talk }}</li>{% endif %}
+      {% if gig.slides %}<li><a href="{{ gig.slides }}" >Slides</a></li>{% endif %}
+    </ul> -->
+  {% endfor %}
+  <hr />
+{% endfor %}
