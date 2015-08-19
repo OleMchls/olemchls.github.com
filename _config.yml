@@ -16,5 +16,5 @@ permalink: /:year/:title
 exclude:
   - example
 
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
