@@ -80,23 +80,14 @@ body.landing #page-wrapper {
       {% for post in site.posts limit:10 %}
       <li class="icon {% if post.tech != true %}fa-bullhorn{% else %}fa-code{% endif %}">
         <h3>{{ post.title }}</h3>
-        <p>{{ post.excerpt | strip_html | truncatewords: 20  }}<br /><a href="{{post.url}}">read it</a></p>
+        <p>{{ post.content | strip_html | truncatewords: 20  }}<br /><a href="{{post.url}}">read it</a></p>
       </li>
       {% endfor %}
     </ul>
   </div>
 </section>
 
-<!-- CTA -->
-<section id="cta" class="wrapper style4">
-  <div class="inner">
-    <header>
-      <h2>Arcue ut vel commodo</h2>
-      <p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
-    </header>
-    <ul class="actions vertical">
-      <li><a href="#" class="button fit special">Activate</a></li>
-      <li><a href="#" class="button fit">Learn More</a></li>
-    </ul>
-  </div>
+<!-- spacer -->
+<section class="wrapper style4">
+  <div class="inner"></div>
 </section>
