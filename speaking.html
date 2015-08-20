@@ -2,6 +2,7 @@
 title: Speaking
 layout: page
 tagline: spreading the love and fun of programming
+banner: /images/socoded2015-1.jpg
 ---
 
 <p>I love spreading the word for things I really love and people always say my enthusiasm is contagious. Everytime I do a talk at a conference or user group, people catch me up afterwards and tell me that I made them think or curious about something. And that's why I love doing this! <i>oh, and I just love being in the limelight</i>
@@ -10,15 +11,15 @@ tagline: spreading the love and fun of programming
 <h2>Upcoming & Past Conferences</h2>
 {% for year in site.data.gigs %}
   <h3>{{ year.year }}</h3>
+  <ul class="alt">
   {% for gig in year.conferences %}
-    <header>
-      <h4><a href="{{ gig.url }}">{{ gig.name }}</a></h4>
-      <p>{% if gig.date %}{{ gig.date }} <i>/</i> {% endif %}{{ gig.location }}</p>
-    </header>
-    <!-- <ul>
-      {% if gig.talk %}<li>Talk: {{ gig.talk }}</li>{% endif %}
-      {% if gig.slides %}<li><a href="{{ gig.slides }}" >Slides</a></li>{% endif %}
-    </ul> -->
+    <li>
+      <b>{{ gig.name }}</b> <small><a href="{{ gig.url }}" style="border-bottom: none"><i class="fa fa-external-link"></i></a></small> <small class="light">{% if gig.date %}{{ gig.date }} <i>/</i> {% endif %}{{ gig.location }}</small>
+      {% if gig.talk %}<br /><i>{{ gig.talk }}</i> <small>{% if gig.slides %}<a href="{{ gig.slides }}" >slides</a>{% endif %}</small> {% endif %}
+    </li>
   {% endfor %}
-  <hr />
+  </ul>
+
+  {% if forloop.last == false %}<hr />{% endif %}
+
 {% endfor %}

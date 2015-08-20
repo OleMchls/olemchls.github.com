@@ -3812,3 +3812,12 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	/* CUSTOM SHIT*/
+	small {
+		font-size: 0.8em;
+	}
+
+	small.light {
+		color: #8E8892;
+	}
