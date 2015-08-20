@@ -16,7 +16,6 @@ tags:
   - audio
   - devops
 ---
-{% include JB/setup %}
 
 I was a guest at [DESCRIPTIVE](http://descriptive.audio/) a podcast from my friend [Kahlil Lechelt](https://twitter.com/distilledhype). I talked about various topics, including how we do DevOps at Jimdo, the stoy of so coded and the bliss I found in developing [slidr.io](http://slidr.io).
 

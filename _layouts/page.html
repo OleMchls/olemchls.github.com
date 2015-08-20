@@ -1,5 +1,17 @@
 ---
 layout: default
 ---
-{% include JB/setup %}
-{% include themes/the-minimum/page.html %}
+
+{% include banner.html %}
+
+<article id="main">
+  <header>
+    <h2>{{ page.title }}</h2>
+    <p>{% if page.tagline %}{{ page.tagline }}{% endif %}</p>
+  </header>
+  <section class="wrapper style5">
+    <div class="inner">
+      {{ content }}
+    </div>
+  </section>
+</article>

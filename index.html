@@ -1,19 +1,93 @@
 ---
-layout: page
-title: blog
-tagline: just me sharing my toughts on things which bothers me
+layout: default
 ---
-{% include JB/setup %}
 
-{% for post in site.posts limit:10 %}
-  {% if post.tech == true %}{% continue %}{% endif %}
-  <div class="post">
-    <div class="meta">
-      <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
-      <p class="post_time">{{ post.date | date_to_string }}, <a href="{{post.url}}#disqus_thread">comments</a></p>
-    </div>
-    <div class="article_body">
-      {{ post.content }}
-    </div>
+<style>
+body.landing #page-wrapper {
+    background-image: -moz-linear-gradient(center top , rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/socoded2015-1.jpg");
+}
+</style>
+
+<!-- Banner -->
+<section id="banner">
+  <div class="inner">
+    <h2>Ole Michaelis</h2>
+    <p>software developer<br />
+    conference speaker and organizer<br />
+    and knows how to juggle<sup>*</sup><br />
+    <small><sup>*</sup>seriously — also <a href="https://twitter.com/CodeStars">tweets</a></small></p>
+    <ul class="actions">
+      <!-- <li><a href="#" class="button">Wooohoooo 🙌</a></li> -->
+    </ul>
   </div>
-{% endfor %}
+  <a href="#one" class="more scrolly">Learn More</a>
+</section>
+
+<!-- One -->
+<section id="one" class="wrapper style1 special">
+  <div class="inner">
+    <header class="major">
+      <h2>Working at <a href="http://jimdo.com">Jimdo</a>, curator of <a href="http://socoded.com">So Coded</a> and <a href="http://slidr.io">slidr.io</a></h2>
+      <p>Passionate Software Engineer who is also into DevOps.<br />
+      I 💖 ruby, node, php, metrics, NoSQL and especially all bleeding edge stuff.*<br />
+      <small>* hates hardware</small>
+    </p>
+    </header>
+    <ul class="icons major">
+      <li><span class="icon fa-diamond major style1"><span class="label">I</span></span></li>
+      <li><span class="icon fa-heart-o major style2"><span class="label">love</span></span></li>
+      <li><span class="icon fa-code major style3"><span class="label">code</span></span></li>
+    </ul>
+  </div>
+</section>
+
+<!-- Two -->
+<section id="two" class="wrapper alt style2">
+  <section class="spotlight">
+    <div class="image"><img src="/images/socoded2015-4.JPG  " alt="socoded family picture" /></div><div class="content">
+      <h2>So Coded</h2>
+      <p>After Thorben, Sebastian and me were at Take Off Conf 2013, we came up with the idea to create our own event and Julia joind our Team. In Sempember 2013 the very first So Coded took place. After 2 years break and so many requests, we decided to do it again. So Coded 2015 happend in July at a old Church with 12 international speakers!</p>
+      <p><a href="http://socoded.com">socoded.com</a></p>
+    </div>
+  </section>
+  <section class="spotlight">
+    <div class="image"><img src="/images/slidrio-crew.png" alt="" /></div><div class="content">
+      <h2>slidr.io</h2>
+      <p>slidr.io is a side project which became reality because of the need for such a tool.
+         A slide sharing plattform which works on mobile (mobile first) and focus around the deck and also makes the slide content more accessible.
+         Startet 2013 after the first So Coded as a proof of concept that pdf.js can be used for displaying slides in the browser it
+         continues to be a real matter of heart! ❤️  </p>
+      <p><a href="http://slidr.io">slidr.io</a></p>
+    </div>
+  </section>
+  <section class="spotlight">
+    <div class="image"><img src="/images/speaking-at-takeoff.png" alt="" /></div><div class="content">
+      <h2>speaking</h2>
+      <p>Sice the back in the school days, the joy of sharing knowledge and speaking infront of awesome people was there. After the first international appearence at TakeOff Conference 2013, I've been at over 50 conferences around the world speaking about various aspects of programming and software.</p>
+      <p><a href="/speaking.html">read more</a><br /><a href="/speaking.html">upcoming events</a></p>
+    </div>
+  </section>
+</section>
+
+<!-- Three -->
+<section id="three" class="wrapper style3 special">
+  <div class="inner">
+    <header class="major">
+      <h2>Blogging</h2>
+      <p>Every once in a while, and not as often as it should.<br />A fresh blog article appears here.</p>
+    </header>
+    <ul class="features">
+      {% for post in site.posts limit:10 %}
+      <li class="icon {% if post.tech != true %}fa-bullhorn{% else %}fa-code{% endif %}">
+        <h3>{{ post.title }}</h3>
+        <p>{{ post.content | strip_html | truncatewords: 20  }}<br /><a href="{{post.url}}">read it</a></p>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<!-- spacer -->
+<section class="wrapper style4">
+  <div class="inner"></div>
+</section>
