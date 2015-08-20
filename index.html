@@ -80,7 +80,7 @@ body.landing #page-wrapper {
     <ul class="features">
       {% for post in site.posts limit:10 %}
       <li class="icon {% if post.tech != true %}fa-bullhorn{% else %}fa-code{% endif %}">
-        <h3>{{ post.title }}</h3>
+        <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
         <p>{{ post.content | strip_html | truncatewords: 20  }}<br /><a href="{{post.url}}">read it</a></p>
       </li>
       {% endfor %}
