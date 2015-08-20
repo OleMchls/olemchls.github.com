@@ -4,11 +4,9 @@ layout: page
 banner: /images/socoded2015-3.jpg
 ---
 
-After my traineeship at [InnoGames](http://www.innogames.de) I continued working there as a lead developer for their biggest big social game WestWars. Next station [Digital Pioneers N.V.](http://www.digitalpioneers.de) where I’ve done a lot of high tech protoyping and DevOps working with various new tech stuff. After I left DP, I joined [Jimdo](http://www.jimdo.com), here I try to bring in my knowledge in software quality, architecture and the cloud.
+After my traineeship at [InnoGames](http://www.innogames.de) I continued working there as a lead developer for their biggest big social game WestWars. Next station [Digital Pioneers N.V.](http://www.digitalpioneers.de) where I’ve done a lot of high tech prototyping and DevOps working with various new tech stuff. After I left DP, I joined [Jimdo](http://www.jimdo.com), here I try to bring in my knowledge in software quality, architecture and the cloud.
 
 I really love all the new technologies from NoSQL and node.js to Metrics Driven Development and bringing cool tools and tech to my developer colleagues. And I really really enjoy speaking at conferences and user groups, like I did on [CodeMash 2015](http://www.codemash.org/) or [FOSDEM 2013](https://fosdem.org).
-
-If you find an old german post, it is because I started this Blog in German, but after my first more or less successfull post I realized that more and more people came here with a page translater, so I decided to continue in English.
 
 This is what you will find on all the conference websites
 
