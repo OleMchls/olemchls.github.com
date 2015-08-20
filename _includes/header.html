@@ -1,5 +1,5 @@
-<header id="header" class="alt">
-  <h1><a href="index.html">{{ site.title }}</a></h1>
+<header id="header" {% if page.landing %}class="alt"{% endif %}>
+  <h1><a href="/index.html">{{ site.title }}</a></h1>
   <nav id="nav">
     <ul>
       <li class="special">
