@@ -1,9 +1,5 @@
 - year: 2015 - Upcoming
   conferences:
-    - name: code.talks
-      location: Hamburg, Germany
-      url: http://www.codetalks.de/
-      date: 29th & 30th September
     - name: SymfonyLive Berlin
       location: Berlin, Germany
       url: http://berlin2015.live.symfony.com/
@@ -15,6 +11,12 @@
 
 - year: 2015
   conferences:
+    - name: code.talks
+      location: Hamburg, Germany
+      url: http://www.codetalks.de/
+      talk: Whirlwind tour through the HTTP2 spec
+      slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec
+      
     - name: Joy of Coding
       location: Rotterdam, Netherlands
       url: http://joyofcoding.org/
