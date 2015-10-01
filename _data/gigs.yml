@@ -1,13 +1,17 @@
-- year: 2015 - Upcoming
+- year: Upcoming
   conferences:
     - name: SymfonyLive Berlin
       location: Berlin, Germany
       url: http://berlin2015.live.symfony.com/
-      date: 13th - 16th October
+      date: 13th - 16th October 2015
     - name: Codemotion Berlin
       location: Berlin, Germany
       url: http://berlin2015.codemotionworld.com/
-      date: 2nd & 3rd November
+      date: 2nd & 3rd November 2015
+    - name: CodeMash 2.0.1.6
+      location: Sandusky, OH, USA
+      url: http://www.codemash.org/
+      date: 5th - 8th January 2016
 
 - year: 2015
   conferences:
