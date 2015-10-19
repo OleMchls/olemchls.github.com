@@ -1,9 +1,5 @@
 - year: Upcoming
   conferences:
-    - name: SymfonyLive Berlin
-      location: Berlin, Germany
-      url: http://berlin2015.live.symfony.com/
-      date: 13th - 16th October 2015
     - name: Codemotion Berlin
       location: Berlin, Germany
       url: http://berlin2015.codemotionworld.com/
@@ -15,6 +11,12 @@
 
 - year: 2015
   conferences:
+      - name: SymfonyLive Berlin
+      location: Berlin, Germany
+      url: http://berlin2015.live.symfony.com/
+      talk: Robuste und Skalierbare Anwendungen durch Verteilte Systeme
+      slides: https://slidr.io/nesQuick/robuste-und-skalierbare-anwendungen-durch-verteilte-systeme
+      
     - name: code.talks
       location: Hamburg, Germany
       url: http://www.codetalks.de/
