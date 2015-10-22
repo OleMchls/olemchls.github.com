@@ -19,6 +19,7 @@ tags:
 Follow the steps in the [installation instructions](https://letsencrypt.readthedocs.org/en/latest/using.html#installation-and-usage).
 
 ## Generating the certificate
+
 ```bash
 ./letsencrypt-auto --agree-dev-preview --server \
       https://acme-v01.api.letsencrypt.org/directory auth
@@ -29,6 +30,7 @@ The first question is if you'd like the standalone verification or the manual on
 The client will ask you for the domain(s) you want to have included in the certificate.
 
 Next you will be presented with a challenge which looks basically like this:
+
 ```bash
 Make sure your web server displays the following content at
 http://slidr.io/.well-known/acme-challenge/<some hash> before continuing:
@@ -59,6 +61,7 @@ end
 ```
 
 As I mentioned it will not follow redirects, so make sure you **temporarily** disable it.
+
 ```ruby
 # config/environments/production.rb
 config.force_ssl = false
@@ -75,6 +78,7 @@ IMPORTANT NOTES:
 ```
 
 Now I had to upload the cert to Heroku:
+
 ```bash
 sudo heroku certs:update /etc/letsencrypt/live/slidr.io/cert.pem /etc/letsencrypt/live/slidr.io/privkey.pem
 ```
