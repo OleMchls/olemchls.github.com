@@ -69,6 +69,7 @@ config.force_ssl = false
 
 ## Uploading the certificate to Heroku ssl
 After pressing `Enter` and waiting a few secs, I was presentes with the following message
+
 ```
 IMPORTANT NOTES:
  - Congratulations! Your certificate has been saved at
