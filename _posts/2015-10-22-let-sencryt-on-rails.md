@@ -13,7 +13,7 @@ tags:
   - ssl
 ---
 
-[Let's Encrypt](https://letsencrypt.org) is here to fix the web with free SSL certificates for everyone! And [slidr.io](https://slidr.io/) was choosen as a beta tester. As of now slidr.io operates under a Let's Encrypt certificate, and I hope they will gain a lot of tracing with this. I want to share how I got through the challenges with my rails app hosted on Heroku and uploaded the certificate.
+[Let's Encrypt](https://letsencrypt.org) is here to fix the web with free SSL certificates for everyone, and I hope they will gain a lot of tracing with this! [slidr.io](https://slidr.io/) was choosen as a beta tester. And operates with a Let's Encrypt certificate I want to share how I got through the challenges with my rails app hosted on Heroku and uploaded the certificate.
 
 ## Setup
 Follow the steps in the [installation instructions](https://letsencrypt.readthedocs.org/en/latest/using.html#installation-and-usage).
