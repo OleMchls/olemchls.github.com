@@ -84,7 +84,7 @@ Now I had to upload the cert to Heroku:
 sudo heroku certs:update /etc/letsencrypt/live/slidr.io/fullchain.pem /etc/letsencrypt/live/slidr.io/privkey.pem
 ```
 
-*headsup: it is important that you choose the `fullchain.pem` because otherweise some browsers might mark your site as untrusted.*
+*headsup: it is important that you choose the `fullchain.pem` because otherwise some browsers might mark your site as untrusted.*
 
 That's it already. I hope this little guide helps you too, or gave you some insights how the Let's Encrypt process looks like.
 
