@@ -1,9 +1,5 @@
 - year: Upcoming
   conferences:
-    - name: Codemotion Berlin
-      location: Berlin, Germany
-      url: http://berlin2015.codemotionworld.com/
-      date: 2nd & 3rd November 2015
     - name: CodeMash 2.0.1.6
       location: Sandusky, OH, USA
       url: http://www.codemash.org/
@@ -15,6 +11,12 @@
 
 - year: 2015
   conferences:
+    - name: Codemotion Berlin
+      location: Berlin, Germany
+      url: http://berlin2015.codemotionworld.com/
+      talk: Whirlwind tour through the HTTP2 spec
+      slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec-1
+      
     - name: SymfonyLive Berlin
       location: Berlin, Germany
       url: http://berlin2015.live.symfony.com/
