@@ -16,5 +16,4 @@ permalink: /:year/:title
 exclude:
   - example
 
-markdown: redcarpet
 highlighter: rouge
