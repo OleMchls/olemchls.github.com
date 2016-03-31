@@ -1,13 +1,19 @@
 - year: Upcoming
   conferences:
+  
+- year: 2016
+  conferences:
+    - name:  PHP UK Conference
+      location: London, UK
+      url: http://phpconference.co.uk/
+      talk: Whirlwind tour through the HTTP2 spec
+      slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec-3
+      
     - name: CodeMash 2.0.1.6
       location: Sandusky, OH, USA
       url: http://www.codemash.org/
-      date: 5th - 8th January 2016
-    - name:  PHP UK Conference
-      location: London, UK
-      url: http://www.codemash.org/
-      date: 18th & 19th February 2016
+      talk: Whirlwind tour through the HTTP2 spec
+      slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec-2
 
 - year: 2015
   conferences:
