@@ -1,14 +1,18 @@
 # Site settings
 title: codestars.eu
 email: ole.michaelis@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
+description: >
+  Personal homepage of Ole Michaelis – Working @Jimdo,
+  curator of @socodedconf and @slidrio. Passionate Software Engineer.
+  I ♥️ elixir, ruby, node, metrics, NoSQL and all bleeding edge stuff!
 url: "http://codestars.eu" # the base hostname & protocol for your site
-twitter_username: CodeStars
-github_username:  nesQuick
+
+author:
+  twitter: CodeStars
+twitter:
+  username: CodeStars
+github:
+  username:  nesQuick
 
 permalink: /:year/:title
 
@@ -17,3 +21,6 @@ exclude:
   - example
 
 highlighter: rouge
+
+gems:
+  - jekyll-seo-tag
