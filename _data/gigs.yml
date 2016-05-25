@@ -1,6 +1,15 @@
 - year: Upcoming
   conferences:
-  
+    - name: Full Stack Fest
+      location: Barcelona, Spain
+      url: https://2016.fullstackfest.com/
+      date: 5th - 9th September 2016
+
+    - name: Voxxed Days Thessaloniki
+      location: Thessaloniki, Greece
+      url: https://voxxeddays.com/
+      date: 21st October 2016
+
 - year: 2016
   conferences:
     - name:  PHP UK Conference
@@ -8,7 +17,7 @@
       url: http://phpconference.co.uk/
       talk: Whirlwind tour through the HTTP2 spec
       slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec-3
-      
+
     - name: CodeMash 2.0.1.6
       location: Sandusky, OH, USA
       url: http://www.codemash.org/
@@ -22,19 +31,19 @@
       url: http://berlin2015.codemotionworld.com/
       talk: Whirlwind tour through the HTTP2 spec
       slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec-1
-      
+
     - name: SymfonyLive Berlin
       location: Berlin, Germany
       url: http://berlin2015.live.symfony.com/
       talk: Robuste und Skalierbare Anwendungen durch Verteilte Systeme
       slides: https://slidr.io/nesQuick/robuste-und-skalierbare-anwendungen-durch-verteilte-systeme
-      
+
     - name: code.talks
       location: Hamburg, Germany
       url: http://www.codetalks.de/
       talk: Whirlwind tour through the HTTP2 spec
       slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec
-      
+
     - name: Joy of Coding
       location: Rotterdam, Netherlands
       url: http://joyofcoding.org/
