@@ -1,9 +1,19 @@
 - year: Upcoming
   conferences:
+    - name: Elixir & Phoenix Conf
+      location: orlando, FL, USA
+      url: http://www.elixirconf.com/
+      date: 1st & 2nd September 2016
+      
     - name: Full Stack Fest
       location: Barcelona, Spain
       url: https://2016.fullstackfest.com/
       date: 5th - 9th September 2016
+      
+    - name: code.talks 2016
+      location: Hamburg, Germany
+      url: https://www.codetalks.de/
+      date: 29th - 30th September 2016
 
     - name: Voxxed Days Thessaloniki
       location: Thessaloniki, Greece
