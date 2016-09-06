@@ -20,7 +20,7 @@
       slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec-4
 
     - name: Elixir & Phoenix Conf
-      location: orlando, FL, USA
+      location: Orlando, FL, USA
       url: http://www.elixirconf.com/
       talk: Implementing binary protocols with Elixir
       slides: https://slidr.io/nesQuick/implementing-binary-protocols-with-elixir
