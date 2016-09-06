@@ -1,14 +1,5 @@
 - year: Upcoming
   conferences:
-    - name: Elixir & Phoenix Conf
-      location: orlando, FL, USA
-      url: http://www.elixirconf.com/
-      date: 1st & 2nd September 2016
-      
-    - name: Full Stack Fest
-      location: Barcelona, Spain
-      url: https://2016.fullstackfest.com/
-      date: 5th - 9th September 2016
       
     - name: code.talks 2016
       location: Hamburg, Germany
@@ -22,6 +13,18 @@
 
 - year: 2016
   conferences:
+    - name: Full Stack Fest
+      location: Barcelona, Spain
+      url: https://2016.fullstackfest.com/
+      talk: Whirlwind tour through the HTTP2 spec
+      slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec-4
+
+    - name: Elixir & Phoenix Conf
+      location: orlando, FL, USA
+      url: http://www.elixirconf.com/
+      talk: Implementing binary protocols with Elixir
+      slides: https://slidr.io/nesQuick/implementing-binary-protocols-with-elixir
+
     - name:  PHP UK Conference
       location: London, UK
       url: http://phpconference.co.uk/
