@@ -18,6 +18,7 @@
       url: https://2016.fullstackfest.com/
       talk: Whirlwind tour through the HTTP2 spec
       slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec-4
+      # https://www.youtube.com/watch?v=CThgMRXS8w8
 
     - name: Elixir & Phoenix Conf
       location: Orlando, FL, USA
@@ -30,6 +31,7 @@
       url: http://phpconference.co.uk/
       talk: Whirlwind tour through the HTTP2 spec
       slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec-3
+      # https://www.youtube.com/watch?v=sRo98KNmBuM
 
     - name: CodeMash 2.0.1.6
       location: Sandusky, OH, USA
