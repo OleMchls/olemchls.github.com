@@ -1,6 +1,6 @@
 - year: Upcoming
   conferences:
-      
+
     - name: code.talks 2016
       location: Hamburg, Germany
       url: https://www.codetalks.de/
@@ -18,7 +18,7 @@
       url: https://2016.fullstackfest.com/
       talk: Whirlwind tour through the HTTP2 spec
       slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec-4
-      # https://www.youtube.com/watch?v=CThgMRXS8w8
+      video: https://www.youtube.com/watch?v=CThgMRXS8w8
 
     - name: Elixir & Phoenix Conf
       location: Orlando, FL, USA
@@ -31,7 +31,7 @@
       url: http://phpconference.co.uk/
       talk: Whirlwind tour through the HTTP2 spec
       slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec-3
-      # https://www.youtube.com/watch?v=sRo98KNmBuM
+      video: https://www.youtube.com/watch?v=sRo98KNmBuM
 
     - name: CodeMash 2.0.1.6
       location: Sandusky, OH, USA
@@ -85,21 +85,23 @@
       talk: Programming Motherfucker or how I rediscovered my hacker spirit
       slides: http://slidr.io/nesQuick/programming-motherfucker-or-how-i-rediscovered-my-hacker-spirit
       url: http://milan.codemotionworld.com/
-      # <li><a href="https://www.youtube.com/watch?v=Dbs5o55b208">Video</a></li>
+      video: https://www.youtube.com/watch?v=Dbs5o55b208
 
     - name: RubyConf
       location: San Diego, CA, USA
       talk: Chat Robots Next Level Tooling
-      slides: http://slidr.io/nesQuick/next-level-chat-robots-1#1
+      slides: http://slidr.io/nesQuick/next-level-chat-robots-1
       url: http://rubyconf.org/
-      # <li><a href="http://www.confreaks.com/videos/4834-RubyConf2014-chat-robots-next-level-tooling">Video</a></li>
+      video: http://www.confreaks.com/videos/4834-RubyConf2014-chat-robots-next-level-tooling
 
     - name: IPC 2014
       location: Munich, Germany
       url: http://phpconference.com/2014
       talk: "Next Level: DevOps"
       slides: http://slidr.io/nesQuick/next-level-devops-4
-      # <li><a href="http://phpmagazin.de/videos/ole-michaelis-devops-177500">Interview about DevOps</a></li>
+      more:
+        - label: Interview with phpmagazin
+          url: http://phpmagazin.de/videos/ole-michaelis-devops-177500
 
     - name: IPC 2014
       location: Munich, Germany
@@ -123,7 +125,11 @@
       url: http://www.rubyday.it/
       talk: Service Oriented Architecture for Robust and Scalable Systems
       slides: http://slidr.io/nesQuick/service-oriented-architecture-for-robust-and-scalable-systems-2
-      # <li>Videos: <a href="https://www.youtube.com/watch?v=SYr-XgybLG0&amp;index=1&amp;list=PL5ImBN21eKvbQ6kH6WCAqj1QqgusGsiO0">SOA</a>, <a href="https://www.youtube.com/watch?v=kTrSHOJxeLw&amp;index=9&amp;list=PL5ImBN21eKvbQ6kH6WCAqj1QqgusGsiO0">12 Factor</a></li>
+      more:
+        - label: SOA Talk video
+          url: https://www.youtube.com/watch?v=SYr-XgybLG0&amp;index=1&amp;list=PL5ImBN21eKvbQ6kH6WCAqj1QqgusGsiO0
+        - label: 12 Factor video
+          url: https://www.youtube.com/watch?v=kTrSHOJxeLw&amp;index=9&amp;list=PL5ImBN21eKvbQ6kH6WCAqj1QqgusGsiO0
 
     - name: Ruby Day Italy
       location: H-Farm, Italy
@@ -165,14 +171,16 @@
       talk: Queue it! What job queues can do for you!
       slides: http://slidr.io/nesQuick/queue-it-what-job-queues-can-do-for-you-1
       url: http://www.phpconference.nl/
-      # <li><a href="http://joind.in/talk/view/10866">Audience Feedback</a></li>
+      more:
+        - label: Audience Feedback
+          url: http://joind.in/talk/view/10866
 
     - name: OSDC
       location: Berlin, Germany
       talk: Make it SOLID. Software Architecture for System Administrators
       slides: http://slidr.io/nesQuick/make-it-solid-software-architecture-for-system-administrators-1
       url: http://www.netways.de/osdc/osdc2014/overview/
-      # <li><a href="https://www.youtube.com/watch?v=r0Px7FI1-84">Video</a></li>
+      video: https://www.youtube.com/watch?v=r0Px7FI1-84
 
     - name: PHPNE
       location: Newcastle, England
@@ -190,23 +198,25 @@
       location: Louisville, KY, USA
       talk: Queue it! What job queues can do for you!
       slides: http://slidr.io/nesQuick/queue-it-what-job-queues-can-do-for-you
-      # <li><a href="http://www.infoq.com/presentations/job-queue-gearman-beanstalkd">Video</a></li>
       url: http://www.codepalousa.com/
+      video: http://www.infoq.com/presentations/job-queue-gearman-beanstalkd
 
     - name: PHP UK Conference
       location: London, England
       talk: Service Oriented Architecture for Robust and Scalable Systems
       slides: http://slidr.io/nesQuick/service-oriented-architecture-for-robust-and-scalable-systems
       url: http://phpconference.co.uk/
-      # <li><a href="https://www.youtube.com/watch?v=ZcHV4nc_DTM&amp;list=PL_aPVo2HeGF-7o9SPO5arFrAaU8bcIjba&amp;index=32">Video</a></li>
-      # <li><a href="http://joind.in/talk/view/10689">Audience Feedback</a></li>
+      video: https://www.youtube.com/watch?v=ZcHV4nc_DTM&amp;list=PL_aPVo2HeGF-7o9SPO5arFrAaU8bcIjba&amp;index=32
+      more:
+        - label: Audience Feedback
+          url: http://joind.in/talk/view/10689
 
     - name: Take Off Conference
       location: Lille, France
       talk: "Next Level: DevOps"
       slides: http://slidr.io/nesQuick/next-level-devops-2
       url: http://takeoffconf.com/2014"
-      # <li><a href="http://www.youtube.com/watch?v=AvUzov1_VCI">Video</a></li>
+      video: http://www.youtube.com/watch?v=AvUzov1_VCI
 
 - year: 2013
   conferences:
@@ -221,7 +231,7 @@
       talk: Make it SOLID - Software Architecture for System Administrators
       slides: http://slidr.io/nesQuick/make-it-solid-software-architecture-for-system-administrators
       url: http://webtechcon.de/
-      # <li><a href="http://www.youtube.com/watch?v=unU7WF3E4No">Video</a></li>
+      video: http://www.youtube.com/watch?v=unU7WF3E4No
 
     - name: Codemotion
       location: Madrid, Spain
@@ -236,7 +246,7 @@
 
     - name: ThatConference
       location: Wisconsin Dells, USA
-      talk: Packing skills to be a devops - and why it&#39;s a good thing
+      talk: Packing skills to be a devops - and why it's a good thing
       slides: http://slidr.io/nesQuick/packing-skills-to-be-a-devops-and-why-thats-a-good-thing
       url: http://www.thatconference.com/
 
@@ -245,19 +255,21 @@
       talk: Automated deployments with robots
       slides: http://slidr.io/nesQuick/automated-deployments-with-robots-2
 
-# name: DevCon June
-# location: Tel Aviv, Israel
-# talk: What&#39;s wrong with php?
-# slides: http://slidr.io/nesQuick/whats-wrong-with-php-3
-# url: http://devcon-june2013.events.co.il/
-# <li><a href="http://devcon-june2013.events.co.il/presentations/882-whats-wrong-with-php">Talk Page</a></li>
-# <li><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=jBByC28N1C8">Video</a></li>
-# <li>Video: <a href="http://www.youtube.com/watch?v=RERjqWWkDIc">Surf Geeks</a></li>
-# <li>Video: <a href="http://www.youtube.com/watch?v=vRiNHEaC5_4">DevconTLV June 2013 - Official Clip</a></li>
+    - name: DevCon June
+      location: Tel Aviv, Israel
+      talk: What's wrong with php?
+      slides: http://slidr.io/nesQuick/whats-wrong-with-php-3
+      url: http://devcon-june2013.events.co.il/
+      video: http://www.youtube.com/watch?feature=player_embedded&amp;v=jBByC28N1C8
+      more:
+        - label: Surf Geeks
+          url: http://www.youtube.com/watch?v=RERjqWWkDIc
+        - label: DevconTLV June 2013 - Official Clip
+          url: http://www.youtube.com/watch?v=vRiNHEaC5_4
 
     - name: PHP UG Berlin
       location: Berlin, Germany
-      talk: What&#39;s wrong with php?
+      talk: What's wrong with php?
       slides: http://slidr.io/nesQuick/whats-wrong-with-php-2
       url: http://www.bephpug.de/
 
@@ -266,26 +278,30 @@
       talk: Automated deployments with robots
       slides: http://slidr.io/nesQuick/automated-deployments-with-robots-1
       url: http://scotlandjs.com/
-      # <li><a href="https://vimeo.com/69454968">Video</a></li>
-      # <li>Audience Notes: <a href="http://decadecity.net/blog/2013/05/09/ole-michaelis-automated-deployments-with-robots">1</a></li>
+      video: https://vimeo.com/69454968
+      more:
+        - label: Audience Notes
+          url: http://decadecity.net/blog/2013/05/09/ole-michaelis-automated-deployments-with-robots
 
-# name: PHPunconference Europe
-# location: Berlin, Germany
-# <li>Talks:
-# <ul>
-# <li>What&#39;s wrong with PHP?</li>
-# <li>10 reasons why ruby rocks</li></li>
-# url: http://www.phpuceu.org/
+    - name: PHPunconference Europe
+      location: Berlin, Germany
+      talk: What's wrong with PHP?
+      url: http://www.phpuceu.org/
+
+    - name: PHPunconference Europe
+      location: Berlin, Germany
+      talk: 10 reasons why ruby rocks
+      url: http://www.phpuceu.org/
 
     - name: 4Developers
       location: Warsaw, Poland
-      talk: What&#39;s wrong with PHP?
+      talk: What's wrong with PHP?
       slides: http://slidr.io/nesQuick/whats-wrong-with-php-1
       url: http://2013.4developers.org.pl/en/
 
     - name: PHP user group Hamburg
       location: Hamburg, Germany
-      talk: What&#39;s wrong with PHP?
+      talk: What's wrong with PHP?
       slides: http://slidr.io/nesQuick/whats-wrong-with-php-1
       url: http://www.phpughh.de/
 
@@ -294,7 +310,7 @@
       talk: Automated deployments with robots
       slides: http://slidr.io/nesQuick/automated-deployments-with-robots
       url: http://www.meetup.com/hamburg-js/events/72891992/
-      # <li><a href="http://lecture2go.uni-hamburg.de/veranstaltungen/-/v/14758">Video</a></li>
+      video: http://lecture2go.uni-hamburg.de/veranstaltungen/-/v/14758
 
     - name: Symfony user group Hamburg
       location: Hamburg, Germany
@@ -307,14 +323,16 @@
       talk: What’s wrong with php?
       slides: http://slidr.io/nesQuick/whats-wrong-with-php
       url: https://fosdem.org/2013/schedule/speaker/ole_michaelis/
-      # <li><a href="http://joind.in/talk/view/8070">Audience Feedback</a></li>
+      more:
+        - label: Audience Feedback
+          url: http://joind.in/talk/view/8070
 
     - name: Take Off Conference
       location: Lille, France
       talk: Automated deployments with robots
       slides: http://slidr.io/nesQuick/automated-deployments-with-robots
       url: http://takeoffconf.com/
-      # <li><a href="http://www.youtube.com/watch?v=3_G9mfJkMuM&amp;list=PLMz7qMiFSV93QQUFSDRFWPBcdGHfkySqN">Video</a></li>
+      video: http://www.youtube.com/watch?v=3_G9mfJkMuM&amp;list=PLMz7qMiFSV93QQUFSDRFWPBcdGHfkySqN
 
 - year: 2012
   conferences:
