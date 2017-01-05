@@ -1,18 +1,24 @@
 - year: Upcoming
   conferences:
-
-    - name: Voxxed Days Thessaloniki
-      location: Thessaloniki, Greece
-      url: https://voxxeddays.com/
-      date: 21st October 2016
       
     - name: CodeMash 2017
       location: Sandusky, OH, USA
       url: http://www.codemash.org
       date: 10th - 13th January 2017
+      
+    - name: Voxxed Days Athens
+      location: Athens, Greece
+      url: https://voxxeddays.com/
+      date: 18th – 20th May 2017
 
 - year: 2016
   conferences:
+  
+    - name: Voxxed Days Thessaloniki
+      location: Thessaloniki, Greece
+      url: https://voxxeddays.com/
+      talk: Whirlwind tour through the HTTP2 spec
+      slides: https://slidr.io/nesQuick/whirlwind-tour-through-the-http2-spec-4
   
     - name: code.talks 2016
       location: Hamburg, Germany
