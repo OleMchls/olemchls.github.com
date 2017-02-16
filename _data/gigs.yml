@@ -1,11 +1,6 @@
 - year: Upcoming
   conferences:
       
-    - name: CodeMash 2017
-      location: Sandusky, OH, USA
-      url: http://www.codemash.org
-      date: 10th - 13th January 2017
-      
     - name: Voxxed Days Athens
       location: Athens, Greece
       url: https://voxxeddays.com/
@@ -13,6 +8,12 @@
 
 - year: 2016
   conferences:
+  
+    - name: CodeMash 2017
+      location: Sandusky, OH, USA
+      url: http://www.codemash.org
+      talk: Implementing binary protocols with Elixir
+      slides: https://slidr.io/nesQuick/implementing-binary-protocols-with-elixir-1
   
     - name: Voxxed Days Thessaloniki
       location: Thessaloniki, Greece
