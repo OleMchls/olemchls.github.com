@@ -1,10 +1,20 @@
 - year: Upcoming
   conferences:
+  
+    - name: ElixirConf.EU
+      location: Barcelona, Spain
+      url: http://www.elixirconf.eu
+      date: 4th & 5th May 2017
       
     - name: Voxxed Days Athens
       location: Athens, Greece
       url: https://voxxeddays.com/
       date: 18th – 20th May 2017
+      
+    - name: \#fstoco
+      location: Toronto, Canada
+      url: http://2017.fsto.co
+      date: 23rd – 24th October 2017
 
 - year: 2016
   conferences:
