@@ -1,12 +1,17 @@
 - year: Upcoming
   conferences:
-     
+
+    - name: code.talks 2017
+      location: Hamburg, Germany
+      url: https://www.codetalks.de
+      date: 28td - 29th September 2017
+
     - name: Full Stack Toronto
       location: Toronto, Canada
       url: http://2017.fsto.co
       date: 23rd – 24th October 2017
 
-- year: 2016
+- year: 2017
   conferences:
   
     - name: Voxxed Days Athens
@@ -27,6 +32,9 @@
       url: http://www.codemash.org
       talk: Implementing binary protocols with Elixir
       slides: https://slidr.io/nesQuick/implementing-binary-protocols-with-elixir-1
+      
+- year: 2016
+  conferences:
   
     - name: Voxxed Days Thessaloniki
       location: Thessaloniki, Greece
