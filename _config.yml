@@ -1,11 +1,11 @@
 # Site settings
-title: codestars.eu
+title: mchls.works
 email: ole.michaelis@gmail.com
 description: >
   Personal homepage of Ole Michaelis – Working @DNSimple,
   curator of @socodedconf and @slidrio. Passionate Software Engineer.
   I ♥️ elixir, ruby, node, metrics, NoSQL and all bleeding edge stuff!
-url: "http://codestars.eu" # the base hostname & protocol for your site
+url: "http://mchls.works" # the base hostname & protocol for your site
 
 author:
   twitter: olemchls
