@@ -116,7 +116,7 @@ Complete overview [here](/speaking.html)
 
 ### Profiles
 [GitHub](https://github.com/olemchls)<br/>
-[Twitter](http://twitter.com/codestars)<br/>
+[Twitter](http://twitter.com/olemchls)<br/>
 [slidr.io](https://slidr.io/olemchls)<br/>
 [LinkedIn](http://www.linkedin.com/pub/ole-michaelis/5a/a7/827)<br/>
 
