@@ -31,7 +31,7 @@ As part of the Design Team I'm responsible for running, maintaining and enhancin
 * App.me *App discovery*
 
 ##### Side projects
-* Hubot for jabber/xmpp developer group chat (CoffeeScript) [1](https://github.com/github/hubot/pull/344) [2](https://github.com/github/hubot-scripts/pulls/nesQuick?direction=desc&page=1&sort=created&state=closed)
+* Hubot for jabber/xmpp developer group chat (CoffeeScript) [1](https://github.com/github/hubot/pull/344) [2](https://github.com/github/hubot-scripts/pulls/olemchls?direction=desc&page=1&sort=created&state=closed)
  * [Scalarium plugin](https://github.com/github/hubot-scripts/pull/450) // [Travis CI build notifications](https://github.com/github/hubot-scripts/pull/556) // [spark plugin](https://github.com/github/hubot-scripts/pull/555) // [github push/commit hook notifications](https://github.com/github/hubot-scripts/pull/540)
 * Arduino for police lights if build failed and door buzzer HTTP api.
 
@@ -43,8 +43,8 @@ As part of the Design Team I'm responsible for running, maintaining and enhancin
 * WestWars (1.1 Million players registered)
 
 ##### Side projects
-* [InnoGames GameJam #2](https://github.com/nesQuick/InnoGames-GameJam--2)
-* [TDD Trainings](https://github.com/nesQuick/Commander-PHP)
+* [InnoGames GameJam #2](https://github.com/olemchls/InnoGames-GameJam--2)
+* [TDD Trainings](https://github.com/olemchls/Commander-PHP)
 * RTS Prototype *Multiplayer tank game* with node.js, socket.io, HTML5, and canvas.
 
 #### K-LINE Praxiscomputer GmbH - IT Service Engineer
@@ -59,7 +59,7 @@ As part of the Design Team I'm responsible for running, maintaining and enhancin
 * CI Systems and tools (Travis CI, Shipcloud, Jenkins)
 * Basic knowledge of search engines (Elasticsearch, solr, sphinx)
 * Webservers (Apache, nginx, php-fpm, puma, unicorn, node)
-* [Shell and *nix (bash, zsh, Ubuntu, Debian)](https://github.com/nesQuick/dotfiles)
+* [Shell and *nix (bash, zsh, Ubuntu, Debian)](https://github.com/olemchls/dotfiles)
 
 ### Freetime / Part time projects
 * [slidr.io](http://slidr.io) - Hassle free slidedeck hosting
@@ -76,13 +76,13 @@ As part of the Design Team I'm responsible for running, maintaining and enhancin
   * Self-written framework
   * Just within 4 month
 * Organizing User Groups like [phpughh.de](http://phpughh.de), [RUGHH](http://hamburg.onruby.de/) and currently: [hh.ex](https://github.com/hh-ex/planning)
-* [Elixir HPACK implementation](https://github.com/nesQuick/elixir-hpack)
-* [Librato Metrics PHP Client](https://github.com/nesQuick/PHP-Metrics-Client)
+* [Elixir HPACK implementation](https://github.com/olemchls/elixir-hpack)
+* [Librato Metrics PHP Client](https://github.com/olemchls/PHP-Metrics-Client)
 * [Most installed Atom word-count plugin](https://atom.io/packages/wordcount)
-* [TrafficCop PHP Client](https://github.com/nesQuick/TrafficCophp)
-* [ByteBuffer *node.js-like buffers for PHP*](https://github.com/nesQuick/ByteBuffer)
-* [Vagrant setup for packagist.org](https://github.com/nesQuick/packagist)
-* [Smaller contributions to Symfony2](https://github.com/nesQuick/symfony), [and puma](https://github.com/puma/puma/commit/5e95791ccaefdf8f79287fcb12b7c40115f392bb)
+* [TrafficCop PHP Client](https://github.com/olemchls/TrafficCophp)
+* [ByteBuffer *node.js-like buffers for PHP*](https://github.com/olemchls/ByteBuffer)
+* [Vagrant setup for packagist.org](https://github.com/olemchls/packagist)
+* [Smaller contributions to Symfony2](https://github.com/olemchls/symfony), [and puma](https://github.com/puma/puma/commit/5e95791ccaefdf8f79287fcb12b7c40115f392bb)
 
 ### Conferences
 
@@ -90,7 +90,7 @@ As part of the Design Team I'm responsible for running, maintaining and enhancin
 * JSConf.eu
 * Elixir Conf
 * FunConf III
-* [Nodecopter Berlin 2012](https://github.com/nesQuick/nodecopter-hacks)
+* [Nodecopter Berlin 2012](https://github.com/olemchls/nodecopter-hacks)
 
 #### Talks given
 Some highlights:
@@ -105,7 +105,7 @@ Some highlights:
 Complete overview [here](/speaking.html)
 
 ### Honors and Awards
-* [Instructor for trainees regarding to german laws](https://github.com/nesQuick/robot-fruit-hunt)
+* [Instructor for trainees regarding to german laws](https://github.com/olemchls/robot-fruit-hunt)
 * Software Developer - IHK Hamburg 2012
 * IT Specialist - IHK Hamburg 2009
 
@@ -115,21 +115,21 @@ Complete overview [here](/speaking.html)
 * 2 Weeks students exchange at RMU Chicago in 2010
 
 ### Profiles
-[GitHub](https://github.com/nesQuick)<br/>
+[GitHub](https://github.com/olemchls)<br/>
 [Twitter](http://twitter.com/codestars)<br/>
-[slidr.io](https://slidr.io/nesQuick)<br/>
+[slidr.io](https://slidr.io/olemchls)<br/>
 [LinkedIn](http://www.linkedin.com/pub/ole-michaelis/5a/a7/827)<br/>
 
 ### Public Key:
 
 ```bash
-ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQByiQjXoWyyugEUfu/Nuzqxr6R4fHjLey1jrABe30FE2ucXNw0ZZtZuLWpJTbVr+s/IXyPMsWugOS+YQEAiRiUV6mFAk7OzLN6UxzDd/scxO4GuS2iOeEDFb4cyw1cHGE2GVn0Wq/I4ZEeJs/M010rF8xnaJmhhAWBGxBGJ3x1aBHnH22ae0OOVjDOE+AgHWBm1vo2SFoQLqDAkXt0+SFRdTtTzilepxgbXUwoPbFlR2Leo6GNwRosggEZfa0FU7LFedu2NXNVBDUh1zs6ZGmZzK+DgjQr+xmJePxEQsX9r6bulpYek9xsWfdDY5Lo2Gqi2BsvrfxuH9ATpPlr0paEt ole-nesQuick
+ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQByiQjXoWyyugEUfu/Nuzqxr6R4fHjLey1jrABe30FE2ucXNw0ZZtZuLWpJTbVr+s/IXyPMsWugOS+YQEAiRiUV6mFAk7OzLN6UxzDd/scxO4GuS2iOeEDFb4cyw1cHGE2GVn0Wq/I4ZEeJs/M010rF8xnaJmhhAWBGxBGJ3x1aBHnH22ae0OOVjDOE+AgHWBm1vo2SFoQLqDAkXt0+SFRdTtTzilepxgbXUwoPbFlR2Leo6GNwRosggEZfa0FU7LFedu2NXNVBDUh1zs6ZGmZzK+DgjQr+xmJePxEQsX9r6bulpYek9xsWfdDY5Lo2Gqi2BsvrfxuH9ATpPlr0paEt ole-olemchls
 ```
 
 ### Awesome Decks
 <!-- <script async class="speakerdeck-embed" data-id="600b86a7a8884e0ea0ae7677381ba0b6" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> -->
 
-<!-- src="http://dev.slidr.io:5000/nesQuick/fgdfgdfgdfgdf?embed" -->
+<!-- src="http://dev.slidr.io:5000/olemchls/fgdfgdfgdfgdf?embed" -->
 <iframe
   allowfullscreen="true"
   mozallowfullscreen="true"
