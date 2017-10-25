@@ -1,18 +1,20 @@
 - year: Upcoming
   conferences:
 
-    - name: code.talks 2017
-      location: Hamburg, Germany
-      url: https://www.codetalks.de
-      date: 28td - 29th September 2017
-
+- year: 2017
+  conferences:
+  
     - name: Full Stack Toronto
       location: Toronto, Canada
       url: http://2017.fsto.co
-      date: 23rd – 24th October 2017
-
-- year: 2017
-  conferences:
+      talk: Get your fancy pants on with Elixir
+      slides: https://slidr.io/nesQuick/get-your-fancy-pants-on-with-elixir
+  
+    - name: code.talks 2017
+      location: Hamburg, Germany
+      url: https://www.codetalks.de
+      talk: Curio Collection of Web Protocols
+      slides: https://slidr.io/nesQuick/curio-collection-of-web-protocols
   
     - name: Voxxed Days Athens
       location: Athens, Greece
