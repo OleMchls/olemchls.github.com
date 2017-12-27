@@ -22,12 +22,12 @@ So here am I summarizing my first year of working with DNSimple. Whenever I ment
 ## FAQ
 
 ### Where is your company based?
-We have no headquartered, the company DNSimple is a US company. But the team is globally distributed across six different countries.
+We have no headquarter, the company _DNSimple_ is a US company. But the team is globally distributed across six different countries.
 
 ### So you are working from home?
 TL;DR: Sometimes.
 
-Some month I prefer staying at home, but I quickly realize I'm not that productive and staying at home the entire day drains my mood. I also work from various co-working spaces, some month I spend a more or less _regular_ working day there. Others I'm only there to attend a conference call.
+It depends some month I prefer staying at home, but I quickly realize I'm not that productive and staying at home the entire day drains my mood. I also work from various co-working spaces, some month I spend a more or less _regular_ working day there. Others I'm only there to attend a conference call.
 
 But my most favorite places are coffee shops, I wrote an article about [the dos and don'ts of working from coffee shops](https://blog.dnsimple.com/2017/03/working-in-coffeeshops/). Coffeeshops are great because you have people around you it's a busy environment but allows focus (for me).
 
