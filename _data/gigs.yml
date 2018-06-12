@@ -1,6 +1,26 @@
 - year: Upcoming
   conferences:
 
+- year: 2018
+  conferences:
+
+    - name: TakeOff Conf 2018
+      location: Lille, France
+      url: https://www.takeoffconf.io
+      talk: Get your fancy pants on with Elixir
+      slides: https://slidr.io/nesQuick/get-your-fancy-pants-on-with-elixir-1
+
+    - name: Ruby Unconference
+      location: Hamburg, Germany
+      url: http://rubyunconf.eu/
+      talk: It looks like ruby but it does not quack!
+      
+    - name: Tech Camp Hamburg
+      location: Hamburg, Germany
+      url: https://techcamp.hamburg
+      talk: Get your fancy pants on with Elixir
+
+
 - year: 2017
   conferences:
   
